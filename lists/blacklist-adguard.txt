@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list by @chillipal
-! Updated: 2020-07-11 15:21:32 +0000
+! Updated: 2020-07-11 18:42:13 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -6238,7 +6238,6 @@
 ||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
-||cert-test.sandbox.google.com^
 ||video-stats.video.google.com^
 ||ads.google.com^
 ||adservice.google.com^
@@ -6255,6 +6254,7 @@
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||clientmetrics-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||mobilecrashreporting.googleapis.com^
 ||attributiontrackingga.googlecode.com^
 ||blaaaa12.googlecode.com^
@@ -13495,7 +13495,6 @@
 ||cookiex.ngd.yahoo.com^
 ||analytics.query.yahoo.com^
 ||geo.query.yahoo.com^
-||onepush.query.yahoo.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||lh.secure.yahoo.com^
 ||c2shb.ssp.yahoo.com^
