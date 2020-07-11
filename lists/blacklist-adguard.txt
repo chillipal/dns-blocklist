@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list by @chillipal
-! Updated: 2020-07-11 19:10:49 +0000
+! Updated: 2020-07-11 23:35:10 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -494,6 +494,7 @@
 ||sci.intuit.ca^
 ||oascentral.itbusiness.ca^
 ||ad.jamster.ca^
+||go.kiji.ca^
 ||sqdljj.kijiji.ca^
 ||tmx.kijiji.ca^
 ||fsm.lapresse.ca^
@@ -3951,17 +3952,6 @@
 ||stats.byjus.com^
 ||webcare.byside.com^
 ||p3-tt.byteimg.com^
-||abtest-va-tiktok.byteoversea.com^
-||frontier.byteoversea.com^
-||gecko-sg.byteoversea.com^
-||log.byteoversea.com^
-||log15.byteoversea.com^
-||maliva-mcs.byteoversea.com^
-||mon.byteoversea.com^
-||sgali-mcs.byteoversea.com^
-||v16-ad.byteoversea.com^
-||xlog.byteoversea.com^
-||xlog-va.byteoversea.com^
 ||www.bywebsite.com^
 ||adg.bzgint.com^
 ||bdjj.bzr99.com^
@@ -6570,7 +6560,6 @@
 ||msg-em.hismarttv.com^
 ||unified-ter-na.hismarttv.com^
 ||adserver.hispanoclick.com^
-||secure.hiss3lark.com^
 ||ea.histoiredor.com^
 ||sourcepoint-mms.history.com^
 ||spapi.historyhide.com^
@@ -12486,7 +12475,6 @@
 ||promo.ulust.com^
 ||gf.umenglog.com^
 ||log.umsns.com^
-||hnwkuwwi.umzzaftkqgx.com^
 ||data.unacademy.com^
 ||www.unblockvid.com^
 ||a.unbounce.com^
@@ -12516,7 +12504,6 @@
 ||www.uniqueinternettexasholdempoker.com^
 ||asp.unitedconsumers.com^
 ||tracking.unitednaturals.com^
-||ads.internal.unity3d.com^
 ||linux.unitys3d.com^
 ||syndication.universalnightlife.com^
 ||ads-pd.universalsports.com^
@@ -34850,7 +34837,6 @@
 ||unitedseo.com^
 ||unitethecows.com^
 ||unity3d.com^
-||unityads.com^
 ||universal-traffic.com^
 ||universalcookie.com^
 ||universalsearches.com^
@@ -41629,6 +41615,8 @@
 ||cookiemonster.is^
 ||modernus.is^
 ||teljari.is^
+@@|external-preview.redd.it^
+@@|watch.redd.it^
 ||*.it^
 ||id.google.jo^
 ||petra.nic.gov.jo^
@@ -42123,6 +42111,7 @@
 ||qwertize.link^
 ||redouwhy.link^
 ||shink.link^
+||sng.link^
 ||stompebi.link^
 ||surefire.link^
 ||test-app.link^
@@ -43791,7 +43780,6 @@
 ||api.agoda.com.edgekey.net^
 ||insights.alibaba.com.edgekey.net^
 ||metrics.att.com.edgekey.net^
-||log.byteoversea.com.edgekey.net^
 ||metrics.cvshealth.com.edgekey.net^
 ||metrics.fidelity.com.edgekey.net^
 ||metrics.hackerrank.com.edgekey.net^
@@ -44410,7 +44398,6 @@
 ||open.oneplus.net^
 ||analytics.cloud.online.net^
 ||stats.cloud.online.net^
-||h-sdk.online-metrix.net^
 ||vw.onlinia.net^
 ||cdn.opencmp.net^
 ||stats.openvpn.net^
@@ -46480,6 +46467,7 @@
 ||rtox.net^
 ||ru.net^
 ||ruad.net^
+||rubiconproject.net^
 ||rudsools.net^
 ||rufadses.net^
 ||runkao.net^
@@ -50232,6 +50220,7 @@
 ||dsp.wtf^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^
 ||thri.xxx^
+@@||gitcdn.xyz^
 ||*.xyz^
 ||stats.absol.co.za^
 ||advert.ananzi.co.za^
