@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list by @chillipal
-! Updated: 2020-07-18 18:38:30 +0000
+! Updated: 2020-07-18 20:05:48 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -8832,7 +8832,9 @@
 ||smetrics.global.nba.com^
 ||gdyn.nba.com^
 ||smetrics.nba.com^
+||links.email.nbc.com^
 ||links.nbc.com^
+||link.nbcadmin.com^
 ||aamt.nbcnews.com^
 ||geoip.nbcnews.com^
 ||scrooge.nbcsandiego.com^
@@ -8843,6 +8845,7 @@
 ||oimg.nbcuni.com^
 ||osimg.nbcuni.com^
 ||pix.nbcuni.com^
+||link.nbcuniversalmedia.com^
 ||ext.apbox.nbp-corp.com^
 ||gdyn.ncaa.com^
 ||sanalytics.ncaa.com^
