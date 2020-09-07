@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list by @chillipal
-! Updated: 2020-09-06 07:15:11 +0000
+! Updated: 2020-09-07 02:19:06 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -11,7 +11,6 @@
 ||mysp.ac^
 ||say.ac^
 ||tube.ac^
-||ap76rmx3.accountant^
 ||id.google.ad^
 ||bonzai.ad^
 ||brand.ad^
@@ -406,8 +405,6 @@
 ||trafficconverter.biz^
 ||trafficfactory.biz^
 ||trafic-booster.biz^
-||tulula.biz^
-||umrefebaot.biz^
 ||vcdn.biz^
 ||vn88.biz^
 ||vpnfortorrents.biz^
@@ -556,6 +553,7 @@
 ||hipfowlzeal.cam^
 ||mangelobsolden.cam^
 ||roostsflewcat.cam^
+||rottilderum.cam^
 ||beenmeekwarmth.casa^
 ||buglethemfouls.casa^
 ||bussaidbag.casa^
@@ -632,7 +630,6 @@
 ||bd1.yidu.cc^
 ||008844.cc^
 ||0mr.cc^
-||114com.cc^
 ||1l1.cc^
 ||21kk.cc^
 ||272829.cc^
@@ -910,7 +907,6 @@
 ||alconbeatsi.club^
 ||aleapeapt.club^
 ||allanetmilean.club^
-||allaptair.club^
 ||allartand.club^
 ||allashail.club^
 ||allottenuy.club^
@@ -1124,6 +1120,7 @@
 ||differeditas.club^
 ||digyepnag.club^
 ||dinneredaq.club^
+||dirritorexa.club^
 ||discountryvc.club^
 ||discussiab.club^
 ||diseasonal.club^
@@ -1335,9 +1332,11 @@
 ||mineraldoubte.club^
 ||mininghub.club^
 ||ministsentr.club^
+||mmaroise.club^
 ||morderedouih.club^
 ||mortantameron.club^
 ||mplexanno.club^
+||mplexhete.club^
 ||ms3t.club^
 ||mujgirreveals.club^
 ||multationprop.club^
@@ -1456,6 +1455,7 @@
 ||protection-fixer.club^
 ||protection-phone.club^
 ||provembe.club^
+||ptiledestra.club^
 ||pyjamaican.club^
 ||qreparaguaq.club^
 ||questaurah.club^
@@ -1502,12 +1502,14 @@
 ||ridgendqwa.club^
 ||rientofficim.club^
 ||rightiescolled.club^
+||ringassum.club^
 ||riodovernprovi.club^
 ||ristmantre.club^
 ||rityalthoutei.club^
 ||rlyquantialarties.club^
 ||rmedessents.club^
 ||robjamguy.club^
+||rootstood.club^
 ||rooveysimagi.club^
 ||rriedskillear.club^
 ||rtaliseintru.club^
@@ -1611,6 +1613,7 @@
 ||tesfatheleshs.club^
 ||theationopo.club^
 ||theatrialmero.club^
+||thergoldru.club^
 ||theship.club^
 ||thomageothe.club^
 ||thorizinge.club^
@@ -1769,7 +1772,6 @@
 ||apicosdk.onemt.co^
 ||apicssdk.onemt.co^
 ||sdkstatic.onemt.co^
-||logdev.openload.co^
 ||assets.pcrl.co^
 ||analytics-q12019.pctr.co^
 ||fog.pixual.co^
@@ -2286,7 +2288,6 @@
 ||logs.51cto.com^
 ||notify.51dzt.com^
 ||m1.51kaowang.com^
-||www.51link.com^
 ||api2.51privacy.com^
 ||ad.video.51togic.com^
 ||ad.51wnl.com^
@@ -2407,15 +2408,11 @@
 ||p.99mssj.com^
 ||r.99waiyu.com^
 ||msg.api.9apps.com^
-||down2.9apps.com^
 ||logger.9apps.com^
-||portal.9apps.com^
 ||ak2.cdn.9appsdownloading.com^
 ||c4.la4.download.9appsinstall.com^
 ||c9.la4.download.9appsinstall.com^
 ||down2.download.9appsinstall.com^
-||hl-img.download.9appsinstall.com^
-||cdn.9appswin.com^
 ||rlog.9gag.com^
 ||t.9gag.com^
 ||web-t.9gag.com^
@@ -2443,7 +2440,6 @@
 ||tracking.aatkit.com^
 ||stats.aatrk.com^
 ||ads.aavv.com^
-||d.ab126.com^
 ||clarity.abacast.com^
 ||smetrics.abbvie.com^
 ||sw88.abc.com^
@@ -2667,7 +2663,6 @@
 ||sourcepoint-mms.aetv.com^
 ||gem-dev.aexp.com^
 ||www.af-market.com^
-||www.afco2go.com^
 ||vip5.afdorigin-prod-am02.afdogw.com^
 ||c.afekv.com^
 ||ext.affaire.com^
@@ -3096,6 +3091,7 @@
 ||fast-nc.appcues.com^
 ||map.appdlab.com^
 ||radar.appdlab.com^
+||analytics.api.appdynamics.com^
 ||cdn.appdynamics.com^
 ||eum-col.appdynamics.com^
 ||portal-analytics.appdynamics.com^
@@ -3329,7 +3325,6 @@
 ||chat.asiandate.com^
 ||css.asitend.com^
 ||tbapi.search.ask.com^
-||ads.ask.com^
 ||apnmedia.ask.com^
 ||tb.ask.com^
 ||m1.asklib.com^
@@ -3352,6 +3347,12 @@
 ||www.atcryp.com^
 ||track.atgstores.com^
 ||som.athenahealth.com^
+||andrqd.play.aiseet.atianqi.com^
+||dp3.play.aiseet.atianqi.com^
+||news-l.play.aiseet.atianqi.com^
+||vv.play.aiseet.atianqi.com^
+||api.poll.aiseet.atianqi.com^
+||tv.aiseet.atianqi.com^
 ||cash.atkcash.com^
 ||livestats.atlanta-airport.com^
 ||www.atlantis-asia.com^
@@ -3439,6 +3440,7 @@
 ||q.azcentral.com^
 ||sp.azcentral.com^
 ||srepdata.azcentral.com^
+||rum.azion.com^
 ||li.azstarnet.com^
 ||b1.b2b168.com^
 ||a2.b310.com^
@@ -4624,6 +4626,7 @@
 ||push.cnnindonesia.com^
 ||stats.cnnmexico.com^
 ||ads.cnpapers.com^
+||t.cnscore.com^
 ||sstats.cntraveler.com^
 ||u.cnzol.com^
 ||ads.co.com^
@@ -4984,6 +4987,7 @@
 ||wtk.db.com^
 ||api-mg2.db-ip.com^
 ||cs02-pps-drcn.dbankcdn.com^
+||ad.dbknetworks.com^
 ||adserver.dbusiness.com^
 ||addc.dcinside.com^
 ||advertising.dclux.com^
@@ -5032,7 +5036,6 @@
 ||www.delton.com^
 ||sstats.deluxe.com^
 ||cache2.delvenetworks.com^
-||mcs.delvenetworks.com^
 ||hit.demirorenteknoloji.com^
 ||ads.democratandchronicle.com^
 ||gcirm.democratandchronicle.com^
@@ -5204,7 +5207,6 @@
 ||ads.domeus.com^
 ||analytics.dominos.com^
 ||smetrics.dominos.com^
-||sm.domobcdn.com^
 ||www.domobile.com^
 ||btr.domywife.com^
 ||ad.donanimhaber.com^
@@ -5450,7 +5452,6 @@
 ||cbola-content-1-t3.us-east-1.elasticbeanstalk.com^
 ||cbola-logging-1-t3.us-east-1.elasticbeanstalk.com^
 ||cbola-psa.us-east-1.elasticbeanstalk.com^
-||cloud-graphql-live.us-east-1.elasticbeanstalk.com^
 ||ddm-analystic-pro2.us-east-1.elasticbeanstalk.com^
 ||dhg-logging.us-east-1.elasticbeanstalk.com^
 ||ei-event-collector.us-east-1.elasticbeanstalk.com^
@@ -5612,7 +5613,6 @@
 ||vpf4.euskaltelofertas.com^
 ||isc-tracking.eventim.com^
 ||isi-tracking.eventim.com^
-||banner.everestpoker.com^
 ||www.everestpoker.com^
 ||adservice.everyone.com^
 ||show.everytell.com^
@@ -5794,7 +5794,6 @@
 ||smetrics.ferguson.com^
 ||smetrics.fergusonshowrooms.com^
 ||ads.ferianc.com^
-||www.ferrolad.com^
 ||in.ff5.com^
 ||banners.ffsbg.com^
 ||ads.fgl.com^
@@ -5863,7 +5862,6 @@
 ||trk.flazio.com^
 ||www.fleshlight.com^
 ||www.flexibletool.com^
-||track.flexlinkspro.com^
 ||heartbeat.flickr.com^
 ||ads.flightsim.com^
 ||adb.fling.com^
@@ -6154,6 +6152,7 @@
 ||liberty.gedads.com^
 ||t.geedai.com^
 ||stats.geegain.com^
+||g.gegeyingshi.com^
 ||smetrics.gehealthcare.com^
 ||sadobeanalytics.geico.com^
 ||app.gelirartisi.com^
@@ -6354,7 +6353,6 @@
 ||www.gomusic.com^
 ||gccode.gongchang.com^
 ||logging.goodgamestudios.com^
-||tracking.goodgamestudios.com^
 ||ads.goodreads.com^
 ||affiliates.goodvibes.com^
 ||crashlytics2.l.google.com^
@@ -6378,7 +6376,6 @@
 ||fundingchoicesmessages.google.com^
 ||mail-ads.google.com^
 ||marketingplatform.google.com^
-||mobileads.google.com^
 ||optimize.google.com^
 ||smartlock.google.com^
 ||api.googleadsapi.com^
@@ -6504,7 +6501,6 @@
 ||pic.gzkyjx.com^
 ||perr.h-cdn.com^
 ||t.h5data.com^
-||dclk.haaretz.com^
 ||ads2.haber3.com^
 ||ads3.haber3.com^
 ||banner-img.haber7.com^
@@ -6957,7 +6953,6 @@
 ||cdgfa.ifeng.com^
 ||games.ifeng.com^
 ||qcvf.ifeng.com^
-||sta.ifeng.com^
 ||stadig.ifeng.com^
 ||stadig0.ifeng.com^
 ||ztyumn.ifeng.com^
@@ -7573,7 +7568,6 @@
 ||kalstats.kaltura.com^
 ||livestats.kaltura.com^
 ||stats.kaltura.com^
-||data.kamcord.com^
 ||count.kandian.com^
 ||bdcm.kandianla.com^
 ||tips.xmp.client.kanimg.com^
@@ -7708,7 +7702,6 @@
 ||banners.ksl.com^
 ||dl.cm.ksmobile.com^
 ||img.cm.ksmobile.com^
-||cfg.cml.ksmobile.com^
 ||img.launcher.ksmobile.com^
 ||dl.pg.ksmobile.com^
 ||cb.ksmobile.com^
@@ -7761,7 +7754,6 @@
 ||softstat.kugou.com^
 ||tj.kugou.com^
 ||www.kuguopush.com^
-||anayltics.kuikr.com^
 ||go.kukudm.com^
 ||img.kukudm.com^
 ||log.kukuplay.com^
@@ -7879,7 +7871,6 @@
 ||content3.risk.lexisnexis.com^
 ||cdnfp.lexisnexis.com^
 ||personalreports.lexisnexis.com^
-||scout.lexisnexis.com^
 ||webanalytics.lexisnexis.com^
 ||smetrics.lexus.com^
 ||visitors.lexus-europe.com^
@@ -8030,6 +8021,7 @@
 ||zxcs.linghit.com^
 ||ads.linkara.com^
 ||www.linkbucksmedia.com^
+||analytics.pointdrive.linkedin.com^
 ||ads.linkedin.com^
 ||www.linkfame.com^
 ||st.linkfire.com^
@@ -8094,7 +8086,6 @@
 ||ads.livenation.com^
 ||ttauri.livescience.com^
 ||analytics.livestream.com^
-||content.liveuniverse.com^
 ||sdc.livingchoices.com^
 ||li.livingsocial.com^
 ||pixels.livingsocial.com^
@@ -8330,6 +8321,7 @@
 ||cdn2.maxiget.com^
 ||smetrics.maximintegrated.com^
 ||saa.maxpreps.com^
+||dcs.maxthon.com^
 ||stat-c.maxthon.com^
 ||stats-a.maxthon.com^
 ||st.mazdausa.com^
@@ -8460,6 +8452,7 @@
 ||metartmoney.met-art.com^
 ||om.metacrawler.com^
 ||saa.metacritic.com^
+||urs.metacritic.com^
 ||analytics.metalocator.com^
 ||cdn.metalocator.com^
 ||code.metalocator.com^
@@ -8744,6 +8737,7 @@
 ||traffic.mogujie.com^
 ||www.mohecm.com^
 ||ad.api.moji.com^
+||v1.log.moji.com^
 ||adlaunch.moji.com^
 ||cdn.moji.com^
 ||stat.moji.com^
@@ -9135,7 +9129,6 @@
 ||adserver.news.com^
 ||bwp.news.com^
 ||analytics.news-host.com^
-||sp.news-journalonline.com^
 ||gcirm.news-press.com^
 ||sp.news-press.com^
 ||audience.newscgp.com^
@@ -9261,7 +9254,6 @@
 ||ads.noxvo.com^
 ||ad.nozonedata.com^
 ||ad.nposting.com^
-||js.nrcdn.com^
 ||ps.ns-cdn.com^
 ||c.ns8d.com^
 ||logger.ntracecloud.com^
@@ -9272,8 +9264,6 @@
 ||ptracker.nurturehq.com^
 ||beacon.nuskin.com^
 ||www.nutaku.com^
-||images.nuviad.com^
-||notify.nuviad.com^
 ||cnt.nuvid.com^
 ||track.nuxues.com^
 ||telemetry.gfe.nvidia.com^
@@ -9305,7 +9295,6 @@
 ||up.nytimes.com^
 ||pub.nyu-nyu.com^
 ||ads.o-networkaffiliates.com^
-||c.o5o4o6.com^
 ||media.oadts.com^
 ||c.x.oanda.com^
 ||pilkgrtf.oaqjwapqdho.com^
@@ -9365,7 +9354,6 @@
 ||banner.ondemandkorea.com^
 ||log.ondemandkorea.com^
 ||www.one-door.com^
-||c.one97adworks.com^
 ||api.oneaudience.com^
 ||rss.oneindia.com^
 ||rss1.oneindia.com^
@@ -9522,7 +9510,6 @@
 ||mailer.p1ne.com^
 ||adv.p2pbg.com^
 ||tracking.pacharge.com^
-||w1jesu6.package12.com^
 ||srepdata.packersnews.com^
 ||metrics.pacsun.com^
 ||smetrics.pacsun.com^
@@ -10090,9 +10077,6 @@
 ||undm.qibulo.com^
 ||qdp.qidian.com^
 ||uedas.qidian.com^
-||i.qihaoqu.com^
-||j.qihaoqu.com^
-||t.qihaoqu.com^
 ||clkstat.qihoo.com^
 ||haostat.qihoo.com^
 ||sh.qihoo.com^
@@ -10349,7 +10333,6 @@
 ||li.realtor.com^
 ||smetrics.realtor.com^
 ||tags.realtor.com^
-||tracking.realtor.com^
 ||sdk-analytics.reasonsecurity.com^
 ||adn-srv.reckoner-api.com^
 ||api.recotap.com^
@@ -10391,6 +10374,8 @@
 ||tour.reelvidz.com^
 ||ads.reembed.com^
 ||telemetry.reembed.com^
+||measure.refinery89.com^
+||tags.refinery89.com^
 ||app.reflectivedata.com^
 ||an.reflektion.com^
 ||api.reftagger.com^
@@ -10985,14 +10970,12 @@
 ||b.skinstore.com^
 ||ski1.skiset.com^
 ||sdrive.skoda-auto.com^
-||ads.skorfikstur.com^
 ||idm.skplanet.com^
 ||rake.skplanet.com^
 ||analytics.faw.sky.com^
 ||analytics.global.sky.com^
 ||smetrics.sky.com^
 ||affiliatehub.skybet.com^
-||smetrics.skype.com^
 ||loglady.skypicker.com^
 ||tracking.skyword.com^
 ||zeus.slader.com^
@@ -11360,7 +11343,6 @@
 ||track.sublytics-5d02a489ae8b0.com^
 ||track.sublytics-5d24d6515d46a.com^
 ||track.sublytics-5d6fc61ecbaab.com^
-||track.sublytics-5d6fcf0a813fd.com^
 ||track.sublytics-5dae180ba29aa.com^
 ||track.sublytics-5db087d02a8b8.com^
 ||track.sublytics-5db9e5dd1b2c2.com^
@@ -11663,7 +11645,6 @@
 ||coletor.terra.com^
 ||smetrics.tesco.com^
 ||collector.tescocompare.com^
-||www.tesimages.com^
 ||rumcollector.teslamotors.com^
 ||cdn.test-ti-platform.com^
 ||sdk.testflightapp.com^
@@ -12716,7 +12697,6 @@
 ||ads.webkinz.com^
 ||ads2.weblogssl.com^
 ||pub2.webmanagercenter.com^
-||attribution.webmarketing123.com^
 ||gfx.webmasterprofitcenter.com^
 ||promo.webmasterprofitcenter.com^
 ||std.o.webmd.com^
@@ -13508,7 +13488,6 @@
 ||smetrics.zales.com^
 ||log.api.zaloapp.com^
 ||stc.store.page.zaloapp.com^
-||log.o2o.service.zaloapp.com^
 ||px.za.zaloapp.com^
 ||stc.za.zaloapp.com^
 ||ads.zaloapp.com^
@@ -13698,7 +13677,6 @@
 ||080644.com^
 ||0851ok.com^
 ||0937js.com^
-||0937jyg.com^
 ||0956228a2df97a.com^
 ||0a0qetx8et.com^
 ||0azx1.com^
@@ -13709,6 +13687,7 @@
 ||0d20bff8143.com^
 ||0dbcf515975d.com^
 ||0e6fc55ed3d4c2c2ba0.com^
+||0e8ce71cc7.com^
 ||0eijh8996i.com^
 ||0emm.com^
 ||0emn.com^
@@ -13817,6 +13796,7 @@
 ||168logger.com^
 ||168xiazai.com^
 ||168zwm.com^
+||16guu.com^
 ||16k6.com^
 ||16yp1ji92a.com^
 ||170yy.com^
@@ -14038,6 +14018,7 @@
 ||344dea1d6d130a7e8e.com^
 ||34667c8ece5.com^
 ||348wd7etbann.com^
+||34baedd2d0b9.com^
 ||34ed5da2977d1ace.com^
 ||34pavouhj7.com^
 ||350media.com^
@@ -14059,7 +14040,6 @@
 ||365media.com^
 ||365sbaffiliates.com^
 ||367e8bed2a847.com^
-||369bd3a861d8c27.com^
 ||36pn.com^
 ||3721.com^
 ||3761fcd24ef9281f5.com^
@@ -14075,6 +14055,7 @@
 ||39d1d397c97730.com^
 ||39irqwnzlv.com^
 ||39jz.com^
+||3abcc69ab8c.com^
 ||3b0b68c876376f7311.com^
 ||3b9eb5ed04721bef.com^
 ||3ba87e4828c5a95.com^
@@ -14089,6 +14070,7 @@
 ||3d0da2373af57.com^
 ||3dfreestats.com^
 ||3dlivestats.com^
+||3dqiang.com^
 ||3dstate.com^
 ||3dstats.com^
 ||3e61gdwn1r.com^
@@ -14185,7 +14167,6 @@
 ||4ourkidsky.com^
 ||4prgkoj870j9.com^
 ||4qsurvey.com^
-||4roxllpf6f.com^
 ||4rt6auqet2rx.com^
 ||4seeresults.com^
 ||4strokemedia.com^
@@ -14264,7 +14245,6 @@
 ||5db8d92zi2.com^
 ||5dimes.com^
 ||5dydk.com^
-||5e1fcb75b6d662d.com^
 ||5edb123fa3329.com^
 ||5f6dmzflgqso.com^
 ||5gl1x9qc.com^
@@ -14351,7 +14331,6 @@
 ||6bd9a2ea1a1801e55.com^
 ||6bgaput9ullc.com^
 ||6c37f8a12dede103bf7.com^
-||6d25c5a1bb9e821f3b7.com^
 ||6d79qh7j.com^
 ||6dayauction.com^
 ||6dvip.com^
@@ -14440,8 +14419,6 @@
 ||7b7by5utoney.com^
 ||7bpeople.com^
 ||7cxcrejm.com^
-||7d6260236b547b31f.com^
-||7d6b2264fe.com^
 ||7dah8.com^
 ||7db0b2a0ee95f557904.com^
 ||7dee28afeb8c939d8.com^
@@ -14449,6 +14426,7 @@
 ||7e625f490775b155.com^
 ||7f011d5e07db.com^
 ||7f19b1713b43f7db.com^
+||7f6383e2d7.com^
 ||7f8e91975bdc9c5f1c.com^
 ||7fkm2r4pzi.com^
 ||7fva8algp45k.com^
@@ -14660,7 +14638,6 @@
 ||a0b33.com^
 ||a0c66.com^
 ||a0c77.com^
-||a0f3ad8585.com^
 ||a15256378569ec595.com^
 ||a157ad075fcb34c.com^
 ||a15c5009bcbe272.com^
@@ -14785,6 +14762,7 @@
 ||absorbingband.com^
 ||absorbingcorn.com^
 ||absorbingprison.com^
+||abstinencecalculation.com^
 ||abstractedamount.com^
 ||absurdapple.com^
 ||absurdwater.com^
@@ -14871,7 +14849,6 @@
 ||actisens.com^
 ||active-agent.com^
 ||active-trk7.com^
-||active8ads.com^
 ||activeboard.com^
 ||activeconversion.com^
 ||activedancer.com^
@@ -15287,6 +15264,7 @@
 ||adlpo.com^
 ||adlucent.com^
 ||adlux.com^
+||adm-vids.com^
 ||admachina.com^
 ||admagnet.com^
 ||admailtiser.com^
@@ -15358,6 +15336,7 @@
 ||adnety.com^
 ||adneutralads.com^
 ||adngin.com^
+||adnigma.com^
 ||adnimation.com^
 ||adnimo.com^
 ||adnium.com^
@@ -15432,6 +15411,7 @@
 ||adpopcorn.com^
 ||adpost.com^
 ||adpozitif.com^
+||adppv.com^
 ||adpre.com^
 ||adpredictive.com^
 ||adpressi.com^
@@ -15639,7 +15619,6 @@
 ||adsperity.com^
 ||adspirit.com^
 ||adsplain.com^
-||adspleen.com^
 ||adsplex.com^
 ||adspredictiv.com^
 ||adspruce.com^
@@ -15655,7 +15634,6 @@
 ||adsrvmedia.com^
 ||adsrvs.com^
 ||adsrvus.com^
-||adsrvx.com^
 ||adsstat.com^
 ||adssyscom.com^
 ||adstanding.com^
@@ -15858,7 +15836,6 @@
 ||advertsight.com^
 ||advertstream.com^
 ||advertstv.com^
-||advertte.com^
 ||adverttraf.com^
 ||advertwizard.com^
 ||adverty.com^
@@ -16102,8 +16079,8 @@
 ||afzfzhbk.com^
 ||agacelebir.com^
 ||agafurretor.com^
+||aganj.com^
 ||agcdn.com^
-||agdvemtd.com^
 ||agentanalytics.com^
 ||agentinteractive.com^
 ||agentstudio.com^
@@ -16223,7 +16200,6 @@
 ||aktgw4u9z27l.com^
 ||akuettddwkwtdx.com^
 ||alaksaair.com^
-||alapsblu.com^
 ||alaskaaair.com^
 ||albacross.com^
 ||albalbant.com^
@@ -16522,10 +16498,9 @@
 ||aowmaijlvxdcs.com^
 ||aoyinn.com^
 ||apathetictheory.com^
-||apcugpxy.com^
 ||ape78cn2.com^
-||apendit.com^
 ||apester.com^
+||apex-ad.com^
 ||apexstats.com^
 ||apextag.com^
 ||apextwo.com^
@@ -16673,7 +16648,6 @@
 ||arejoysew.com^
 ||arfmdqwyztn.com^
 ||arfttojxv.com^
-||argggultrji.com^
 ||argyresthia.com^
 ||arianelab.com^
 ||aribcosw.com^
@@ -16787,7 +16761,6 @@
 ||atomikad.com^
 ||atomx.com^
 ||atoomic.com^
-||atoshonetwork.com^
 ||atoultou.com^
 ||atovub.com^
 ||atozmanuals.com^
@@ -16837,6 +16810,7 @@
 ||auditude.com^
 ||audrte.com^
 ||audsp.com^
+||audtd.com^
 ||augme.com^
 ||august15download.com^
 ||auhqnsjbvizeey.com^
@@ -16944,7 +16918,7 @@
 ||ax47mp-xp-21.com^
 ||axadaldlozmqu.com^
 ||axbet20.com^
-||axeclbthp.com^
+||axecash.com^
 ||axeldivision.com^
 ||axhxa.com^
 ||axiomaticalley.com^
@@ -16998,7 +16972,6 @@
 ||b02byun5xc3s.com^
 ||b07f916388fc6e06847.com^
 ||b0d3ea12ec1b93f7af9.com^
-||b0d8374c73dc.com^
 ||b0e8.com^
 ||b0omr3wn6u4b.com^
 ||b13481647cf775c5.com^
@@ -17202,7 +17175,6 @@
 ||bbvever.com^
 ||bbyhjamzpkenvm.com^
 ||bc0a.com^
-||bc5275dd50.com^
 ||bcash4you.com^
 ||bccyyc.com^
 ||bcdn1234325.com^
@@ -17224,7 +17196,6 @@
 ||bd1617dbbc28f.com^
 ||bd202457b.com^
 ||bd4travel.com^
-||bda18716516.com^
 ||bdash-cloud.com^
 ||bdbdqkxkdb.com^
 ||bde3d.com^
@@ -17268,7 +17239,6 @@
 ||becanium.com^
 ||becoquin.com^
 ||bedaccustom.com^
-||bedorm.com^
 ||bedrapiona.com^
 ||bedsbreath.com^
 ||bee7.com^
@@ -17302,7 +17272,6 @@
 ||bemzepcnp.com^
 ||benchit.com^
 ||bengilani.com^
-||bensezhiye.com^
 ||bentengcn.com^
 ||bentonow.com^
 ||beonixom.com^
@@ -17409,8 +17378,6 @@
 ||bhclicks.com^
 ||bhcumsc.com^
 ||bher64eljhjx.com^
-||bhplyiegippcw.com^
-||bhrebiicmcj.com^
 ||bhs4.com^
 ||bhuak.com^
 ||bhyddc.com^
@@ -17545,7 +17512,6 @@
 ||bj-bytsk.com^
 ||bjbrtc.com^
 ||bjcathay.com^
-||bjcpcnhssg.com^
 ||bjdianyue.com^
 ||bjdthyywcargba.com^
 ||bjeai.com^
@@ -17685,7 +17651,6 @@
 ||bnrslks.com^
 ||bnserving.com^
 ||bnsjb1ab1e.com^
-||bnsowzvglhu.com^
 ||bnster.com^
 ||bnstero.com^
 ||bnstnhto.com^
@@ -18005,6 +17970,7 @@
 ||buyfinasteride.com^
 ||buyflood.com^
 ||buyhitscheap.com^
+||buyihao.com^
 ||buylicensekey.com^
 ||buylnk.com^
 ||buyorselltnhomes.com^
@@ -18036,7 +18002,6 @@
 ||bvosv.com^
 ||bvovcgdwbafgmf.com^
 ||bvrdzbzwa.com^
-||bvuficdch.com^
 ||bvvqtaltc.com^
 ||bvzdfhpyz.com^
 ||bwads24.com^
@@ -18103,10 +18068,8 @@
 ||c3metrics.com^
 ||c3onlinemarketing.com^
 ||c3tag.com^
-||c40ada56da96c20ae0ad.com^
 ||c4698cd6aed0dcef367.com^
 ||c4dl.com^
-||c4ee4adf928.com^
 ||c4tracking01.com^
 ||c50021876c67fd14.com^
 ||c52llumx.com^
@@ -18150,6 +18113,7 @@
 ||calculatorstatement.com^
 ||calendarlive.com^
 ||calexito.com^
+||calfsbreedstax.com^
 ||caljqsml.com^
 ||callfire.com^
 ||callloop.com^
@@ -18395,7 +18359,6 @@
 ||cef9c80977e050.com^
 ||cefqvuhygky.com^
 ||cejqceekq.com^
-||cekzdbewgnzu.com^
 ||celeb-ads.com^
 ||celebrityx.com^
 ||celebros-analytics.com^
@@ -18433,6 +18396,7 @@
 ||cfboo.com^
 ||cfcloudcdn.com^
 ||cfdanet.com^
+||cferw.com^
 ||cfgr1.com^
 ||cfgr2.com^
 ||cfigroup.com^
@@ -18445,7 +18409,6 @@
 ||cg2017.com^
 ||cgaij.com^
 ||cgamyfohry.com^
-||cgbqzfjf.com^
 ||cgcukmix.com^
 ||cgiale.com^
 ||cgjfanun12on.com^
@@ -18463,7 +18426,6 @@
 ||chance-ad.com^
 ||chandlertreatment.com^
 ||chanelets-aurning.com^
-||changhehengqi.com^
 ||chango.com^
 ||changxiukj.com^
 ||channel1vids.com^
@@ -18488,7 +18450,6 @@
 ||chatloveonline.com^
 ||chautcho.com^
 ||chayibu.com^
-||chdaismlykqep.com^
 ||check2push.com^
 ||checkabil.com^
 ||checkhit.com^
@@ -18502,7 +18463,6 @@
 ||chedot.com^
 ||cheerfulrange.com^
 ||chehuanjie.com^
-||chekeshi.com^
 ||cheksoam.com^
 ||chelsust.com^
 ||chemicalcoach.com^
@@ -18540,7 +18500,6 @@
 ||chitika.com^
 ||chitraadvertising.com^
 ||chjriixbqmppwm.com^
-||chkqqbpppcuihn.com^
 ||chlekoyxrbi.com^
 ||chnhty.com^
 ||chocohjuanfhdhf.com^
@@ -18681,7 +18640,6 @@
 ||clic2pub.com^
 ||clicadu.com^
 ||click-123.com^
-||click-da-click.com^
 ||click-here-to-listen.com^
 ||click-url.com^
 ||click168.com^
@@ -18941,6 +18899,7 @@
 ||cocoafortunately.com^
 ||coconutdepreciate.com^
 ||cocounion.com^
+||code222.com^
 ||code668.com^
 ||codeadnetwork.com^
 ||codeads.com^
@@ -18975,6 +18934,7 @@
 ||coinerra.com^
 ||coinhits.com^
 ||coinhive.com^
+||coinhiveproxy.com^
 ||coinhives.com^
 ||coinimp.com^
 ||coinjive.com^
@@ -19200,7 +19160,6 @@
 ||coremotives.com^
 ||corkysound.com^
 ||cormast.com^
-||coroheyjses.com^
 ||coronabreath.com^
 ||corported.com^
 ||correctchaos.com^
@@ -19214,7 +19173,6 @@
 ||costaction.com^
 ||cotchaug.com^
 ||couas.com^
-||cougarads.com^
 ||coull.com^
 ||countby.com^
 ||counted.com^
@@ -19362,6 +19320,7 @@
 ||crazypopups.com^
 ||cre99.com^
 ||creafi.com^
+||creafi-online-media.com^
 ||crealytics.com^
 ||creamssicsite.com^
 ||create2fear.com^
@@ -19451,7 +19410,6 @@
 ||csstatic.com^
 ||cstraffic.com^
 ||csyjaajr.com^
-||ct1985.com^
 ||ctasnet.com^
 ||ctcautobody.com^
 ||ctdhylltfighs.com^
@@ -19521,7 +19479,6 @@
 ||cwnrunnvatbfug.com^
 ||cworsbumjgbuc.com^
 ||cwplubzglmfah.com^
-||cwpumsjshnacl.com^
 ||cwsgwqbcdhtk.com^
 ||cxcxt.com^
 ||cxense.com^
@@ -19531,7 +19488,6 @@
 ||cxmolk.com^
 ||cxpublic.com^
 ||cxuehuxz.com^
-||cxxhkmuxdjsmw.com^
 ||cy-pr.com^
 ||cyacc.com^
 ||cyberbaiseuses.com^
@@ -19594,7 +19550,6 @@
 ||d59fa492f75f520.com^
 ||d5c18469d17cb1d1.com^
 ||d5d4f491e92.com^
-||d60227ef59e.com^
 ||d6262.com^
 ||d6jfiirio372.com^
 ||d71e6dd31a026d45.com^
@@ -19663,7 +19618,6 @@
 ||dapperdiscussion.com^
 ||dapperfloor.com^
 ||dapxl.com^
-||daqijjpjow.com^
 ||daredorm.com^
 ||darfilms.com^
 ||darish-drustents.com^
@@ -19750,7 +19704,6 @@
 ||dbyinbsam.com^
 ||dc-storm.com^
 ||dc121677.com^
-||dc3c87c212.com^
 ||dc63bfb069ea522f.com^
 ||dcaij.com^
 ||dccqzsmabz.com^
@@ -19831,7 +19784,6 @@
 ||defpush.com^
 ||defundium.com^
 ||dehydratedpredestinationplenty.com^
-||deicslktis.com^
 ||deiligejenter.com^
 ||deiqehvcdnntg.com^
 ||deja.com^
@@ -19939,7 +19891,6 @@
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgmaxinteractive.com^
-||dgmsearchlab.com^
 ||dgoqeqfihs.com^
 ||dgtmyxfuzwtr.com^
 ||dgtnoyoud.com^
@@ -20072,7 +20023,6 @@
 ||djers.com^
 ||djfiln.com^
 ||djhhy.com^
-||djjckavq.com^
 ||djjyyqgsnnfa.com^
 ||djrvqpg.com^
 ||djsn888.com^
@@ -20096,7 +20046,6 @@
 ||dlhhzptgsavxu.com^
 ||dlhygj.com^
 ||dlkjgjmy.com^
-||dlmghzdca.com^
 ||dlnsjjyzvi1x.com^
 ||dlpifu.com^
 ||dlpyumfmg.com^
@@ -20114,7 +20063,6 @@
 ||dmpcounter.com^
 ||dmpxs.com^
 ||dmqapp.com^
-||dmrecvpflqb.com^
 ||dmstrck.com^
 ||dmtracker.com^
 ||dmtry.com^
@@ -20150,7 +20098,6 @@
 ||doflygonan.com^
 ||dogcustom-works.com^
 ||dogwrite.com^
-||dogwuyrspt.com^
 ||dohillright.com^
 ||dojomojo.com^
 ||dokaboka.com^
@@ -20249,7 +20196,6 @@
 ||dq95d35.com^
 ||dqburpwaqwehj.com^
 ||dqeqsiwc.com^
-||dqldmtpu.com^
 ||dqnpfsxuq.com^
 ||dqvckdfaa.com^
 ||dqzuy.com^
@@ -20386,7 +20332,6 @@
 ||dwin1.com^
 ||dwin2.com^
 ||dwkfnswdnheqfz.com^
-||dwmegismbq.com^
 ||dx-tv.com^
 ||dx1200.com^
 ||dxkkixczpsdaw.com^
@@ -20469,7 +20414,6 @@
 ||e4w50tqnqk.com^
 ||e521d17fa185a2.com^
 ||e5mbjzv.com^
-||e5omau19i7.com^
 ||e5yx.com^
 ||e6cfmdmo81.com^
 ||e7001.com^
@@ -20508,6 +20452,7 @@
 ||earnify.com^
 ||earnmydegree.com^
 ||earntosurf.com^
+||earthincomprehensibleintrepid.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
 ||earzow.com^
@@ -20625,7 +20570,6 @@
 ||eduzzjy.com^
 ||edvfwlacluo.com^
 ||ee6a35c1eeee.com^
-||eeagxonnsoggq.com^
 ||eebbfcwspe.com^
 ||eecd179r3b.com^
 ||eee3a05c040fef3.com^
@@ -20759,6 +20703,7 @@
 ||elmbagask.com^
 ||elmfnadgg.com^
 ||elnpe.com^
+||elongatedinscription.com^
 ||eloqua.com^
 ||eloquencer.com^
 ||elqsjecdav.com^
@@ -20776,7 +20721,6 @@
 ||ematicsolutions.com^
 ||emb-api.com^
 ||embeddedanalytics.com^
-||emdqaycbvqz.com^
 ||emebo.com^
 ||emediate.com^
 ||emediatrack.com^
@@ -20919,7 +20863,6 @@
 ||eqfgc.com^
 ||eqnqxfrxsmuy.com^
 ||eqoivockikaue.com^
-||eqrauafet.com^
 ||equantum.com^
 ||equjalkngu.com^
 ||eqworks.com^
@@ -21071,13 +21014,11 @@
 ||evidencecleanergold.com^
 ||evisionsmarketing.com^
 ||evisitanalyst.com^
-||evlpfjro.com^
 ||evnoxawvqhda.com^
 ||evokeframingimpossible.com^
 ||evolvemediacorp.com^
 ||evolvemediallc.com^
 ||evolvenation.com^
-||evovasalup.com^
 ||evsembu.com^
 ||evvjvrpldtnlqk.com^
 ||evvznnafduvs.com^
@@ -21112,7 +21053,6 @@
 ||exclusivegiftcards.com^
 ||exclusivepussy.com^
 ||excpm.com^
-||excqjoor.com^
 ||excuseearthquake.com^
 ||exdoller.com^
 ||exdynsrv.com^
@@ -21241,7 +21181,6 @@
 ||f70123.com^
 ||f71bxwn500lj.com^
 ||f8316b45436f.com^
-||f8a22e34a2.com^
 ||f92j5.com^
 ||f93dad8683e2c7c.com^
 ||fa00c331ceacc.com^
@@ -21297,7 +21236,6 @@
 ||fairnessels.com^
 ||fairyceiling.com^
 ||fairypays.com^
-||faithadnet.com^
 ||falcoware.com^
 ||fallingfalcon.com^
 ||falseframe.com^
@@ -21406,7 +21344,6 @@
 ||fdkevkzm.com^
 ||fdmtoyfpjk.com^
 ||fdofosytszg.com^
-||fdogfuqpgeub.com^
 ||fdoun.com^
 ||fdplttrk.com^
 ||fdrhbw.com^
@@ -21517,6 +21454,7 @@
 ||fiechaev.com^
 ||fiewqoyhdkdcm.com^
 ||fiftyt.com^
+||fifwin.com^
 ||figpii.com^
 ||fijekone.com^
 ||fiksu.com^
@@ -21589,7 +21527,6 @@
 ||fizzbuzzmedia.com^
 ||fj95560.com^
 ||fjbzjc.com^
-||fjczvutpucr.com^
 ||fjhanmei.com^
 ||fjmeyer.com^
 ||fjmrxys.com^
@@ -21634,6 +21571,7 @@
 ||flexbanner.com^
 ||flexknfp.com^
 ||flexlinks.com^
+||flexlinkspro.com^
 ||flexoffers.com^
 ||flexterkita.com^
 ||flimsycircle.com^
@@ -21830,7 +21768,6 @@
 ||fqsgj.com^
 ||fqtag.com^
 ||fqtra.com^
-||fqwgi.com^
 ||fqwrluzjti.com^
 ||fqzds.com^
 ||fractionalmedia.com^
@@ -21961,7 +21898,6 @@
 ||fsyzcs.com^
 ||fszhxd.com^
 ||ftbpro.com^
-||ftdcseuvlmfp.com^
 ||ftdspjxhcufui.com^
 ||fthkmwrkqg.com^
 ||ftjcfx.com^
@@ -21980,6 +21916,7 @@
 ||fuckermedia.com^
 ||fuckyoucash.com^
 ||fuegodevida.com^
+||fuel451.com^
 ||fuelbuck.com^
 ||fueldeck.com^
 ||fuelx.com^
@@ -21992,6 +21929,7 @@
 ||fukbyehdjdf.com^
 ||fukkzdxfyrchhc.com^
 ||fullqurandownload.com^
+||fullspeeddownload.com^
 ||fullstory.com^
 ||fulltango.com^
 ||fun-hits.com^
@@ -22058,7 +21996,6 @@
 ||fwnowvgk.com^
 ||fwrrcnkzn5ik.com^
 ||fwt0.com^
-||fwuxrjzrkcjkop.com^
 ||fwvdptvy.com^
 ||fwwvuefyr.com^
 ||fwwzqxveuk.com^
@@ -22254,6 +22191,7 @@
 ||gdbly.com^
 ||gdcuixkjhnmot.com^
 ||gddrio.com^
+||gdfc0563.com^
 ||gdfspfg.com^
 ||gdgy56.com^
 ||gdl5vtbbv0lj.com^
@@ -22371,7 +22309,6 @@
 ||getwebbar.com^
 ||getwebdiscover.com^
 ||getyoutubedownloader.com^
-||getzwnrgsrz.com^
 ||geusihivdqkwzf.com^
 ||gexperiments1.com^
 ||gexperiments2.com^
@@ -22396,7 +22333,6 @@
 ||ggdydz.com^
 ||ggsaffiliates.com^
 ||ggskt.com^
-||ggtg8.com^
 ||ggtraf.com^
 ||ggwcash.com^
 ||ggzikbwrri.com^
@@ -22445,6 +22381,7 @@
 ||gjproyrwjv.com^
 ||gjqbidroh.com^
 ||gjqrpgdr.com^
+||gjslebmbiawh.com^
 ||gjslm.com^
 ||gjuet.com^
 ||gjw5qbyn93b8.com^
@@ -22561,7 +22498,6 @@
 ||godhat.com^
 ||godoycrus.com^
 ||goember.com^
-||goge365-baidu.com^
 ||goggle.com^
 ||gogoplexer.com^
 ||gogousenet.com^
@@ -22569,6 +22505,7 @@
 ||gohillgo.com^
 ||goingplatinum.com^
 ||goingsilltrusty.com^
+||goingtocontent.com^
 ||goingup.com^
 ||goitcl.com^
 ||gokjicokl.com^
@@ -22745,6 +22682,7 @@
 ||groupm.com^
 ||growfoodsmart.com^
 ||growingio.com^
+||growltoe.com^
 ||grownuplieutenant.com^
 ||growtaller4adults.com^
 ||growtaller4men.com^
@@ -22774,14 +22712,12 @@
 ||gsezbakx.com^
 ||gsicommerce.com^
 ||gsimjyplcciwgb.com^
-||gsipjksiepxsqi.com^
 ||gsjgkpnq.com^
 ||gslb.com^
 ||gslyyfntvnwbad.com^
 ||gsniper2.com^
 ||gssxb.com^
 ||gsvyjunccsw.com^
-||gswiegmikzh.com^
 ||gtburst.com^
 ||gtchong.com^
 ||gtciedhftphow.com^
@@ -22792,6 +22728,7 @@
 ||gtsads.com^
 ||gtsmobi.com^
 ||gu-ecom.com^
+||guaas.com^
 ||guamokqekridi.com^
 ||guangsss1999.com^
 ||guangzhuiyuan.com^
@@ -22824,7 +22761,6 @@
 ||gururevenue.com^
 ||gvcmiz3vze3n.com^
 ||gvisit.com^
-||gvnqfiwzronbq.com^
 ||gvt2.com^
 ||gvtawzpydsujep.com^
 ||gw-ec.com^
@@ -22835,7 +22771,6 @@
 ||gwdqp.com^
 ||gweini.com^
 ||gwigqsgv.com^
-||gwjmznxk.com^
 ||gwmtracking.com^
 ||gwpjvfqeui.com^
 ||gwucenxvmkowap.com^
@@ -22962,7 +22897,6 @@
 ||hao549.com^
 ||hao916.com^
 ||haomaojin.com^
-||haotyxhbv.com^
 ||haoxianyangrouye.com^
 ||haoxxwang.com^
 ||happenhistory.com^
@@ -23015,7 +22949,6 @@
 ||hbtzzlcxfijk.com^
 ||hbyyzm.com^
 ||hbzjht.com^
-||hcatboilyxs.com^
 ||hcenc.com^
 ||hceykfajyioqkz.com^
 ||hcg82f2b.com^
@@ -23127,7 +23060,6 @@
 ||hg-bn.com^
 ||hg-labs.com^
 ||hg8dc7bm.com^
-||hgacevkuxzifv.com^
 ||hgads.com^
 ||hgbasics.com^
 ||hgbn1.com^
@@ -23264,7 +23196,6 @@
 ||hla-media.com^
 ||hlads.com^
 ||hlcnzz.com^
-||hldwmly.com^
 ||hlfjvpcpkynqco.com^
 ||hlgglm.com^
 ||hlhulu.com^
@@ -23298,14 +23229,12 @@
 ||hnrfwtlvlnzumb.com^
 ||hntymg.com^
 ||hnxahz.com^
-||hnyiche3.com^
 ||hnyny.com^
 ||hoaphaiw.com^
 ||hobfadbig.com^
 ||hobwelt.com^
 ||hocgeese.com^
 ||hoegutvie.com^
-||hofraxopw.com^
 ||hogantgot.com^
 ||hohosearch.com^
 ||hollowshake.com^
@@ -23340,6 +23269,7 @@
 ||hoosorie.com^
 ||hopdream.com^
 ||hopfeed.com^
+||hopilos.com^
 ||hoptopboy.com^
 ||horedi.com^
 ||horheloopo.com^
@@ -23351,7 +23281,6 @@
 ||horsenectar.com^
 ||horsered.com^
 ||hortestoz.com^
-||horvmygebyg.com^
 ||horyzon-media.com^
 ||horzrb.com^
 ||hospitality-optimizer.com^
@@ -23400,7 +23329,6 @@
 ||hpvvn.com^
 ||hpwdohgicpmi.com^
 ||hpwoowyxhrsatx.com^
-||hpwzlfjpa.com^
 ||hpyrdr.com^
 ||hpyue.com^
 ||hq3x.com^
@@ -23409,7 +23337,6 @@
 ||hqpass.com^
 ||hqr9q6f30371.com^
 ||hqtrk.com^
-||hqvdkbap.com^
 ||hqygz.com^
 ||hqzceymmcwsvd.com^
 ||hr44.com^
@@ -23446,6 +23373,7 @@
 ||htckiummbyxfha.com^
 ||htdvt.com^
 ||htfmbt.com^
+||htjsk.com^
 ||htlbid.com^
 ||htmate2.com^
 ||htmlcounter.com^
@@ -23480,6 +23408,7 @@
 ||hugexdeal.com^
 ||huhkfzino.com^
 ||huhughyaw.com^
+||huichenbz.com^
 ||huigoushop.com^
 ||huirnbrfj.com^
 ||huishenghuiying.com^
@@ -23509,9 +23438,7 @@
 ||hvtlipnbfwu.com^
 ||hvxhmsiz.com^
 ||hw6.com^
-||hwekl8dz1d.com^
 ||hwpub.com^
-||hwyoikfrfdtjp.com^
 ||hxadt.com^
 ||hxbvxmyldlt.com^
 ||hxhymfdpmgs.com^
@@ -23755,7 +23682,6 @@
 ||igrowth.com^
 ||igvuw.com^
 ||ihais.com^
-||ihear123.com^
 ||iheartbucks.com^
 ||ihgehlpfzoefmd.com^
 ||ihgwekwwxbuxy.com^
@@ -23848,7 +23774,6 @@
 ||imgclck.com^
 ||imgdone.com^
 ||imgfeedget.com^
-||imgkcxjlrlqf.com^
 ||imglnka.com^
 ||imglnkb.com^
 ||imglnkc.com^
@@ -24151,7 +24076,6 @@
 ||iomsew.com^
 ||ionnmjdsf.com^
 ||iopjpldd.com^
-||ioppxhhtgbydsj.com^
 ||iopushtech.com^
 ||ioredi.com^
 ||iotechnologies.com^
@@ -24202,7 +24126,6 @@
 ||iqfcpnclcaaidy.com^
 ||iqfp1.com^
 ||iqiznxqn.com^
-||iqjajyjbnaqieu.com^
 ||iqm.com^
 ||iqnmjstd.com^
 ||iqoakacwvzrp.com^
@@ -24222,7 +24145,6 @@
 ||irjfsrocuzwkpf.com^
 ||irkerecue.com^
 ||irkgxjcgl.com^
-||irmctbwmhnyznx.com^
 ||irncdn.com^
 ||iroby.com^
 ||ironsrc.com^
@@ -24366,7 +24288,6 @@
 ||izbxxwogfufnfi.com^
 ||izea.com^
 ||izearanks.com^
-||izelshnkrh.com^
 ||izooto.com^
 ||izuis.com^
 ||izwffvgxs.com^
@@ -24465,7 +24386,6 @@
 ||jeetyetmedia.com^
 ||jeinvegpool.com^
 ||jeisl.com^
-||jejowkopsdiw.com^
 ||jeksffryglas.com^
 ||jemmgroup.com^
 ||jeoldkhy.com^
@@ -24531,7 +24451,6 @@
 ||jiehunmishu.com^
 ||jiekc.com^
 ||jieyixiu.com^
-||jiirz.com^
 ||jiixdtavic.com^
 ||jijyubjf.com^
 ||jikpijfebfflia.com^
@@ -24668,7 +24587,6 @@
 ||jrvcwxubg.com^
 ||jrvtmfxkkl.com^
 ||jrwlxwypmgvk.com^
-||js-cloud.com^
 ||jsadt.com^
 ||jsblom.com^
 ||jscdndel.com^
@@ -24868,7 +24786,6 @@
 ||kbdstwnruc.com^
 ||kbhaxxsiucgnek.com^
 ||kbifqgyugzo.com^
-||kbmwlbwwwp.com^
 ||kbqebfcubeiaa.com^
 ||kbsceyleonkq.com^
 ||kbstyn.com^
@@ -24877,7 +24794,6 @@
 ||kbugxeslbjc8.com^
 ||kbx1sth37s.com^
 ||kbyelxqr.com^
-||kbymnqiomnegs.com^
 ||kbzdxt.com^
 ||kcnbyecw.com^
 ||kcnjwtaj.com^
@@ -24945,6 +24861,7 @@
 ||kgnagbymcdmlr.com^
 ||kgqhtakjphgdwg.com^
 ||kgua0o66bcw8.com^
+||kguke.com^
 ||kgvzesfexmenm.com^
 ||khewwakrywmgxr.com^
 ||khg97644rvbg.com^
@@ -24984,6 +24901,7 @@
 ||kissmetrics.com^
 ||kissmyads.com^
 ||kisstesting.com^
+||kistured.com^
 ||kitaramedia.com^
 ||kitd.com^
 ||kitnmedia.com^
@@ -25074,7 +24992,6 @@
 ||koclkigkz.com^
 ||koddi.com^
 ||kodicdn.com^
-||kodnkhqvbxpc.com^
 ||kodobac.com^
 ||koemrbflufm.com^
 ||koesvqwwpmvb.com^
@@ -25104,7 +25021,6 @@
 ||kosoft-ads.com^
 ||kostenlose-counter.com^
 ||kostprice.com^
-||koszzhucazsboe.com^
 ||koukou7.com^
 ||kovla.com^
 ||kozoysnsx.com^
@@ -25121,7 +25037,6 @@
 ||kpzip.com^
 ||kpzsyqhje.com^
 ||kqbigsdyqtdh.com^
-||kqy1.com^
 ||kqzyfj.com^
 ||kr3vinsx.com^
 ||kr8gqjtnos3y.com^
@@ -25129,7 +25044,6 @@
 ||krakragames.com^
 ||kraruzatefci.com^
 ||krboeyeq.com^
-||krfbhbhal.com^
 ||krjleggwikuil.com^
 ||kroo66.com^
 ||krs1v2sl.com^
@@ -25292,7 +25206,6 @@
 ||laojiayoufang.com^
 ||laolinow.com^
 ||laoxier365.com^
-||lapdqegtp.com^
 ||laranationalatt.com^
 ||larentisol.com^
 ||lareson.com^
@@ -25343,7 +25256,6 @@
 ||lcwfabt3.com^
 ||ld82ydd.com^
 ||ldgjjycp.com^
-||ldgozccnwgtuya.com^
 ||ldipafssohosls.com^
 ||ldkjrqcqp.com^
 ||ldpubkzh.com^
@@ -25415,6 +25327,7 @@
 ||leiki.com^
 ||leimardog.com^
 ||lejhdbxl.com^
+||leletuitui.com^
 ||lemmatechnologies.com^
 ||lenkmio.com^
 ||lenmit.com^
@@ -25475,6 +25388,7 @@
 ||lfztmoamieum.com^
 ||lfzxcp.com^
 ||lgcblkbn.com^
+||lgjygg.com^
 ||lgmsekxqwxe.com^
 ||lgse.com^
 ||lgsvywogylblv.com^
@@ -25839,13 +25753,11 @@
 ||lqdqjkzfhijx.com^
 ||lqfvlnnygf.com^
 ||lqpkjasgqjve.com^
-||lqqpabnu.com^
 ||lqxoqvqljmfyt.com^
 ||lqydocphrf.com^
 ||lrghpuvvo.com^
 ||lrjglcmgbf.com^
 ||lrkvionrsnlc.com^
-||lrlkdlpksqveje.com^
 ||lruvvletnhv.com^
 ||lrwwnbjiv.com^
 ||lryfmcok.com^
@@ -25871,7 +25783,6 @@
 ||ltnkbvcm.com^
 ||ltnvnvxzetvhk.com^
 ||ltzjkjxx.com^
-||luagrcmjnovjp.com^
 ||lucastadvertising.com^
 ||lucidcommerce.com^
 ||lucidel.com^
@@ -25889,7 +25800,6 @@
 ||ludovwmhazsx.com^
 ||luisardo.com^
 ||lulpolopolo.com^
-||lulrtvfcy.com^
 ||lulusoft.com^
 ||lulzimg.com^
 ||lumberamount.com^
@@ -25909,7 +25819,6 @@
 ||luvnrybocrcgl.com^
 ||luxadv.com^
 ||luxemil.com^
-||luxoshopde.com^
 ||luxupadva.com^
 ||luxupadvb.com^
 ||luxupcdna.com^
@@ -26085,7 +25994,6 @@
 ||make6pain.com^
 ||makeding.com^
 ||makemoneyrobot.com^
-||makkuqiavqx.com^
 ||malaysia-online-bank-kasino.com^
 ||mallcom.com^
 ||mallcss.com^
@@ -26238,7 +26146,6 @@
 ||mcdlks.com^
 ||mcdstorage.com^
 ||mcityadslink.com^
-||mcjdsooo.com^
 ||mcloudglobal.com^
 ||mcloudjs.com^
 ||mcontigo.com^
@@ -26349,7 +26256,6 @@
 ||mediapeartree.com^
 ||mediaplazza.com^
 ||mediaplex.com^
-||mediaraily.com^
 ||mediareps.com^
 ||mediarithmics.com^
 ||mediarotate.com^
@@ -26401,6 +26307,7 @@
 ||megacpm.com^
 ||megafriends.com^
 ||megago.com^
+||megapopads.com^
 ||megartb.com^
 ||megastats.com^
 ||megatizer.com^
@@ -26639,7 +26546,6 @@
 ||mjx123.com^
 ||mk-ads.com^
 ||mk1lyl406xmp.com^
-||mka8vaj2ru.com^
 ||mkazanc.com^
 ||mkgosjtrbhag.com^
 ||mkhoj.com^
@@ -27231,7 +27137,6 @@
 ||mobawaba.com^
 ||mobbahjug.com^
 ||mobcastlead.com^
-||mobcdn.com^
 ||mobclix.com^
 ||mobday.com^
 ||mobfox.com^
@@ -27770,6 +27675,7 @@
 ||najva.com^
 ||najyzdlmqq.com^
 ||nakedreel.com^
+||nalook.com^
 ||nalrxmmcs.com^
 ||nameads.com^
 ||namedq.com^
@@ -27781,6 +27687,7 @@
 ||namimedia.com^
 ||namitol.com^
 ||nanigans.com^
+||nanjinglongyu.com^
 ||nanoadexchange.com^
 ||naradxb.com^
 ||narjesmedia.com^
@@ -27820,7 +27727,6 @@
 ||navilytics.com^
 ||navitrades.com^
 ||navteq.com^
-||nawdwtocxqru.com^
 ||naxrjxij.com^
 ||naytev.com^
 ||nbads.com^
@@ -27843,6 +27749,7 @@
 ||nbxiwktuvymecs.com^
 ||ncafclpip.com^
 ||ncaudienceexchange.com^
+||nchte.com^
 ||nchxiaxafowid.com^
 ||ncmcbufifgcu.com^
 ||ncoyqc.com^
@@ -27859,6 +27766,7 @@
 ||ndkaxtyhxy.com^
 ||ndndasyo.com^
 ||ndparking.com^
+||ndtzx.com^
 ||nduop.com^
 ||ndyzz.com^
 ||ne9377.com^
@@ -28173,7 +28081,6 @@
 ||northstartravelmedia.com^
 ||norugu.com^
 ||norulless.com^
-||nosdbwnd.com^
 ||nospartenaires.com^
 ||nostalgicknot.com^
 ||nosto.com^
@@ -28408,8 +28315,6 @@
 ||ob1trk.com^
 ||obaukads.com^
 ||obefjbb4mykw.com^
-||obeip.com^
-||obeus.com^
 ||obfkwtiwavn.com^
 ||obgsyorlag.com^
 ||objectservers.com^
@@ -28449,7 +28354,6 @@
 ||oecxrvamnvc.com^
 ||oefyjdykepx.com^
 ||oegzbchydxbjkz.com^
-||oehivgounhm.com^
 ||oevery.com^
 ||oevltdvzl.com^
 ||oevqxivhquovq.com^
@@ -28471,7 +28375,6 @@
 ||offerserve.com^
 ||offersquared.com^
 ||offerstrategy.com^
-||offertraff.com^
 ||offerwall-adnative.com^
 ||offgagshe.com^
 ||offoonguser.com^
@@ -28535,7 +28438,6 @@
 ||okgzwezcrmchk.com^
 ||okrnvztkhkghas.com^
 ||okshishi.com^
-||oktkuwjry.com^
 ||oktopost.com^
 ||oktpage.com^
 ||okuis.com^
@@ -28647,6 +28549,7 @@
 ||onlineformfinder.com^
 ||onlinerewardcenter.com^
 ||onlinesalespro.com^
+||onlinesupaads.com^
 ||onlinewebfind.com^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
@@ -28665,9 +28568,7 @@
 ||onvertise.com^
 ||onvictinitor.com^
 ||onwardclick.com^
-||onxxyeoyes.com^
 ||oo-syringe.com^
-||oobywbdeveuodd.com^
 ||oochaurt.com^
 ||oochique.com^
 ||oodraune.com^
@@ -28793,7 +28694,6 @@
 ||osaws.com^
 ||osdiqyuesejd.com^
 ||osdsoft.com^
-||osevrgzpsu.com^
 ||osiaffiliate.com^
 ||ositracker.com^
 ||osnbddsrm.com^
@@ -28802,7 +28702,6 @@
 ||ospjthkhtwv.com^
 ||ospreymedialp.com^
 ||osskanger.com^
-||ostyfayab.com^
 ||osvryhznx.com^
 ||otaijing.com^
 ||otbuzvqq8fm5.com^
@@ -28814,8 +28713,6 @@
 ||otherprofit.com^
 ||othersonline.com^
 ||otinekocin.com^
-||otiqknmqyibci.com^
-||otkpegjvpyi.com^
 ||otm-r.com^
 ||otmsrv.com^
 ||otmyoesv.com^
@@ -28875,7 +28772,6 @@
 ||oviwtvswp.com^
 ||ovk2cuebg77t.com^
 ||ovmzlptjfci.com^
-||ovoadv.com^
 ||ovscyvcucd.com^
 ||ovtkwzyowci.com^
 ||ovyiakt1wzqz.com^
@@ -28923,7 +28819,6 @@
 ||ozrdgjalmch.com^
 ||ozrmnwplx.com^
 ||ozsriqitazi.com^
-||ozugzufdxniu.com^
 ||ozvxadosic.com^
 ||ozwjhdler.com^
 ||ozwvd.com^
@@ -29013,7 +28908,6 @@
 ||paperg.com^
 ||papoto.com^
 ||papy-voyeur.com^
-||paqtnspb.com^
 ||paradoxfactor.com^
 ||paradoxtraffic.com^
 ||paraisowebcam.com^
@@ -29426,6 +29320,7 @@
 ||plantdigestion.com^
 ||platado.com^
 ||platformpanda.com^
+||platinumarrangements.com^
 ||plavid.com^
 ||play4traffic.com^
 ||playamo30.com^
@@ -29512,6 +29407,7 @@
 ||pocofh.com^
 ||pocrowpush.com^
 ||podbwdcrmjufmr.com^
+||podfdch.com^
 ||podimxqmqguj.com^
 ||pofang.com^
 ||poftut.com^
@@ -29709,6 +29605,7 @@
 ||preferences.com^
 ||preferrain.com^
 ||preferredain.com^
+||preferredwhatknew.com^
 ||prefixpatriot.com^
 ||pregnancydiscreditbee.com^
 ||prember.com^
@@ -29858,6 +29755,7 @@
 ||proton-tm.com^
 ||protovid.com^
 ||protraffic.com^
+||protrafv2.com^
 ||provenpixel.com^
 ||provesrc.com^
 ||provexia.com^
@@ -29869,7 +29767,6 @@
 ||prpops.com^
 ||prpopss.com^
 ||prprocess.com^
-||prqqmfkedev.com^
 ||prsaln.com^
 ||prscripts.com^
 ||prsitecheck.com^
@@ -29889,7 +29786,6 @@
 ||pseqcs05.com^
 ||psfmlcgzdtwfwf.com^
 ||pshtrk.com^
-||psijdbcwwnqqw.com^
 ||psisalte.com^
 ||psitchie.com^
 ||pskadmzl.com^
@@ -29915,6 +29811,7 @@
 ||pt-trx.com^
 ||pt21na.com^
 ||ptarepjx.com^
+||ptaubsih.com^
 ||ptaughar.com^
 ||ptauphie.com^
 ||ptauvuph.com^
@@ -29979,7 +29876,6 @@
 ||pubrain.com^
 ||pubted.com^
 ||pubwebnet.com^
-||pucemara.com^
 ||pudacasa.com^
 ||puddingreluctantly.com^
 ||pufenchuanmu.com^
@@ -30155,7 +30051,6 @@
 ||pxaction.com^
 ||pxbryexcnyz.com^
 ||pxgfdcfcrucazj.com^
-||pxgfvpwkukl.com^
 ||pxhogrilyeov.com^
 ||pxjzhqcmuaa.com^
 ||pxl2015x1.com^
@@ -30279,7 +30174,6 @@
 ||qiqiyii.com^
 ||qirnz.com^
 ||qithimsuejs.com^
-||qitwoxzibesak.com^
 ||qiumodies.com^
 ||qiunckxdgf.com^
 ||qivsod.com^
@@ -30347,7 +30241,6 @@
 ||qpfhd.com^
 ||qpfzpcsknvt.com^
 ||qphxgwnqgbkzwh.com^
-||qpianhkxxuc.com^
 ||qpljfpwdpk.com^
 ||qpokok.com^
 ||qqatxipoki.com^
@@ -30497,12 +30390,10 @@
 ||qylxeorawht.com^
 ||qyqc4s.com^
 ||qytyf.com^
-||qyvpgddwqynp.com^
 ||qza7iorexyrp.com^
 ||qzbnnpotm.com^
 ||qzbxfs.com^
 ||qzdaren.com^
-||qzdexbmyq.com^
 ||qzdfc.com^
 ||qzgbhuelut.com^
 ||qziqnfwzk.com^
@@ -30615,7 +30506,6 @@
 ||rc-room.com^
 ||rcaiu.com^
 ||rcblkkhfvrxyn.com^
-||rckpwmhqz.com^
 ||rcogzcsan.com^
 ||rcurn.com^
 ||rcvhzfcnja.com^
@@ -30786,6 +30676,7 @@
 ||reindaks.com^
 ||reiqwxxd.com^
 ||reiseeget.com^
+||rejectfairies.com^
 ||rekko.com^
 ||rekl1.com^
 ||reklam7.com^
@@ -30930,7 +30821,6 @@
 ||revoffers.com^
 ||revolvermaps.com^
 ||revotas.com^
-||revqwsjtu.com^
 ||revresda.com^
 ||revresponse.com^
 ||revrtb.com^
@@ -31027,6 +30917,7 @@
 ||risausso.com^
 ||riserange.com^
 ||ritchelu.com^
+||ritecounter.com^
 ||ritedrugstore.com^
 ||ritogaga.com^
 ||ritzykey.com^
@@ -31084,7 +30975,6 @@
 ||roars.com^
 ||robotadserver.com^
 ||robotreplay.com^
-||robovoiz.com^
 ||robsoaks.com^
 ||robspabah.com^
 ||robustbelieve.com^
@@ -31181,7 +31071,6 @@
 ||rsuwxqaoqpuueg.com^
 ||rsviqjzhvubz.com^
 ||rsvpgenius.com^
-||rtaofgamnnfh.com^
 ||rtb-seller.com^
 ||rtb123.com^
 ||rtbadzesto.com^
@@ -31276,10 +31165,8 @@
 ||rvkcpqz.com^
 ||rvlzsbmshtt.com^
 ||rvnc72k.com^
-||rvnpytnhxppkzv.com^
 ||rvqfpfgzmw.com^
 ||rvqnahkwdhird.com^
-||rvswxrjkmjou.com^
 ||rvtqbxawlkbq.com^
 ||rvttrack.com^
 ||rvwhtjxnn.com^
@@ -31304,7 +31191,6 @@
 ||rynotnfdekb.com^
 ||ryquhezrbhfp.com^
 ||ryushare.com^
-||ryvqkjfsnmrya.com^
 ||ryynoljdarrw.com^
 ||rzajohyjxff.com^
 ||rzbozucqgmostr.com^
@@ -31458,7 +31344,6 @@
 ||sbdtds.com^
 ||sbenx.com^
 ||sbfsdvc.com^
-||sbgftsoe.com^
 ||sbietlbug.com^
 ||sbinx.com^
 ||sblcjzjp.com^
@@ -31522,7 +31407,6 @@
 ||scupio.com^
 ||scw0.com^
 ||sczcxmaizy.com^
-||sd5doozry8.com^
 ||sdasasyydd.com^
 ||sddan.com^
 ||sddlcnqhyl.com^
@@ -31670,6 +31554,7 @@
 ||selwrite.com^
 ||semalt.com^
 ||semantic-finder.com^
+||semanticrep.com^
 ||semanticverses.com^
 ||semantiqo.com^
 ||semasio.com^
@@ -31881,7 +31766,6 @@
 ||shitiphu.com^
 ||shjmjmds.com^
 ||shjsxx.com^
-||shkywh.com^
 ||shmokiads.com^
 ||shmonekisot.com^
 ||shndrktrk.com^
@@ -32365,7 +32249,6 @@
 ||sowkhntq.com^
 ||sowlobptfzfh.com^
 ||soza6rsz3ezi.com^
-||sp96878.com^
 ||spacash.com^
 ||spacechimpmedia.com^
 ||spaceleadster.com^
@@ -32419,7 +32302,6 @@
 ||spinasale.com^
 ||spiralstab.com^
 ||spirebaboon.com^
-||spjvuubtewq.com^
 ||spklds.com^
 ||spklmis.com^
 ||spklw.com^
@@ -32511,7 +32393,6 @@
 ||srcu.com^
 ||srezrzsyqrikab.com^
 ||srgev.com^
-||sriaqmzx.com^
 ||srigbxxv.com^
 ||srjbxbkwn.com^
 ||srkft.com^
@@ -32533,10 +32414,10 @@
 ||sscefsol.com^
 ||ssdaili.com^
 ||ssdiwjkarblih.com^
-||ssdoi.com^
 ||ssiapawz.com^
 ||ssjy168.com^
 ||ssl-services.com^
+||ssl2anyone2.com^
 ||ssl2anyone3.com^
 ||ssl2anyone5.com^
 ||ssl4anyone2.com^
@@ -32778,6 +32659,7 @@
 ||sunnybluecoral.com^
 ||sunnysmedia.com^
 ||suocloud.com^
+||supaads.com^
 ||suparewards.com^
 ||super-plans.com^
 ||superadexchange.com^
@@ -32788,6 +32670,7 @@
 ||superficialsquare.com^
 ||superfish.com^
 ||superfloooow.com^
+||superinterstitial.com^
 ||superippo.com^
 ||superloofy.com^
 ||supernaturalart.com^
@@ -32817,7 +32700,6 @@
 ||surfearner.com^
 ||surfertracker.com^
 ||surgeprice.com^
-||surquvsx.com^
 ||survata.com^
 ||survey-poll.com^
 ||surveyend.com^
@@ -32841,7 +32723,6 @@
 ||suxqsqlasc.com^
 ||suzhoujinghui.com^
 ||sv88.com^
-||svbfcmumrj.com^
 ||svclqyctlijue.com^
 ||sveklon.com^
 ||svekolka.com^
@@ -32888,14 +32769,13 @@
 ||swrve.com^
 ||swstkrihg.com^
 ||swtkes.com^
-||sxjxhg.com^
+||sxdyrq.com^
 ||sxmdxy.com^
 ||sxmgd1aqrr.com^
 ||sxmutan.com^
 ||sxpupjlyswpgsb.com^
 ||sxqtqyjlumbro.com^
 ||sxtracking.com^
-||sxwcfnai.com^
 ||sxwwizqaoedor.com^
 ||sxympy.com^
 ||sxz67.com^
@@ -32906,7 +32786,6 @@
 ||sy123888.com^
 ||sycbbs.com^
 ||sycbmucgctvha.com^
-||syhganutwnp.com^
 ||sykty.com^
 ||symbiosting.com^
 ||symbolizebeast.com^
@@ -32943,7 +32822,6 @@
 ||szggdw.com^
 ||szimh.com^
 ||szjyfund.com^
-||szpcxramtfr.com^
 ||szpl0.com^
 ||szqifu.com^
 ||szrk3.com^
@@ -33021,6 +32899,7 @@
 ||tangozebra.com^
 ||tanidigital.com^
 ||tanit-dio.com^
+||tankeuro.com^
 ||tantella.com^
 ||tantoporno.com^
 ||tantractium.com^
@@ -33100,10 +32979,10 @@
 ||tcimg.com^
 ||tckn-code.com^
 ||tcmdz.com^
+||tcnmf.com^
 ||tcqyskiryo.com^
 ||tcrybv.com^
 ||tctakoh.com^
-||tcupxwxcvssauz.com^
 ||tcxtybtaeivao.com^
 ||tczzzlwpss.com^
 ||td553.com^
@@ -33144,7 +33023,6 @@
 ||tebo0o2xw4.com^
 ||tebyj99zkdyb.com^
 ||tec-tec-boom.com^
-||tech-board.com^
 ||techantuijian.com^
 ||techbeat.com^
 ||techlab-cdn.com^
@@ -33195,7 +33073,6 @@
 ||tendertest.com^
 ||tenlokif.com^
 ||tensquare.com^
-||tentekuzi.com^
 ||teosredic.com^
 ||tepmpemrixd.com^
 ||teqhllxidowmi.com^
@@ -33229,11 +33106,11 @@
 ||textlinkads.com^
 ||textlinks.com^
 ||textonlyads.com^
+||textsrv.com^
 ||texturetrick.com^
 ||tf-con.com^
 ||tf2www.com^
 ||tfbqvqclg.com^
-||tfbzzigqzbax.com^
 ||tfg8.com^
 ||tfjqjhcwlfhicn.com^
 ||tfncnhd8p95c.com^
@@ -33243,7 +33120,6 @@
 ||tfxiq.com^
 ||tgaqxo.com^
 ||tgbdjyryn.com^
-||tgbjtcgkdu.com^
 ||tgdaudience.com^
 ||tgdhimcwww.com^
 ||tgknt.com^
@@ -33391,10 +33267,8 @@
 ||tidnqztumpnk.com^
 ||tidyboressire.com^
 ||tidytrail.com^
-||tieyggub.com^
 ||tifbhyfrik.com^
 ||tijoctqry.com^
-||tikuedobxa.com^
 ||timetwig.com^
 ||timteen.com^
 ||tin-tin-win.com^
@@ -33415,7 +33289,6 @@
 ||tipslz.com^
 ||tiqcdn.com^
 ||tiqiq.com^
-||tisagama.com^
 ||tiser.com^
 ||tisoomi.com^
 ||tisoomi-services.com^
@@ -33442,7 +33315,6 @@
 ||tj9pcnb2ws.com^
 ||tjcorfsynjppv.com^
 ||tjfot.com^
-||tjgxzs.com^
 ||tjhhr.com^
 ||tjhkdxzzxyb.com^
 ||tjiaa.com^
@@ -33465,7 +33337,6 @@
 ||tlgvoeeuhxsd.com^
 ||tlhiatdhw.com^
 ||tlkhzqmrg.com^
-||tlkqzjvyujb.com^
 ||tlvmedia.com^
 ||tlxspilyxsfx.com^
 ||tm-awx.com^
@@ -33502,7 +33373,6 @@
 ||tnsglobal.com^
 ||toagluji.com^
 ||toalhjpw.com^
-||toarqsglo.com^
 ||toboads.com^
 ||tochgw.com^
 ||tocopada.com^
@@ -33977,6 +33847,7 @@
 ||tslomhfys.com^
 ||tsmtrk.com^
 ||tspops.com^
+||tsrc8.com^
 ||tssandycateup.com^
 ||tst14netreal.com^
 ||tsuwirdrddb.com^
@@ -34113,7 +33984,6 @@
 ||txtxr.com^
 ||txwfpcfdgepzmp.com^
 ||ty229.com^
-||tyborlawlkz.com^
 ||tybwfgqq.com^
 ||tyh887.com^
 ||tyjyrkcrv.com^
@@ -34334,7 +34204,6 @@
 ||unicast.com^
 ||uniconsent.com^
 ||unicorbott.com^
-||unicume.com^
 ||unifiedlayer.com^
 ||unilz588.com^
 ||unimhk.com^
@@ -34476,7 +34345,6 @@
 ||usadserver.com^
 ||usahacmyhl.com^
 ||usairguw.com^
-||usapromotravel.com^
 ||usbanners.com^
 ||usbmodmenu.com^
 ||uscpn0c485wn.com^
@@ -34547,7 +34415,6 @@
 ||uukqisdwolzsjd.com^
 ||uulvtpbx.com^
 ||uunewcar.com^
-||uunriutbi.com^
 ||uuopp.com^
 ||uusee.com^
 ||uusftafycvolbk.com^
@@ -34587,6 +34454,7 @@
 ||uzk4umokyri3.com^
 ||uzmanreklam.com^
 ||uzmdfi.com^
+||uznbehyrn.com^
 ||uznwafjxmm.com^
 ||uzpmrbek.com^
 ||uzrating.com^
@@ -34708,7 +34576,6 @@
 ||ventivmedia.com^
 ||venturead.com^
 ||venusgloria.com^
-||veodxsimctsgs.com^
 ||veoujrnenng.com^
 ||veoxa.com^
 ||verajohn.com^
@@ -34756,7 +34623,6 @@
 ||vfgtb.com^
 ||vfgte.com^
 ||vfhkljw5f6ss.com^
-||vfousvlr.com^
 ||vfsirfnosdx.com^
 ||vfsyklhwbxgq.com^
 ||vftbnl.com^
@@ -34830,7 +34696,6 @@
 ||vidora.com^
 ||vidpay.com^
 ||vidplah.com^
-||vids63.com^
 ||vidsdelivery.com^
 ||vidsizee.com^
 ||vidssp.com^
@@ -35101,7 +34966,6 @@
 ||vvpcdke43x.com^
 ||vvshsrdlf.com^
 ||vvtysgrbmx.com^
-||vvyimltzbnu.com^
 ||vwadblujv.com^
 ||vwcsl.com^
 ||vwinnow.com^
@@ -35111,7 +34975,6 @@
 ||vwxgxculdbybw.com^
 ||vxdrqtghmztm.com^
 ||vxkfvzhduws.com^
-||vxnejgcewmbuk.com^
 ||vxrpmslex.com^
 ||vxsnk.com^
 ||vy4e3jw46l.com^
@@ -35204,6 +35067,7 @@
 ||warsomnet.com^
 ||waryfog.com^
 ||wasp-182b.com^
+||wastedcooperate.com^
 ||watchingthat.com^
 ||watchmygf.com^
 ||watchsk.com^
@@ -35231,7 +35095,6 @@
 ||wbdds.com^
 ||wbies.com^
 ||wbiev.com^
-||wbizijxdm.com^
 ||wbptqzmv.com^
 ||wcail.com^
 ||wcfelywclbql.com^
@@ -35396,7 +35259,6 @@
 ||wendise.com^
 ||wensoono.com^
 ||wenxuemi6.com^
-||weoukcpr.com^
 ||weownthetraffic.com^
 ||wepmmzpypfwq.com^
 ||werpig.com^
@@ -35619,6 +35481,7 @@
 ||wonfigfig.com^
 ||woogoust.com^
 ||woopra.com^
+||woopra-ns.com^
 ||wootoozo.com^
 ||wootric.com^
 ||wordego.com^
@@ -35666,7 +35529,6 @@
 ||wpqvggsnc.com^
 ||wptpoker.com^
 ||wqgdajjozr.com^
-||wqhmpzjvdmvm.com^
 ||wqkqrmzldk.com^
 ||wqlkp.com^
 ||wqmjybqqhz.com^
@@ -35697,7 +35559,6 @@
 ||wsockd.com^
 ||wsod.com^
 ||wsoue.com^
-||wsowkqnxs.com^
 ||wssdoo.com^
 ||wstatslive.com^
 ||wstztt.com^
@@ -35821,7 +35682,6 @@
 ||x-traff.com^
 ||x10.com^
 ||x19network.com^
-||x3w7lvezss.com^
 ||x40u1vj75ks9.com^
 ||x4300tiz.com^
 ||x6k2vb7652xd.com^
@@ -35926,7 +35786,6 @@
 ||xhaiu.com^
 ||xhamstercams.com^
 ||xhbqczl.com^
-||xhct66.com^
 ||xhgqgbomrrfstv.com^
 ||xhit.com^
 ||xhjtggrtkzo.com^
@@ -35935,7 +35794,6 @@
 ||xhrxb.com^
 ||xhzz3moj1dsd.com^
 ||xi0021.com^
-||xiadaxiong.com^
 ||xiakelea.com^
 ||xiald.com^
 ||xiangchim0.com^
@@ -36016,6 +35874,7 @@
 ||xmtrk.com^
 ||xmtsyg.com^
 ||xmvoodgr.com^
+||xmwbplpgjc.com^
 ||xmwxurmgmly.com^
 ||xmxxwl.com^
 ||xn--2qu96gouvko1a.com^
@@ -36038,10 +35897,8 @@
 ||xnjpg.com^
 ||xnjzsn.com^
 ||xnkmmbfpyokevaxsjtky.com^
-||xnrjtqmud.com^
 ||xnwndbef.com^
 ||xnxx.com^
-||xnydasvpdqn.com^
 ||xnyiljkfdwgu.com^
 ||xoalt.com^
 ||xoassxowovsrk.com^
@@ -36080,7 +35937,6 @@
 ||xqzlhxzkcil.com^
 ||xr-tds.com^
 ||xr8wv50k1daj.com^
-||xrapmkrsqa.com^
 ||xrbmomiow.com^
 ||xrbvsiyyr.com^
 ||xrea.com^
@@ -36136,7 +35992,6 @@
 ||xvcmsfoeheu.com^
 ||xvika.com^
 ||xviplxteu.com^
-||xvlkfkjl.com^
 ||xvnfyutv.com^
 ||xvomqsoivtiaxh.com^
 ||xvtbumnuj.com^
@@ -36145,7 +36000,6 @@
 ||xvyljkr.com^
 ||xw1001.com^
 ||xwdsp.com^
-||xwetmeeynns.com^
 ||xwoexbipp.com^
 ||xwprdjbayq.com^
 ||xww360.com^
@@ -36242,7 +36096,6 @@
 ||ybrantdigital.com^
 ||ybtianxi.com^
 ||ybwpvenix.com^
-||ybxhjlqurdq.com^
 ||yccdn.com^
 ||ycczhbzoyseg.com^
 ||ychijnziuhvu.com^
@@ -36261,7 +36114,6 @@
 ||ydtqlmsvocjp.com^
 ||ydvexlxyg.com^
 ||ydworld.com^
-||ydzakntxe.com^
 ||ye185hcamw.com^
 ||yeabble.com^
 ||yeah.com^
@@ -36312,7 +36164,6 @@
 ||yfcxyejwyeyjse.com^
 ||yfibjzosrqrtmv.com^
 ||yfnvswrfjw.com^
-||yformvcqgphol.com^
 ||yftuybem.com^
 ||yfubi.com^
 ||yfum.com^
@@ -36430,6 +36281,7 @@
 ||ynvmoxqbm.com^
 ||ynvwvckgqich.com^
 ||ynwia.com^
+||ynwqls.com^
 ||ynxerecrbihujf.com^
 ||ynzhby.com^
 ||yobihost.com^
@@ -36497,7 +36349,6 @@
 ||yoyadsdom.com^
 ||ypecfkbqgldzq.com^
 ||ypkbybzpd.com^
-||ypksjcnrsett.com^
 ||ypmadserver.com^
 ||ypmob.com^
 ||ypmwkketrdbwn.com^
@@ -36508,13 +36359,11 @@
 ||ypzhrmspnfmy.com^
 ||ypzrannhrvhlpk.com^
 ||yqbyzekybmswii.com^
-||yqccpziiuak.com^
 ||yqcmuxkd.com^
 ||yqecjuoxiquvr.com^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^
 ||yqjxzw.com^
-||yqkxutfjzbdbml.com^
 ||yqmhrvvlbm.com^
 ||yqmzhilyjzw.com^
 ||yqw88.com^
@@ -36563,7 +36412,6 @@
 ||yume.com^
 ||yumenetworks.com^
 ||yumimobi.com^
-||yumzgezhl.com^
 ||yunjiasu.com^
 ||yunl1.com^
 ||yunmowu.com^
@@ -36593,7 +36441,6 @@
 ||yvysgncv.com^
 ||yvytbqgmersgw.com^
 ||yvzgazds6d.com^
-||ywbwsm.com^
 ||ywemjekei.com^
 ||ywgjjhjay.com^
 ||ywtofulqxeqcvq.com^
@@ -36691,7 +36538,6 @@
 ||zckphynp.com^
 ||zcl-js.com^
 ||zcoup.com^
-||zcovfcongwmn.com^
 ||zcrtd.com^
 ||zcwjasfrog.com^
 ||zcyclbncgubccl.com^
@@ -36767,7 +36613,6 @@
 ||zg-api.com^
 ||zgbsny.com^
 ||zgc66.com^
-||zgcplfvjpixarg.com^
 ||zgdtro.com^
 ||zgeuzenogpy.com^
 ||zgfszs.com^
@@ -36912,7 +36757,6 @@
 ||zorwrite.com^
 ||zotabox.com^
 ||zoteromedia.com^
-||zounhlyqz.com^
 ||zoupsudy.com^
 ||zowary.com^
 ||zozolilla.com^
@@ -36984,6 +36828,7 @@
 ||zvkytbjimbhk.com^
 ||zvswmofga.com^
 ||zvtbdwziyxh.com^
+||zwenhan.com^
 ||zwigjtgnzfn.com^
 ||zwkssb.com^
 ||zwmauyerfotyh.com^
@@ -37038,7 +36883,6 @@
 ||zzsssy.com^
 ||zzux.com^
 ||zzvvzfiwyfq.com^
-||zzwflxs.com^
 ||zzxlukodff.com^
 ||zzyonghao.com^
 ||myads.company^
@@ -39292,6 +39136,7 @@
 ||ad.yixin.im^
 ||clk.im^
 ||count.im^
+||files.im^
 ||getsocial.im^
 ||lead.im^
 ||maka.im^
@@ -41014,7 +40859,6 @@
 ||banner.dabi.ir^
 ||uue2.destinia.ir^
 ||ads.rzb.ir^
-||ads.sooran.ir^
 ||ad.utop.ir^
 ||banner.vatanclick.ir^
 ||cg.yourcube.ir^
@@ -41317,7 +41161,6 @@
 ||clicklink.jp^
 ||colossal.jp^
 ||compass-fit.jp^
-||data-analytics.jp^
 ||docodoco.jp^
 ||dynalyst.jp^
 ||eco-tag.jp^
@@ -41329,7 +41172,6 @@
 ||focas.jp^
 ||fout.jp^
 ||gacraft.jp^
-||garss.jp^
 ||geniee.jp^
 ||genieessp.jp^
 ||genieesspv.jp^
@@ -41726,7 +41568,6 @@
 ||44chan.me^
 ||9t5.me^
 ||aab-check.me^
-||abbeyblog.me^
 ||actrk.me^
 ||ad-2.me^
 ||ad-3.me^
@@ -41778,7 +41619,6 @@
 ||feed777.me^
 ||fgn.me^
 ||fits.me^
-||flaudnrs.me^
 ||freetospeak.me^
 ||gear5.me^
 ||getsl.me^
@@ -41891,7 +41731,6 @@
 ||www.admarket.mobi^
 ||ad.adzmedia.mobi^
 ||ads.aftama.mobi^
-||strk.aigames.mobi^
 ||track.blam.mobi^
 ||xdadevelopers.browsi.mobi^
 ||images.cloudassets.mobi^
@@ -42081,7 +41920,6 @@
 ||www.5221.net^
 ||c2.58toto.net^
 ||5.5ppt.net^
-||dm.66qw.net^
 ||www.76802.net^
 ||vd.7vid.net^
 ||rotator.7x3.net^
@@ -42095,6 +41933,7 @@
 ||ads.aceweb.net^
 ||powerlift-frontdesk.acompli.net^
 ||adimg.activeadv.net^
+||ads.activepower.net^
 ||an.acxapi.net^
 ||adex.adchakra.net^
 ||track.addict-mobile.net^
@@ -42244,6 +42083,7 @@
 ||ads.avads.net^
 ||content.avangate.net^
 ||offers.avazuscd.net^
+||rum.azioncdn.net^
 ||analytics-consent-manager.azureedge.net^
 ||fp-cdn.azureedge.net^
 ||g2insights-cdn.azureedge.net^
@@ -42262,6 +42102,12 @@
 ||bd-s.baixing.net^
 ||script-bd.baixing.net^
 ||mail.bangla.net^
+||log.houyi.baofeng.net^
+||mid.houyi.baofeng.net^
+||static.houyi.baofeng.net^
+||web.houyi.baofeng.net^
+||wl.houyi.baofeng.net^
+||xs.houyi.baofeng.net^
 ||pvlog.moviebox.baofeng.net^
 ||config.baofeng.net^
 ||listlog.baofeng.net^
@@ -43426,7 +43272,6 @@
 ||beacon.gutefrage.net^
 ||consent.gutefrage.net^
 ||happyunicorns.gutefrage.net^
-||k.gzbld.net^
 ||jg.hack-inter.net^
 ||reporting.handll.net^
 ||analyticsapi.happypancake.net^
@@ -43461,7 +43306,6 @@
 ||tc.hometogo.net^
 ||ads.hostingbuy.net^
 ||rss.hotidols.net^
-||search-phentermine.hpage.net^
 ||us-west-2.kinesis.hpanalytics.net^
 ||js.hscollectedforms.net^
 ||dm.html.net^
@@ -43554,7 +43398,6 @@
 ||ad.kodansha.net^
 ||app4.kromtech.net^
 ||assets.kromtech.net^
-||apkquery.ksmobile.net^
 ||appinfocdn.ksmobile.net^
 ||gcm.ksmobile.net^
 ||ups.ksmobile.net^
@@ -43650,7 +43493,6 @@
 ||sc.livetvcdn.net^
 ||www.livewell.net^
 ||linkexchange.lk.net^
-||production.mcs.delve.cust.lldns.net^
 ||cds177.dus.llnw.net^
 ||cds407.fra.llnw.net^
 ||cds308.lcy.llnw.net^
@@ -43701,7 +43543,6 @@
 ||cds857.lon.llnw.net^
 ||cds868.lon.llnw.net^
 ||cds869.lon.llnw.net^
-||production-mcs.lvp.llnw.net^
 ||production-ps.lvp.llnw.net^
 ||cds38.ory.llnw.net^
 ||cds54.ory.llnw.net^
@@ -43766,6 +43607,7 @@
 ||hbbtv.mediaset.net^
 ||webtrekk.mediaset.net^
 ||affiliate.mediatemple.net^
+||ads.mediaturf.net^
 ||www.mediazotic.net^
 ||ma1.meishij.net^
 ||pubstv.mesdiscussions.net^
@@ -43982,7 +43824,6 @@
 ||idx.m.hub.sandai.net^
 ||hub5pn.wap.sandai.net^
 ||etl.xlmc.sandai.net^
-||ping.xlmc.sandai.net^
 ||biz5.sandai.net^
 ||hub5btmain.sandai.net^
 ||hub5emu.sandai.net^
@@ -44415,7 +44256,6 @@
 ||adlnk.net^
 ||adloft.net^
 ||adlogix.net^
-||adlook.net^
 ||adlure.net^
 ||admagnet.net^
 ||admarketplace.net^
@@ -44439,6 +44279,7 @@
 ||adpile.net^
 ||adplans.net^
 ||adpon.net^
+||adprofile.net^
 ||adrecom.net^
 ||adrent.net^
 ||adrequest.net^
@@ -44637,6 +44478,7 @@
 ||bannertrack.net^
 ||barilliance.net^
 ||basis.net^
+||bathouph.net^
 ||batmobi.net^
 ||batmobil.net^
 ||bauthair.net^
@@ -44656,7 +44498,6 @@
 ||bf-tools.net^
 ||bh3.net^
 ||biaoshipai.net^
-||bicarepterone.net^
 ||bidclix.net^
 ||bidhead.net^
 ||bidrev.net^
@@ -44736,7 +44577,6 @@
 ||chatulfetelor.net^
 ||chaufoox.net^
 ||chauksoa.net^
-||chaxinyong.net^
 ||cheap-ads.net^
 ||checkru.net^
 ||cheewait.net^
@@ -45058,6 +44898,7 @@
 ||gameads.net^
 ||gamesites100.net^
 ||gangtiebang.net^
+||gatewey.net^
 ||gator.net^
 ||gaulauvi.net^
 ||gay-hotvideo.net^
@@ -45079,6 +44920,7 @@
 ||gingert.net^
 ||givirsou.net^
 ||glaiwhee.net^
+||glamurka.net^
 ||glauptan.net^
 ||gleebsex.net^
 ||gleechie.net^
@@ -45285,7 +45127,6 @@
 ||jautaush.net^
 ||jautouze.net^
 ||jazayr.net^
-||jeckethemarbut.net^
 ||jeejujou.net^
 ||jeekeglu.net^
 ||jeeshapi.net^
@@ -45508,7 +45349,6 @@
 ||moneybot.net^
 ||monitus.net^
 ||monkeybroker.net^
-||monkeyminer.net^
 ||moonads.net^
 ||moowouzy.net^
 ||more427.net^
@@ -45583,6 +45423,7 @@
 ||next-search.net^
 ||nextaction.net^
 ||ngbn.net^
+||ngmco.net^
 ||nhatvip.net^
 ||nigrebud.net^
 ||nimiqtest.net^
@@ -45773,7 +45614,6 @@
 ||profiliate.net^
 ||profistats.net^
 ||projectagora.net^
-||promo-market.net^
 ||promoads.net^
 ||propush.net^
 ||protally.net^
@@ -45910,7 +45750,6 @@
 ||roujonoa.net^
 ||roustast.net^
 ||rouvoute.net^
-||rowthetresparhed.net^
 ||roxr.net^
 ||royalads.net^
 ||rp-rep.net^
@@ -45943,7 +45782,6 @@
 ||savefromad.net^
 ||sayyac.net^
 ||sc-static.net^
-||sc10.net^
 ||scansafe.net^
 ||scriptutils.net^
 ||sdhzstone.net^
@@ -46053,7 +45891,6 @@
 ||springserve.net^
 ||spulse.net^
 ||spycounter.net^
-||srng.net^
 ||srpx.net^
 ||srtk.net^
 ||st02.net^
@@ -46158,9 +45995,9 @@
 ||thumbnail-galleries.net^
 ||tifbs.net^
 ||tinb.net^
-||tisitewoper.net^
 ||tizer8.net^
 ||tizerfly.net^
+||tizergun.net^
 ||tizermine.net^
 ||tizermy.net^
 ||tm-core.net^
@@ -46206,7 +46043,6 @@
 ||trafficengine.net^
 ||trafficgate.net^
 ||trafficjunky.net^
-||trafficmasterz.net^
 ||trafficrevenue.net^
 ||trafficspaces.net^
 ||traffictrader.net^
@@ -46269,6 +46105,7 @@
 ||valueaffiliate.net^
 ||valueclick.net^
 ||vantage-media.net^
+||vareza.net^
 ||variti.net^
 ||vashoaft.net^
 ||vclicks.net^
@@ -46603,6 +46440,7 @@
 ||psh.one^
 ||pushservice.one^
 ||routeme.one^
+||wts.one^
 ||whia7g.acquafufheirybveru.online^
 ||www2.ad-server.online^
 ||srv-001.aff-track.online^
@@ -46662,7 +46500,6 @@
 ||askaspalb.online^
 ||aspampbrr.online^
 ||bigbangbon.online^
-||bj1010.online^
 ||bj1052.online^
 ||bj1110.online^
 ||bj1769.online^
@@ -46799,6 +46636,7 @@
 ||smetrics.cedars-sinai.org^
 ||probe.cedexis.org^
 ||smetrics.cfainstitute.org^
+||21.cizhibaogao.org^
 ||strack.collegeboard.org^
 ||ads.computer.org^
 ||metrics.consumerreports.org^
@@ -47339,7 +47177,6 @@
 ||xxx-babes.org^
 ||xxxc2c.org^
 ||xxximagetpb.org^
-||xznykf.org^
 ||y8z.org^
 ||yarpp.org^
 ||ydfz.org^
@@ -47439,6 +47276,7 @@
 ||p8.hecherthepar.pro^
 ||pixel.hecherthepar.pro^
 ||tothemoon.incest-porno.pro^
+||cdn.jamcdn.pro^
 ||im1.mediacnt.pro^
 ||im2.mediacnt.pro^
 ||click.moneyoffer.pro^
@@ -47615,7 +47453,6 @@
 ||hapogzu9a19m5fhe56pb.pro^
 ||harthatforsin.pro^
 ||hashvault.pro^
-||hedthertsu.pro^
 ||helingoneheckhes.pro^
 ||helptime.pro^
 ||henasentence.pro^
@@ -47632,6 +47469,7 @@
 ||ineldacarry.pro^
 ||ingeliteral.pro^
 ||ininmacerad.pro^
+||insomn.pro^
 ||isodhsd.pro^
 ||ivnakaa.pro^
 ||ivnsssc.pro^
@@ -47826,7 +47664,6 @@
 ||twillamadura.pro^
 ||ukcomparends.pro^
 ||unlomblam.pro^
-||unqpun.pro^
 ||updatesecure.pro^
 ||ursorsee.pro^
 ||usocial.pro^
@@ -48116,7 +47953,6 @@
 ||hep.tucm.site^
 ||ads.wcond.site^
 ||5081.site^
-||5780.site^
 ||abroadlynijiz.site^
 ||absolubleldan.site^
 ||acceptiongere.site^
@@ -48513,7 +48349,6 @@
 ||yonatefin.site^
 ||ys1pve.site^
 ||yspicb.site^
-||zme5uv.site^
 ||zroundancez.site^
 ||tracker.azet.sk^
 ||img.centrum.sk^
@@ -48555,6 +48390,7 @@
 ||arposastrar.space^
 ||attacketsun.space^
 ||cdn7.space^
+||chardsreme.space^
 ||circuitewate.space^
 ||commissai.space^
 ||cryptoads.space^
@@ -48593,6 +48429,7 @@
 ||nhqqv.space^
 ||nofreezingmac.space^
 ||npractivelyfr.space^
+||ntsperimepr.space^
 ||oklm.space^
 ||owedinternslt.space^
 ||premium-offers.space^
@@ -49002,7 +48839,6 @@
 ||infeed.tv^
 ||inpicture.tv^
 ||ispot.tv^
-||kinostok.tv^
 ||kost.tv^
 ||laim.tv^
 ||livejasmin.tv^
@@ -49470,7 +49306,6 @@
 ||offerx.co.uk^
 ||onefeed.co.uk^
 ||oneiota.co.uk^
-||onlysix.co.uk^
 ||onstate.co.uk^
 ||ophan.co.uk^
 ||optilead.co.uk^
@@ -49624,7 +49459,6 @@
 ||trks.us^
 ||updatemanagir.us^
 ||uwuyn.us^
-||vqfqo.us^
 ||wecai.us^
 ||whitesmoke.us^
 ||wmgroup.us^
@@ -49726,7 +49560,6 @@
 ||yo88.win^
 ||zbet.win^
 ||*.work^
-||loxodo-analytics.ext.nile.works^
 ||loxodo-ct.ext.nile.works^
 ||targeting.washpost.nile.works^
 ||dc.railgun.works^
@@ -49744,6 +49577,7 @@
 ||www.linkworld.ws^
 ||adserver.madeby.ws^
 ||toplist.raidrush.ws^
+||www.serials.ws^
 ||log.superweb.ws^
 ||api.zanox.ws^
 ||2girls1cup.ws^
@@ -49778,6 +49612,7 @@
 ||dsp.wtf^
 ||xn--wxtr9fwyxk9c.xn--55qx5d^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
+||meituan.xn--io0a7i^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^
 ||thri.xxx^
 @@||gitcdn.xyz^
