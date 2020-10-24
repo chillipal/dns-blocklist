@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list for mobile by @chillipal
-! Updated: 2020-10-22 07:45:09 +0000
+! Updated: 2020-10-24 07:45:09 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -32276,6 +32276,13 @@
 ||log.formr.io^
 ||bab.frb.io^
 ||stats-dc1.frz.io^
+||api.gameads.io^
+||banner.gameads.io^
+||cdn.gameads.io^
+||n.gameads.io^
+||node.gameads.io^
+||panel.gameads.io^
+||shapez.gameads.io^
 ||log.getamigo.io^
 ||event.getblue.io^
 ||metrics.getvitals.io^
