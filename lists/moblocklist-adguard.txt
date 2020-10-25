@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list for mobile by @chillipal
-! Updated: 2020-10-24 07:45:09 +0000
+! Updated: 2020-10-25 05:13:10 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -3240,7 +3240,6 @@
 ||advertising.apple.com^
 ||books-analytics-events.apple.com^
 ||cstat.apple.com^
-||iad.apple.com^
 ||iadcontent.apple.com^
 ||iadsdk.apple.com^
 ||qwapi.apple.com^
@@ -34365,6 +34364,7 @@
 ||stats.blogoscoop.net^
 ||banner.blogranking.net^
 ||openx.bmwpower-bg.net^
+||manifest.prod.boltdns.net^
 ||lq.booktxt.net^
 ||accountsx.bounceme.net^
 ||kulkarni.bounceme.net^
