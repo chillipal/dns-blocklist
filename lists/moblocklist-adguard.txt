@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list for mobile by @chillipal
-! Updated: 2020-10-25 05:13:10 +0000
+! Updated: 2020-10-25 17:35:48 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -506,6 +506,7 @@
 ||api.flyertown.ca^
 ||strack.freedommobile.ca^
 ||securemetrics.gapcanada.ca^
+||adservice.google.ca^
 ||id.google.ca^
 ||swasc.homedepot.ca^
 ||metrics.chapters.indigo.ca^
