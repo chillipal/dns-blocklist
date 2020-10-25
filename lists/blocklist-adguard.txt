@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list by @chillipal
-! Updated: 2020-10-25 17:30:09 +0000
+! Updated: 2020-10-25 20:28:02 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -12,7 +12,6 @@
 ||say.ac^
 ||tube.ac^
 ||adservice.google.ad^
-||id.google.ad^
 ||bonzai.ad^
 ||brand.ad^
 ||buythis.ad^
@@ -23,12 +22,10 @@
 ||pixel.ad^
 ||roq.ad^
 ||advertising.amazon.ae^
-||id.google.ae^
 ||ads.emirates.net.ae^
 ||aba.ae^
 ||advertica.ae^
 ||ucoz.ae^
-||id.google.com.af^
 ||adservice.google.com.ag^
 ||cntr.lookmovie.ag^
 ||script.ag^
@@ -113,7 +110,6 @@
 ||xn--wxtr9fwyxk9c.art^
 ||xn--xhq9mt12cf5v.art^
 ||cdn.c-i.as^
-||id.google.as^
 ||advantage.as^
 ||habd.as^
 ||smrt.as^
@@ -318,7 +314,6 @@
 ||toplog.az^
 ||adservice.google.ba^
 ||epp.bih.net.ba^
-||id.google.com.bd^
 ||analytics.portal.gov.bd^
 @@|youtu.be^
 ||*.be^
@@ -359,7 +354,6 @@
 ||adsrv.fashion.bg^
 ||openads.flagman.bg^
 ||ads.gateway.bg^
-||id.google.bg^
 ||ads.hicomm.bg^
 ||ads.ibox.bg^
 ||ads.icn.bg^
@@ -443,7 +437,6 @@
 ||profitshare.bg^
 ||tarasoft.bg^
 ||tyxo.bg^
-||id.google.com.bh^
 ||adservice.google.bi^
 ||deep.bi^
 ||tra.plifyingthist.bid^
@@ -691,7 +684,6 @@
 ||anuncios.edicaoms.com.br^
 ||banners.elefante.com.br^
 ||stats.folha.com.br^
-||id.google.com.br^
 ||banner.grupos.com.br^
 ||stats.guiamais.com.br^
 ||afiliados.hostgator.com.br^
@@ -850,7 +842,6 @@
 ||strack.freedommobile.ca^
 ||securemetrics.gapcanada.ca^
 ||adservice.google.ca^
-||id.google.ca^
 ||swasc.homedepot.ca^
 ||metrics.chapters.indigo.ca^
 ||content.etransfer.interac.ca^
@@ -1160,7 +1151,6 @@
 ||ad.games.ch^
 ||ad.gate24.ch^
 ||tracking.globonet.ch^
-||id.google.ch^
 ||ad.ilove.ch^
 ||banners.jobwinner.ch^
 ||ens.luzernerzeitung.ch^
@@ -1224,7 +1214,6 @@
 ||hits.e.cl^
 ||geo.emol.cl^
 ||mediaserver.emol.cl^
-||id.google.cl^
 ||analytics.mercadolibre.cl^
 ||abc.pema.cl^
 ||b.portalnet.cl^
@@ -2393,7 +2382,6 @@
 ||ystructingac.club^
 ||zinfluentlyw.club^
 ||zo.club^
-||id.google.cm^
 ||av8.cm^
 ||doga.cm^
 ||fuckbook.cm^
@@ -2412,7 +2400,6 @@
 ||pixel.brit.co^
 ||adcenter-api.cashwalk.co^
 ||tags.cdn.circlesix.co^
-||id.google.com.co^
 ||analytics.mercadolibre.com.co^
 ||analytics.drivehub.co^
 ||sinfo.dtcidev.co^
@@ -37902,7 +37889,6 @@
 ||analytics.mercadolibre.co.cr^
 ||laferia.cr^
 ||adservice.google.com.cu^
-||id.google.com.cu^
 ||adservice.google.cv^
 ||e.tw.cx^
 ||addr.cx^
@@ -37936,7 +37922,6 @@
 ||zip.er.cz^
 ||advert.eurotip.cz^
 ||ads.formit.cz^
-||id.google.cz^
 ||ad.grafika.cz^
 ||affiliate.heureka.cz^
 ||bannery.hledejceny.cz^
@@ -38235,7 +38220,6 @@
 ||cpx.golem.de^
 ||cpxl.golem.de^
 ||adservice.google.de^
-||id.google.de^
 ||ad.groupon.de^
 ||partner-ts.groupon.de^
 ||ea.habitat.de^
@@ -39168,7 +39152,6 @@
 ||cookie.fdih.dk^
 ||openx.gamereactor.dk^
 ||ads.gld.dk^
-||id.google.dk^
 ||www.guloggratis.dk^
 ||statistics.jfmedier.dk^
 ||statistik.jp.dk^
@@ -39262,7 +39245,6 @@
 ||modastro.ee^
 ||smartad.ee^
 ||spn.ee^
-||id.google.com.eg^
 ||email.gov.in.maildrive.email^
 ||canddi.email^
 ||digitaldoughnut.email^
@@ -39290,7 +39272,6 @@
 ||www.elpais.es^
 ||ads.epi.es^
 ||adserving03.epi.es^
-||id.google.es^
 ||ads.grupozeta.es^
 ||ea.hofmann.es^
 ||piwik.jccm.es^
@@ -39491,7 +39472,6 @@
 ||sinkku.eliittikumppani.fi^
 ||www.eliittikumppani.fi^
 ||banner.elisa.fi^
-||id.google.fi^
 ||events.il.fi^
 ||vg.is.fi^
 ||raahenseutu.jainos.fi^
@@ -39586,7 +39566,6 @@
 ||ad.genybet.fr^
 ||wa.gmx.fr^
 ||tag.goldenbees.fr^
-||id.google.fr^
 ||stats.grafikart.fr^
 ||ads.groupewin.fr^
 ||ad.groupon.fr^
@@ -40047,7 +40026,6 @@
 ||admega.feed.gr^
 ||interactive.forthnet.gr^
 ||www.glami.gr^
-||id.google.gr^
 ||bannergrabber.internet.gr^
 ||adman.kathimerini.gr^
 ||ads.naftemporiki.gr^
@@ -40080,7 +40058,6 @@
 ||sut.dailyfx.com.hk^
 ||tr.discuss.com.hk^
 ||wywvyf.discuss.com.hk^
-||id.google.com.hk^
 ||smetrics.lululemon.com.hk^
 ||useg.nextdigital.com.hk^
 ||tr.price.com.hk^
@@ -40214,7 +40191,6 @@
 ||analytics-api.agate.id^
 ||content22.citibank.co.id^
 ||adservice.google.co.id^
-||id.google.co.id^
 ||welcome.indihome.co.id^
 ||vzeyba.shopee.co.id^
 ||ibnads.xl.co.id^
@@ -40237,7 +40213,6 @@
 ||props.id^
 ||upoint.id^
 ||adservice.google.ie^
-||id.google.ie^
 ||stats.independent.ie^
 ||consent.inm.ie^
 ||ads.tinet.ie^
@@ -40251,7 +40226,6 @@
 ||bandoc.d-group.co.il^
 ||ox.dateland.co.il^
 ||ads.doctors.co.il^
-||id.google.co.il^
 ||ds.haaretz.co.il^
 ||adx.infomed.co.il^
 ||click.inn.co.il^
@@ -42114,7 +42088,6 @@
 ||*.it^
 ||adservice.google.je^
 ||adservice.google.com.jm^
-||id.google.jo^
 ||ads.123net.jp^
 ||oas.c.oka-pu.ac.jp^
 ||ad.adresult.jp^
@@ -42150,7 +42123,6 @@
 ||wisteria-js.excite.co.jp^
 ||ad.fujita-kanko.co.jp^
 ||af.fukuishimbun.co.jp^
-||id.google.co.jp^
 ||adp.homes.co.jp^
 ||beacon.watch.impress.co.jp^
 ||com99.web.infoseek.co.jp^
@@ -42236,7 +42208,6 @@
 ||img.gmo.jp^
 ||ad3.gmo-media.jp^
 ||log1.gooddo.jp^
-||id.google.jp^
 ||share.gree.jp^
 ||dns0.heteml.jp^
 ||aa-metrics.beauty.hotpepper.jp^
@@ -42535,7 +42506,6 @@
 ||atsssl.gmarket.co.kr^
 ||uts.gmarket.co.kr^
 ||utsssl.gmarket.co.kr^
-||id.google.co.kr^
 ||ad.hani.co.kr^
 ||linkback.hani.co.kr^
 ||sc.hani.co.kr^
@@ -42689,7 +42659,6 @@
 ||kodcad.kr^
 ||tenping.kr^
 ||uplus.kr^
-||id.google.com.kw^
 ||counter.1i.kz^
 ||counter.co.kz^
 ||host.moresecurity.kz^
@@ -42792,7 +42761,6 @@
 ||yourservice.live^
 ||cdn.2app.lk^
 ||s.2app.lk^
-||id.google.lk^
 ||trafiq.loan^
 ||intim.love^
 ||adservice.google.co.ls^
@@ -42829,7 +42797,6 @@
 ||xn--fjqz50cv5q3so.ltd^
 ||jvyigg.biquge.lu^
 ||adservice.google.lu^
-||id.google.lu^
 ||analytics.tool.lu^
 ||ea.vente-unique.lu^
 ||quanta.lu^
@@ -43161,8 +43128,6 @@
 ||wpfc.ml^
 ||wufel.ml^
 ||zvatrswtsrw.ml^
-||id.google.com.mm^
-||id.google.mn^
 ||mixi.mn^
 ||www.admarket.mobi^
 ||ad.adzmedia.mobi^
@@ -43277,11 +43242,9 @@
 ||adviceglobal.com.mt^
 ||alert.com.mt^
 ||adservice.google.mu^
-||id.google.mv^
 ||adservice.google.mw^
 ||impreso.elfinanciero.com.mx^
 ||hits.eluniversal.com.mx^
-||id.google.com.mx^
 ||analytics.mercadolibre.com.mx^
 ||pmssrv.mercadolibre.com.mx^
 ||trac.oferting.com.mx^
@@ -43300,7 +43263,6 @@
 ||bulb.76.my^
 ||content22.citibank.com.my^
 ||affiliate.exabytes.com.my^
-||id.google.com.my^
 ||somtrdc.jobstreet.com.my^
 ||lyxfra.shopee.com.my^
 ||hexasoft.com.my^
@@ -43316,7 +43278,6 @@
 ||pclk.name^
 ||rapeporn.name^
 ||adservice.google.ne^
-||id.google.ne^
 ||admusicpic.music.126.net^
 ||iadmusicmat.music.126.net^
 ||p2.music.126.net^
@@ -47790,7 +47751,6 @@
 ||intern.forskning.no^
 ||helios.fvn.no^
 ||ads.gamecopyworld.no^
-||id.google.no^
 ||linkpuls.idg.no^
 ||log.idg.no^
 ||ads.mammanett.no^
@@ -47818,7 +47778,6 @@
 ||webstat.no^
 ||webtraffic.no^
 ||xtractor.no^
-||id.google.com.np^
 ||iads.com.np^
 ||adservice.google.nr^
 ||banner.ad.nu^
@@ -47830,7 +47789,6 @@
 ||ads.auctioncity.co.nz^
 ||collector.automote.co.nz^
 ||ct.eid.co.nz^
-||id.google.co.nz^
 ||static.groupy.co.nz^
 ||amp-analytics.newshub.co.nz^
 ||ads.nzcity.co.nz^
@@ -48650,7 +48608,6 @@
 ||adcontent2.allaccess.com.ph^
 ||ads.allaccess.com.ph^
 ||content22.citibank.com.ph^
-||id.google.com.ph^
 ||somtrdc.jobstreet.com.ph^
 ||topblogs.com.ph^
 ||track.mads.ph^
@@ -48663,7 +48620,6 @@
 ||ads.brain.pk^
 ||sussi.cressoft.com.pk^
 ||adservice.google.com.pk^
-||id.google.com.pk^
 ||bacr.com.pk^
 ||marketing.net.daraz.pk^
 ||www.flare.pk^
@@ -48714,7 +48670,6 @@
 ||analytics.gazeta.pl^
 ||mklik.gazeta.pl^
 ||p.gazeta.pl^
-||id.google.pl^
 ||tags.grajteraz.pl^
 ||ads3.telemagazyn.gratka.pl^
 ||analytics.greensender.pl^
@@ -49464,7 +49419,6 @@
 ||zlp6s.pw^
 ||adservice.google.com.py^
 ||analytics.mercadolibre.com.py^
-||id.google.com.qa^
 ||smetrics.vodafone.qa^
 ||drowadri.racing^
 ||hostingcloud.racing^
@@ -49511,7 +49465,6 @@
 ||bid.run^
 ||adservice.google.rw^
 ||url.rw^
-||id.google.com.sa^
 ||mail.imamu.edu.sa^
 ||amazon.sa^
 ||somni.home.saxo^
@@ -49532,7 +49485,6 @@
 ||images.footballaddicts.se^
 ||ads.fotosidan.se^
 ||ad.fragzone.se^
-||id.google.se^
 ||ad-server.gulasidorna.se^
 ||eas.hitta.se^
 ||ai.idg.se^
@@ -50354,7 +50306,6 @@
 ||ads.bangkokpost.co.th^
 ||ads3.bangkokpost.co.th^
 ||content22.citibank.co.th^
-||id.google.co.th^
 ||ads.inet.co.th^
 ||ads5.matichon.co.th^
 ||stat.matichon.co.th^
@@ -50937,7 +50888,6 @@
 ||adsp.ciner.com.tr^
 ||eue.d-teknoloji.com.tr^
 ||adservice.google.com.tr^
-||id.google.com.tr^
 ||bumerang.hurriyet.com.tr^
 ||bumerangshowsites.hurriyet.com.tr^
 ||clicks.hurriyet.com.tr^
@@ -51310,7 +51260,6 @@
 ||gazetteseries-gb.gazetteseries.co.uk^
 ||conversions.genieventures.co.uk^
 ||glasgowtimes-gb.glasgowtimes.co.uk^
-||id.google.co.uk^
 ||mms.graziadaily.co.uk^
 ||www.greasypalm.co.uk^
 ||greenocktelegraph-gb.greenocktelegraph.co.uk^
@@ -51653,7 +51602,6 @@
 ||appstatico.electronic.us^
 ||ads.gdriveplayer.us^
 ||cdn.geni.us^
-||id.google.us^
 ||ads.phillipsdata.us^
 ||sdc.sanofi-aventis.us^
 ||www.event.shelljacket.us^
@@ -51810,7 +51758,6 @@
 ||tracking.dantri.com.vn^
 ||adx.edutimes.com.vn^
 ||adservice.google.com.vn^
-||id.google.com.vn^
 ||ad.icheck.com.vn^
 ||track.icheck.com.vn^
 ||log.oto.com.vn^
@@ -52638,7 +52585,6 @@
 ||openx.aosis.co.za^
 ||ads.avusa.co.za^
 ||adsfeed3.brabys.co.za^
-||id.google.co.za^
 ||ads.img.co.za^
 ||banner.img.co.za^
 ||adsrv.iol.co.za^
