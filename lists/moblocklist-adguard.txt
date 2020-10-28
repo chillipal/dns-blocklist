@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list for mobile by @chillipal
-! Updated: 2020-10-28 07:45:09 +0000
+! Updated: 2020-10-28 16:57:34 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -473,6 +473,7 @@
 ||ads.basal.ca^
 ||smetrics.bedbathandbeyond.ca^
 ||data1.bell.ca^
+||somni.bell.ca^
 ||strack.bestbuy.ca^
 ||sslstats.canadapost.ca^
 ||content.canadiantire.ca^
@@ -2863,6 +2864,7 @@
 ||us.adzmediadsp.com^
 ||analytics.ae.com^
 ||tracking.aegpresents.com^
+||som.aeroplan.com^
 ||metrics.aetn.com^
 ||smetrics.aetn.com^
 ||webstats.aetna.com^
@@ -4952,6 +4954,7 @@
 ||maxadserver.corusradionetwork.com^
 ||sp.coshoctontribune.com^
 ||link.cosmopolitan.com^
+||smetrics.costco.com^
 ||banner.cotedazurpalace.com^
 ||www.counterguide.com^
 ||advertising.counterpath.com^
@@ -8357,6 +8360,7 @@
 ||nexus.officeapps.live.com^
 ||nexusrules.officeapps.live.com^
 ||analytics.live.com^
+||g.live.com^
 ||rad.live.com^
 ||ssw.live.com^
 ||watson.live.com^
@@ -9062,6 +9066,7 @@
 ||tracker.msales.com^
 ||future-publishing.msgfocus.com^
 ||heals.msgfocus.com^
+||vortex.data.msn.com^
 ||ads.eu.msn.com^
 ||g.jp.msn.com^
 ||catalog.video.msn.com^
@@ -12641,6 +12646,7 @@
 ||api.userlike.com^
 ||api.usersnap.com^
 ||cdn.userty.com^
+||by.uservoice.com^
 ||by2.uservoice.com^
 ||alertserver.ushaqi.com^
 ||dts.ushareit.com^
@@ -13002,6 +13008,7 @@
 ||attribution.webmarketing123.com^
 ||gfx.webmasterprofitcenter.com^
 ||promo.webmasterprofitcenter.com^
+||ssl.o.webmd.com^
 ||std.o.webmd.com^
 ||adv.webmd.com^
 ||as.webmd.com^
@@ -28402,6 +28409,7 @@
 ||whalecashads.com^
 ||whalepp.com^
 ||whaleserver.com^
+||whatcounts.com^
 ||whatsbroadcast.com^
 ||wheessoo.com^
 ||whefungu.com^
@@ -34758,6 +34766,7 @@
 ||d2au4l2o128joe.cloudfront.net^
 ||d2b7n13v8adl6f.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
+||d2c8v52ll5s99u.cloudfront.net^
 ||d2cgumzzqhgmdu.cloudfront.net^
 ||d2cmh8xu3ncrj2.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
