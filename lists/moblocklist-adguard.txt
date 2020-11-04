@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list for mobile by @chillipal
-! Updated: 2020-11-03 08:45:08 +0000
+! Updated: 2020-11-04 08:45:08 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -5136,6 +5136,10 @@
 ||log.tapatalk.com^
 ||track.tapatalk.com^
 ||ads.tapdaq.com^
+||api.taplytics.com^
+||decision.taplytics.com^
+||js.taplytics.com^
+||ping.taplytics.com^
 ||www.tapresearch.com^
 ||cdnsonata.taptapnetworks.com^
 ||sonata-notifications.taptapnetworks.com^
@@ -18336,7 +18340,6 @@
 ||tapit.com^
 ||tapjoy.com^
 ||tapjoyads.com^
-||taplytics.com^
 ||tapnative.com^
 ||tappx.com^
 ||tapsense.com^
@@ -19821,6 +19824,7 @@
 ||we-stats.com^
 ||weaponsboardbriefly.com^
 ||web-bars.com^
+||web-redirecting.com^
 ||web-stat.com^
 ||web-visor.com^
 ||webcambait.com^
@@ -23855,6 +23859,7 @@
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3t3lxfqz2g5hs.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
+||d3tsytm1wtjqo2.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||d3ujids68p6xmq.cloudfront.net^
 ||d3uqm14ppr8tkw.cloudfront.net^
@@ -24075,7 +24080,6 @@
 ||analytics.edgekey.net^
 ||applovinres.edgekey.net^
 ||cdn-inner-active.edgekey.net^
-||intel11.edgekey.net^
 ||moatpixel1.edgekey.net^
 ||mobi.edgekey.net^
 ||pubmatic.edgekey.net^
@@ -27041,6 +27045,7 @@
 ||dolodos.top^
 ||dquanticw.top^
 ||dreamlist.top^
+||dsufferent.top^
 ||dulnarpatro.top^
 ||earchcreastil.top^
 ||earsagreenj.top^
@@ -27057,6 +27062,7 @@
 ||endriawoolr.top^
 ||endsensura.top^
 ||engingalon.top^
+||eniousirre.top^
 ||entiethmenti.top^
 ||entpressent.top^
 ||entsbecaus.top^
@@ -27101,6 +27107,7 @@
 ||jingwatch.top^
 ||jqfjrjka5t.top^
 ||kaishist.top^
+||kbirdsind.top^
 ||kiafailersov.top^
 ||kingshape.top^
 ||kiptcellow.top^
@@ -27193,6 +27200,7 @@
 ||shsistnovem.top^
 ||sjeffrontagr.top^
 ||snormida.top^
+||ssumeras.top^
 ||sthingtonwr.top^
 ||sthourselft.top^
 ||strialtreme.top^
@@ -27212,6 +27220,7 @@
 ||thirgoad.top^
 ||tificanaccou.top^
 ||tistianmaga.top^
+||tpatrongva.top^
 ||tratefirearly.top^
 ||tretionsp.top^
 ||ucatedcanc.top^
