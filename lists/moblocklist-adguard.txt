@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list for mobile by @chillipal
-! Updated: 2020-11-07 05:26:44 +0000
+! Updated: 2020-11-08 08:45:07 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -192,6 +192,7 @@
 ||neustar.biz^
 ||news07.biz^
 ||news19.biz^
+||nexxxt.biz^
 ||oconner.biz^
 ||pmbox.biz^
 ||promotools.biz^
@@ -276,11 +277,13 @@
 ||banesnorttat.cam^
 ||didchinosdub.cam^
 ||hipfowlzeal.cam^
+||mangelobsolden.cam^
 ||pepnerdmime.cam^
 ||roostsflewcat.cam^
 ||rottilderum.cam^
 ||vownixsofa.cam^
 ||wavecurersquire.cam^
+||aidbaronice.casa^
 ||beenmeekwarmth.casa^
 ||buglethemfouls.casa^
 ||bussaidbag.casa^
@@ -2420,6 +2423,7 @@
 ||metrics.brightcove.com^
 ||track.briskfile.com^
 ||l1.britannica.com^
+||p.brsrvr.com^
 ||analyticsapi.bsbportal.com^
 ||web.btncdn.com^
 ||admanager.btopenworld.com^
@@ -3275,6 +3279,7 @@
 ||csi.gstatic.com^
 ||sp.guampdn.com^
 ||events.guesttoguest.com^
+||ttauri.guitarworld.com^
 ||geoip.gulflive.com^
 ||mms.gulflive.com^
 ||ads.guru3d.com^
@@ -4379,6 +4384,7 @@
 ||t.paypal.com^
 ||epl.paypal-communication.com^
 ||hawk.pcgamer.com^
+||pcgamer-gb.pcgamer.com^
 ||cmp.pcworld.com^
 ||pixel.pcworld.com^
 ||ads.pdbarea.com^
@@ -5959,6 +5965,7 @@
 ||2559a303164ddde96.com^
 ||273920d845b.com^
 ||2778255fe56.com^
+||2894c9d5b32.com^
 ||29ae58661b9c7178.com^
 ||29d65cebb82ef9f.com^
 ||2a12be6140880286.com^
@@ -6133,7 +6140,6 @@
 ||58f7c1ff30eb.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
-||59ef0480b3fd.com^
 ||5a60bfdc522.com^
 ||5aa8f31e2f5d.com^
 ||5advertise.com^
@@ -6143,9 +6149,9 @@
 ||5c577fc74618431b.com^
 ||5cwr93yyd4lf.com^
 ||5d02977f6511aa.com^
+||5d1e656859.com^
 ||5dabf928ad9ad4.com^
 ||5edb123fa3329.com^
-||5f6a83f8b9.com^
 ||5f6dmzflgqso.com^
 ||5gl1x9qc.com^
 ||5kv261gjmq04c9.com^
@@ -6215,7 +6221,6 @@
 ||7017042b83a65ea.com^
 ||7089e5b41f87.com^
 ||70ee6484605f.com^
-||7102794ef7.com^
 ||71a30cae934e.com^
 ||71bcab8994dbe2.com^
 ||71d7511a4861068.com^
@@ -6265,7 +6270,6 @@
 ||7dee28afeb8c939d8.com^
 ||7dp6g2rqzn.com^
 ||7e625f490775b155.com^
-||7e9743d843c.com^
 ||7f011d5e07db.com^
 ||7f19b1713b43f7db.com^
 ||7f3ad7d6ad52.com^
@@ -6295,9 +6299,7 @@
 ||8462d0b3cc90c90.com^
 ||84b898f0f5.com^
 ||850a54dbd2398a2.com^
-||85451fe651e0.com^
 ||8547459af5da02.com^
-||867db0d6bf2.com^
 ||86a6b542l7.com^
 ||86cb1dcb13ba5a1a.com^
 ||86f4fd3b507f774.com^
@@ -6360,7 +6362,6 @@
 ||99counters.com^
 ||99stats.com^
 ||9a24a1b3dcd5f4.com^
-||9aa883b192cd.com^
 ||9ae7c9ffe8509b0.com^
 ||9b13c1c151f9664a73.com^
 ||9bb6fa4987e.com^
@@ -6402,7 +6403,6 @@
 ||a353364ec1bd19a.com^
 ||a35c92d96766745.com^
 ||a3761801a40c59b48.com^
-||a378c6547e8.com^
 ||a3yqjsrczwwp.com^
 ||a40hd1mh5deq.com^
 ||a433.com^
@@ -6585,7 +6585,6 @@
 ||ad132m.com^
 ||ad1data.com^
 ||ad1rtb.com^
-||ad28b2a5fe.com^
 ||ad2flash.com^
 ||ad2games.com^
 ||ad2onegroup.com^
@@ -7377,6 +7376,7 @@
 ||afxvaqbbd.com^
 ||afzcqqdhkn.com^
 ||afzfzhbk.com^
+||agacelebir.com^
 ||agcdn.com^
 ||agentanalytics.com^
 ||agentinteractive.com^
@@ -8472,6 +8472,7 @@
 ||bouncex.com^
 ||bowells.com^
 ||bowmoolog.com^
+||boxofficecounselling.com^
 ||boylesportsreklame.com^
 ||bpath.com^
 ||bpmonline.com^
@@ -8551,7 +8552,6 @@
 ||browsiprod.com^
 ||brqvld0p.com^
 ||brrqeprqsrvrt.com^
-||brsrvr.com^
 ||brtsumthree.com^
 ||brucelead.com^
 ||bruceleadx.com^
@@ -8834,6 +8834,7 @@
 ||causecherry.com^
 ||cautiouscrate.com^
 ||cautiouscredit.com^
+||cavewaxmalt.com^
 ||cawbarthe.com^
 ||caxiqapecuop.com^
 ||caykotranybjvx.com^
@@ -8854,7 +8855,6 @@
 ||cbyzgxhbovgwju.com^
 ||cbzjukldosooj.com^
 ||cc380535d9ca0.com^
-||ccbfee1a0ae.com^
 ||cccpmo.com^
 ||ccd8450321.com^
 ||ccqgkbnbpdrxf.com^
@@ -9160,6 +9160,7 @@
 ||clmcom.com^
 ||clnlyfxit.com^
 ||clnyonxgsvov.com^
+||cloakroomobsceneredress.com^
 ||clockdisplaystoring.com^
 ||cloisteredcord.com^
 ||cloisteredhydrant.com^
@@ -9638,6 +9639,7 @@
 ||d194f913ee63.com^
 ||d1c4d437f10.com^
 ||d29gqcij.com^
+||d2ab631af57.com^
 ||d2ship.com^
 ||d31ea41705818c9.com^
 ||d3b75cfc88a9.com^
@@ -9830,6 +9832,7 @@
 ||dematom.com^
 ||demdex.com^
 ||denakop.com^
+||denetsuk.com^
 ||denis-pj0823031-491201b.com^
 ||dentalsadness.com^
 ||dep-x.com^
@@ -10007,6 +10010,7 @@
 ||dlnsjjyzvi1x.com^
 ||dlpyumfmg.com^
 ||dlsear.com^
+||dlyzcopkko.com^
 ||dlzm790g.com^
 ||dmanalytics1.com^
 ||dmd53.com^
@@ -10587,6 +10591,7 @@
 ||erovinmo.com^
 ||errsensordiscourse.com^
 ||erscdf.com^
+||ersunt.com^
 ||es54i9g7p7xh.com^
 ||esauwoan.com^
 ||esawuervlpptj.com^
@@ -10677,6 +10682,7 @@
 ||ewebanalytics.com^
 ||ewebcounter.com^
 ||ewebse.com^
+||ewedivotsfop.com^
 ||ewitsorrgm.com^
 ||ewvugujfhi.com^
 ||exactag.com^
@@ -10752,6 +10758,7 @@
 ||exwcadanpfc.com^
 ||eyebinvex.com^
 ||eyeblaster.com^
+||eyebrowransom.com^
 ||eyeconomy.com^
 ||eyecurred.com^
 ||eyefuneve.com^
@@ -10784,7 +10791,6 @@
 ||ezzbemrabj.com^
 ||f01ed651eca.com^
 ||f09vhflf10.com^
-||f11440076c16.com^
 ||f17a5ff6bf31.com^
 ||f185cefa37b1806e.com^
 ||f18a35cc33ee29a.com^
@@ -12177,6 +12183,7 @@
 ||hqczpetgslammu.com^
 ||hqpass.com^
 ||hqr9q6f30371.com^
+||hqtlvmcrpb.com^
 ||hqzceymmcwsvd.com^
 ||hrahdmon.com^
 ||hrgbolmbxmovli.com^
@@ -12501,6 +12508,7 @@
 ||incloak.com^
 ||includemodal.com^
 ||incognitosearches.com^
+||inconsistencyspaceelusive.com^
 ||increaserev.com^
 ||incurableinfertilecrap.com^
 ||indecentfaces.com^
@@ -12943,6 +12951,7 @@
 ||jnctgldbxc.com^
 ||jnnezwibrkwpz.com^
 ||jnrvjpsltf.com^
+||jnxkfldio.com^
 ||joamwtfpppibtj.com^
 ||jobsyndicate.com^
 ||jobtarget.com^
@@ -13932,6 +13941,7 @@
 ||mannernotchnewly.com^
 ||manslaughteradministrationalarm.com^
 ||manygoodnews.com^
+||mapcrayonmiss.com^
 ||maploco.com^
 ||mapmyuser.com^
 ||marchadvertisingnetwork10.com^
@@ -14537,6 +14547,7 @@
 ||mplxtms.com^
 ||mpmcash.com^
 ||mpmzqgkpavhhkt.com^
+||mpnjaifkchgw.com^
 ||mpnrs.com^
 ||mppmnetwork.com^
 ||mpqfzyh.com^
@@ -14795,6 +14806,7 @@
 ||neewoapi.com^
 ||negolist.com^
 ||neighborlywatch.com^
+||nellads.com^
 ||neo-neo-xeo.com^
 ||neobux.com^
 ||neodatagroup.com^
@@ -15287,6 +15299,7 @@
 ||omgpm.com^
 ||omguk.com^
 ||omiki.com^
+||omitbailey.com^
 ||omni-ads.com^
 ||omnicomgroup.com^
 ||omniconvert.com^
@@ -16763,6 +16776,7 @@
 ||recentlycollectannihilate.com^
 ||recentrecentinsectsquantity.com^
 ||recentres.com^
+||receptionstudying.com^
 ||receptiveink.com^
 ||receptivereaction.com^
 ||recessdebatesalvation.com^
@@ -17128,6 +17142,7 @@
 ||rtbadzesto.com^
 ||rtbflairads.com^
 ||rtbidhost.com^
+||rtbiq.com^
 ||rtbnowads.com^
 ||rtbpop.com^
 ||rtbpopd.com^
@@ -18936,6 +18951,7 @@
 ||trueffect.com^
 ||truefilen32.com^
 ||truepush.com^
+||truernewlywait.com^
 ||truesweb.com^
 ||truex.com^
 ||trumpia.com^
@@ -19013,6 +19029,7 @@
 ||tuwuyppwdj.com^
 ||tuxbpnne.com^
 ||tuygdfsydexdeb.com^
+||tveszimawy.com^
 ||tvggnruvmiv.com^
 ||tvjkilgfanpt.com^
 ||tvkgdonh.com^
@@ -19297,6 +19314,7 @@
 ||urbanityadnetwork.com^
 ||urcakbypjfvsq.com^
 ||urimteku.com^
+||urineyieldedwasted.com^
 ||uriuridfg.com^
 ||urkmuzzygjp.com^
 ||urlbrief.com^
@@ -19349,6 +19367,7 @@
 ||usurv.com^
 ||usxobxnmmaix.com^
 ||utfusckgnj.com^
+||utilitiespridesweat.com^
 ||utl-1.com^
 ||utngexelkv.com^
 ||utokapa.com^
@@ -19483,6 +19502,7 @@
 ||venturead.com^
 ||veoujrnenng.com^
 ||veoxa.com^
+||vercel-analytics.com^
 ||veremedia.com^
 ||veremund-hon.com^
 ||vericlick.com^
@@ -20001,6 +20021,7 @@
 ||wipowaxe.com^
 ||wirecomic.com^
 ||wiredminds.com^
+||wirelessbabysitterphonebooth.com^
 ||wirenth.com^
 ||wisepops.com^
 ||wishabi.com^
@@ -23756,8 +23777,6 @@
 ||d29dbajta0the9.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
 ||d2as12kgjg8gw5.cloudfront.net^
-||d2b560qq58menv.cloudfront.net^
-||d2bgg7rjywcwsy.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2cgumzzqhgmdu.cloudfront.net^
@@ -24802,7 +24821,6 @@
 ||evyy.net^
 ||eyeota.net^
 ||ezakus.net^
-||ezoic.net^
 ||f-counter.net^
 ||facetz.net^
 ||faigroas.net^
@@ -25002,6 +25020,7 @@
 ||jinsoopt.net^
 ||joawapti.net^
 ||joetec.net^
+||jomtingi.net^
 ||joorejou.net^
 ||jssearch.net^
 ||juiceadv.net^
@@ -25377,6 +25396,7 @@
 ||rockyou.net^
 ||roi-rocket.net^
 ||rolrotoo.net^
+||rompuwit.net^
 ||ronoutom.net^
 ||roogrujy.net^
 ||roujaufu.net^
@@ -25628,6 +25648,7 @@
 ||voaroawo.net^
 ||voastauz.net^
 ||voipnewswire.net^
+||vouhecem.net^
 ||vounoany.net^
 ||vpn4test.net^
 ||vroll.net^
@@ -27268,7 +27289,6 @@
 ||adtarget.com.tr^
 ||realist.gen.tr^
 ||webservis.gen.tr^
-||3fp43qvh.trade^
 ||sprou.tt^
 ||s.adrise.tv^
 ||event-listener.air.tv^
@@ -27740,7 +27760,6 @@
 ||triplescroches.website^
 ||ucdn.website^
 ||cdnaz.win^
-||fxox4wvv.win^
 ||hashing.win^
 ||hemnes.win^
 ||hollps.win^
