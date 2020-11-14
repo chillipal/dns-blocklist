@@ -1,5 +1,5 @@
 ! Custom Adguard and Adguard Pro dns filter list by @chillipal
-! Updated: 2020-11-11 18:57:28 +0000
+! Updated: 2020-11-14 08:15:12 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -341,6 +341,7 @@
 ||bashirian.biz^
 ||bestnews.biz^
 ||bigdate.biz^
+||blackname.biz^
 ||bluewaffle.biz^
 ||bogopo.biz^
 ||bseen2.biz^
@@ -464,6 +465,7 @@
 ||vn88.biz^
 ||vxiframe.biz^
 ||webtrack.biz^
+||whiteclick.biz^
 ||widgetadvertising.biz^
 ||wwsercher.biz^
 ||xofys.biz^
@@ -858,6 +860,7 @@
 ||replase.cf^
 ||teknogirls.cf^
 ||untridrisa.cf^
+||yes999.cf^
 ||stats01.20min.ch^
 ||twch.20min.ch^
 ||track.24heures.ch^
@@ -3279,7 +3282,6 @@
 ||click.appinthestore.com^
 ||config.appjolt.com^
 ||sdkapicdn.applanga.com^
-||banners.itunes.apple.com^
 ||advertising.apple.com^
 ||iadsdk.apple.com^
 ||qwapi.apple.com^
@@ -3474,6 +3476,7 @@
 ||te.astrology.com^
 ||etrk.asus.com^
 ||track.atgstores.com^
+||geoip.ativo.com^
 ||livestats.atlanta-airport.com^
 ||ads.atlantamotorspeedway.com^
 ||www.atlantis-asia.com^
@@ -4905,6 +4908,10 @@
 ||adserver.digitalpartners.com^
 ||ads.digitalpoint.com^
 ||geo.digitalpoint.com^
+||affiliates.digitalriver.com^
+||display.digitalriver.com^
+||ntbanner.digitalriver.com^
+||track.digitalriver.com^
 ||vstats.digitaltrends.com^
 ||track.digitcked.com^
 ||adserver.digitoday.com^
@@ -5474,6 +5481,7 @@
 ||metrics.fedex.com^
 ||sonar.fedex.com^
 ||fe.feedbackrights.com^
+||feedads.feedblitz.com^
 ||ads.feedly.com^
 ||engagement.feedly.com^
 ||tracking.feedmob.com^
@@ -6449,7 +6457,6 @@
 ||tw.i.hulu.com^
 ||ads.hulu.com^
 ||ads-v-darwin.hulu.com^
-||doppler.hulu.com^
 ||t-ak.hulu.com^
 ||t2.hulu.com^
 ||vortex.hulu.com^
@@ -7327,6 +7334,7 @@
 ||adserver.livejournal.com^
 ||ads.livenation.com^
 ||cookies.livepartners.com^
+||myap.liveperson.com^
 ||ttauri.livescience.com^
 ||analytics.livestream.com^
 ||sdc.livingchoices.com^
@@ -11276,7 +11284,6 @@
 ||scrooge.wftv.com^
 ||triggers.wfxtriggers.com^
 ||ttauri.whathifi.com^
-||bot.whatismyipaddress.com^
 ||tracking.whattoexpect.com^
 ||www.whatuwhatuwhatuwant.com^
 ||www.whereugetxxx.com^
@@ -11465,8 +11472,6 @@
 ||cbs.wondershare.com^
 ||helper-stats.wondershare.com^
 ||scribe.wongnai.com^
-||crashlogs.woniu.com^
-||sqm.woniu.com^
 ||data.woosmap.com^
 ||derangedadage91wis.files.wordpress.com^
 ||postmediamontrealgazette2.files.wordpress.com^
@@ -11497,12 +11502,10 @@
 ||stats.wp.com^
 ||stats.wpmucdn.com^
 ||stats1.wpmudev.com^
-||movip.wps.com^
 ||partners.wrike.com^
 ||trk.wrinkads.com^
 ||track.written.com^
 ||sa135.wsbtv.com^
-||preitem.wshareit.com^
 ||te.wsls.com^
 ||scrooge.wsoctv.com^
 ||scrooge.wtov9.com^
@@ -12475,6 +12478,7 @@
 ||550tg.com^
 ||552239b90400b7.com^
 ||555b2b.com^
+||55d6000d6d.com^
 ||55labs.com^
 ||563015cf3d.com^
 ||564d28256cddaeba.com^
@@ -14771,6 +14775,7 @@
 ||avocarrot.com^
 ||avsads.com^
 ||avtiaozhuan.com^
+||avuvldbc.com^
 ||avxcore.com^
 ||awakebird.com^
 ||awakeexterior.com^
@@ -15031,6 +15036,7 @@
 ||bauernative.com^
 ||bawdybeast.com^
 ||bawdypets.com^
+||baxofalis.com^
 ||bayctrk.com^
 ||bayonetbikes.com^
 ||baypops.com^
@@ -15131,6 +15137,7 @@
 ||beludicolor.com^
 ||belwrite.com^
 ||bemobpath.com^
+||bemobtrcks.com^
 ||bemzepcnp.com^
 ||benchit.com^
 ||beneficialbeef.com^
@@ -17531,7 +17538,6 @@
 ||digitaldsp.com^
 ||digitalmerkat.com^
 ||digitaloptout.com^
-||digitalriver.com^
 ||digitalthrottle.com^
 ||digitalwindow.com^
 ||digitiminimi.com^
@@ -17599,6 +17605,7 @@
 ||disposecompere.com^
 ||disqusads.com^
 ||dissimilarambient.com^
+||dissimilartongueoatmeal.com^
 ||distiltag.com^
 ||distinctday.com^
 ||distinctionlatent.com^
@@ -17661,6 +17668,7 @@
 ||dmanalytics1.com^
 ||dmd53.com^
 ||dmpcounter.com^
+||dmpprof.com^
 ||dmpxs.com^
 ||dmqapp.com^
 ||dmsqzqvuapb.com^
@@ -17720,6 +17728,7 @@
 ||doomna.com^
 ||doorbrazil.com^
 ||doqapnez.com^
+||dormyawape.com^
 ||dortoolr.com^
 ||doshaido.com^
 ||doskki.com^
@@ -18364,6 +18373,7 @@
 ||ergensu.com^
 ||ergs4.com^
 ||erificyggw.com^
+||erihj.com^
 ||erkhxw.com^
 ||erniphiq.com^
 ||ero-advertising.com^
@@ -21799,7 +21809,6 @@
 ||jsmstat.com^
 ||jsmwd.com^
 ||jsonip.com^
-||jsr9.com^
 ||jsrdn.com^
 ||jsretra.com^
 ||jsszxx.com^
@@ -22348,6 +22357,7 @@
 ||laserveradedomaina.com^
 ||lashou1000.com^
 ||latamdcs.com^
+||lataurir.com^
 ||latheendsmoo.com^
 ||laughablecopper.com^
 ||laughcloth.com^
@@ -22644,7 +22654,6 @@
 ||livehapp.com^
 ||liveintent.com^
 ||livelumber.com^
-||liveperson.com^
 ||liveprivates.com^
 ||livepromotools.com^
 ||liverail.com^
@@ -24316,6 +24325,7 @@
 ||ngecity.com^
 ||ngjzmt.com^
 ||nglmedia.com^
+||ngudjtrdcfwwn.com^
 ||ngumyydbupv.com^
 ||nguooqblyjrz.com^
 ||ngyfmghgd.com^
@@ -24669,6 +24679,7 @@
 ||obstacleconsideringheadphone.com^
 ||obstructlawn.com^
 ||occupantrookpurely.com^
+||oceanbot-steam.com^
 ||oceanwebcraft.com^
 ||oclaserver.com^
 ||oclasrv.com^
@@ -26249,6 +26260,7 @@
 ||pwoiseuoyxpxz.com^
 ||pwondjwwgqahw.com^
 ||pwrfcia.com^
+||pwrlkyotm.com^
 ||pwwysydh.com^
 ||px3792.com^
 ||pxaction.com^
@@ -28098,6 +28110,7 @@
 ||smallvideoapp.com^
 ||smart-digital-solutions.com^
 ||smart-dmp.com^
+||smart-redirecting.com^
 ||smart-scripts.com^
 ||smart-traffik.com^
 ||smart2cnjuh34jb.com^
@@ -30607,6 +30620,7 @@
 ||vipfastmoney.com^
 ||viplinck.com^
 ||viptizer.com^
+||viral481.com^
 ||viral782.com^
 ||viralbeat.com^
 ||viralcpm.com^
@@ -30642,6 +30656,7 @@
 ||visitorprofiler.com^
 ||visitortracklog.com^
 ||visitorville.com^
+||visitpath.com^
 ||visitstats.com^
 ||visitstreamer.com^
 ||visitweb.com^
@@ -30653,6 +30668,7 @@
 ||vitlescaux.com^
 ||viunypnvhcw.com^
 ||viva88.com^
+||vivaclix.com^
 ||vivapays.com^
 ||vivdq.com^
 ||vividcash.com^
@@ -31743,6 +31759,7 @@
 ||xyadaa.com^
 ||xyaddby.com^
 ||xyadtlyy.com^
+||xyadtlyya.com^
 ||xyadyzpsb.com^
 ||xycnz.com^
 ||xycnzz.com^
@@ -35688,6 +35705,7 @@
 ||torjackan.info^
 ||torshatencalsi.info^
 ||tr6rfgjix6tlr8bp.info^
+||trackboxx.info^
 ||tracker-tds.info^
 ||traffikx.info^
 ||treateramortgag.info^
@@ -37465,7 +37483,6 @@
 ||d20je219bs8hnq.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
 ||d21f25e9uvddd7.cloudfront.net^
-||d21gpk1vhmjuf5.cloudfront.net^
 ||d21j20wsoewvjq.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
 ||d21rudljp9n1rr.cloudfront.net^
@@ -38225,8 +38242,6 @@
 ||web-hosting.hitslog.net^
 ||my2.hizliizlefilm.net^
 ||abc.hkepc.net^
-||gate.hockeyapp.net^
-||sdk.hockeyapp.net^
 ||tc.hometogo.net^
 ||ad.horvitznewspapers.net^
 ||ad6.horvitznewspapers.net^
@@ -38843,20 +38858,17 @@
 ||counter.webtrends.net^
 ||www.webtrends.net^
 ||tech.weeklytribune.net^
-||crashlogs.whatsapp.net^
 ||speed.wikia.net^
 ||ceuswatcab01.blob.core.windows.net^
 ||ceuswatcab02.blob.core.windows.net^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
-||fsuseaad1.blob.core.windows.net^
 ||insitez.blob.core.windows.net^
 ||prodxnews1blob.blob.core.windows.net^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||onedrive-collection.device.mobileengagement.windows.net^
 ||encoderfarmstatsnew.servicebus.windows.net^
-||rawtelemetry-west.servicebus.windows.net^
 ||analytics.witglobal.net^
 ||tracking.wlscripts.net^
 ||tracking.worldmedia.net^
@@ -40897,6 +40909,7 @@
 ||stats.libresse.no^
 ||stats.proff.no^
 ||webhit.snd.no^
+||ish.tumedia.no^
 ||ad.tv2.no^
 ||click.vgnett.no^
 ||ads2.webdrive.no^
@@ -41300,6 +41313,7 @@
 ||advgame.org^
 ||adxxx.org^
 ||affex.org^
+||affiliclk.org^
 ||ajaxcdn.org^
 ||all-tgp.org^
 ||anquan.org^
@@ -42065,6 +42079,7 @@
 ||resniks.pro^
 ||resnikscdn.pro^
 ||resorsedroblet.pro^
+||riwhedipsa.pro^
 ||ropupevi.pro^
 ||rosemand.pro^
 ||rtnews.pro^
@@ -42139,6 +42154,7 @@
 ||webmine.pro^
 ||whamukoji.pro^
 ||whixochyxy.pro^
+||whudiphezy.pro^
 ||withingsessed.pro^
 ||worlanned.pro^
 ||wrontonshatbona.pro^
@@ -42273,6 +42289,7 @@
 ||zlp6s.pw^
 ||drowadri.racing^
 ||hostingcloud.racing^
+||g.wait.re^
 ||1re.re^
 ||adsco.re^
 ||eeer.ren^
@@ -43925,6 +43942,7 @@
 ||burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk^
 ||burytimes-gb.burytimes.co.uk^
 ||campaignseries-gb.campaignseries.co.uk^
+||cb-mms.carbuyer.co.uk^
 ||ads.carocean.co.uk^
 ||chardandilminsternews-gb.chardandilminsternews.co.uk^
 ||chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk^
@@ -44140,7 +44158,6 @@
 ||ga.webdigi.co.uk^
 ||westerntelegraph-gb.westerntelegraph.co.uk^
 ||wharfedaleobserver-gb.wharfedaleobserver.co.uk^
-||logs.which.co.uk^
 ||metrics.which.co.uk^
 ||wiltsglosstandard-gb.wiltsglosstandard.co.uk^
 ||wiltshiretimes-gb.wiltshiretimes.co.uk^
