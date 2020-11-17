@@ -1,5 +1,5 @@
 ! custom Adguard dns filter list for mobile by @chillipal
-! Updated: 2020-11-17 08:45:09 +0000
+! Updated: 2020-11-17 21:13:31 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -44,6 +44,7 @@
 ||buy.at^
 ||oewa.at^
 ||oewabox.at^
+||smetrics.10daily.com.au^
 ||adc.9news.com.au^
 ||cmp.arnnet.com.au^
 ||analytics.avanser.com.au^
@@ -751,6 +752,7 @@
 ||acjs.aliyun.com^
 ||photovault-test.oss-cn-shanghai.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
+||siteintercept.allegiancetech.com^
 ||t.allmodern.com^
 ||analytics.allovoisins.com^
 ||affiliates.allposters.com^
@@ -1709,6 +1711,7 @@
 ||319dn.dieti-natura.com^
 ||stats.digg.com^
 ||ads.digital-digest.com^
+||ttauri.digitalcameraworld.com^
 ||ad.digitallook.com^
 ||ads.digitalmedianet.com^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
@@ -1917,6 +1920,7 @@
 ||campaign-tracker.us-west-2.prod.expedia.com^
 ||collector.prod.expedia.com^
 ||oms.expedia.com^
+||smetrics1.experian.com^
 ||cs.exposedontape.com^
 ||metrics.extremetech.com^
 ||stats.extremetech.com^
@@ -3558,6 +3562,7 @@
 ||data.reactandshare.com^
 ||tracker.realclearpolitics.com^
 ||events.realgravity.com^
+||ttauri.realhomes.com^
 ||br.realitykings.com^
 ||hostedads.realitykings.com^
 ||li.realtor.com^
@@ -3904,6 +3909,7 @@
 ||eulerian.splendia.com^
 ||stats.splinder.com^
 ||mms.splinternews.com^
+||post.spmailtechno.com^
 ||ww2.sponsorflyr.com^
 ||ads.sportradar.com^
 ||analytics.sportybet.com^
@@ -4157,6 +4163,7 @@
 ||get.thisisvegas.com^
 ||banners.thomsonlocal.com^
 ||sponsors.thoughtsmedia.com^
+||analytics.threedeepmarketing.com^
 ||ads.thrillsaffiliates.com^
 ||affiliates.thrixxx.com^
 ||ads.as4x.tmcs.ticketmaster.com^
@@ -4482,6 +4489,7 @@
 ||collector.wallapop.com^
 ||beacon.affil.walmart.com^
 ||analytics.mobile.walmart.com^
+||beacon.walmart.com^
 ||li.walmart.com^
 ||omniture.walmart.com^
 ||tracking01.walmart.com^
@@ -6228,6 +6236,7 @@
 ||affbot3.com^
 ||affbuzzads.com^
 ||affclkr.com^
+||affectiondifferentlysway.com^
 ||affifix.com^
 ||affilae.com^
 ||affiliate.com^
@@ -7424,6 +7433,7 @@
 ||brightshare.com^
 ||brighttag.com^
 ||brilig.com^
+||brilliantcollector.com^
 ||brilns.com^
 ||brimquoterash.com^
 ||brinein.com^
@@ -7486,6 +7496,7 @@
 ||bucketbean.com^
 ||bucketsofbanners.com^
 ||bucksense.com^
+||bucogrzbgyysen.com^
 ||budgetedbauer.com^
 ||budsinc.com^
 ||budurl.com^
@@ -8743,6 +8754,7 @@
 ||dhb8psqhvz9a.com^
 ||dhundora.com^
 ||dhxwczetwdkt.com^
+||di-capt.com^
 ||dialerporn.com^
 ||dialgold.com^
 ||dialogmgr.com^
@@ -9358,6 +9370,7 @@
 ||eolcdn.com^
 ||eom-nv.com^
 ||eondunpea.com^
+||eonsmedia.com^
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopazyxdkppnz.com^
@@ -9552,7 +9565,6 @@
 ||expansionwrinkle.com^
 ||expedientlonesome.com^
 ||expenditurebaneopenly.com^
-||experian.com^
 ||experteerads.com^
 ||expertnifg.com^
 ||exploitnookconsequently.com^
@@ -10304,6 +10316,7 @@
 ||geopromos.com^
 ||georiot.com^
 ||geovisite.com^
+||geras-con.com^
 ||gestionpub.com^
 ||get.com^
 ||getalinkandshare.com^
@@ -10744,6 +10757,7 @@
 ||hebadu.com^
 ||hebiichigo.com^
 ||heckagny.com^
+||heedlessdessertchips.com^
 ||heeevykjhujfy.com^
 ||hegreeks.com^
 ||hehraybryciyls.com^
@@ -11813,6 +11827,7 @@
 ||kaotic.com^
 ||kaplay.com^
 ||kapphtskno.com^
+||kaptcha.com^
 ||kapuaawase.com^
 ||kargo.com^
 ||karonty.com^
@@ -13004,6 +13019,7 @@
 ||mkt3261.com^
 ||mkt6333.com^
 ||mkt941.com^
+||mkto-ab410147.com^
 ||mktoresp.com^
 ||mkyrxfftdmqx.com^
 ||ml-attr.com^
@@ -13159,7 +13175,6 @@
 ||monotonoussurveytoxic.com^
 ||monsoonads.com^
 ||monstat.com^
-||monster.com^
 ||monsterpops.com^
 ||monxserver.com^
 ||mooaleoat.com^
@@ -14536,6 +14551,7 @@
 ||plufdsa.com^
 ||plufdsb.com^
 ||plugerr.com^
+||pluggednow.com^
 ||plugrush.com^
 ||plxserve.com^
 ||plxtejszb.com^
@@ -16205,6 +16221,7 @@
 ||sibulla.com^
 ||siccash.com^
 ||sicksmash.com^
+||sidewaybeings.com^
 ||siegemeg.com^
 ||sielsmaats.com^
 ||sierraclumsy.com^
@@ -17813,6 +17830,7 @@
 ||unreshiramor.com^
 ||unrestchat.com^
 ||unrulymedia.com^
+||unseen2020.com^
 ||unskilledsqueakjunk.com^
 ||untd.com^
 ||untidyquestion.com^
@@ -18509,6 +18527,7 @@
 ||widgetbucks.com^
 ||widgetly.com^
 ||widgetserver.com^
+||widvffyokrmlkk.com^
 ||wiewsulznyncf.com^
 ||wifelovers.com^
 ||wigetmedia.com^
@@ -21903,6 +21922,7 @@
 ||aicontents.net^
 ||aifoosty.net^
 ||ailtumty.net^
+||aipofeem.net^
 ||air360tracker.net^
 ||airdauks.net^
 ||airoogen.net^
@@ -23281,9 +23301,11 @@
 ||kinoprofi.org^
 ||klonedaset.org^
 ||korfo.org^
+||l99l.org^
 ||layer-ad.org^
 ||livechatinc.org^
 ||madserve.org^
+||masklink.org^
 ||masterads.org^
 ||mediaadserver.org^
 ||mengis-linden.org^
