@@ -1,5 +1,5 @@
 ! custom Adguard dns filter list for mobile by @chillipal
-! Updated: 2021-01-19 09:40:10 +0000
+! Updated: 2021-01-23 09:40:09 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -58,6 +58,7 @@
 ||freegeoip.app^
 ||onepush.app^
 ||permutive.app^
+||snapcheat.app^
 ||adserver.lanacion.com.ar^
 ||estadisticas.lanacion.com.ar^
 ||analytics.redlink.com.ar^
@@ -2075,7 +2076,6 @@
 ||uk.activeshopper.com^
 ||ads.activestate.com^
 ||app.activetrail.com^
-||openx.actvtech.com^
 ||web.acumenpi.com^
 ||traffic.acwebconnecting.com^
 ||as.ad-brix.com^
@@ -2327,6 +2327,7 @@
 ||cdn.cloud.altbalaji.com^
 ||arena.altitudeplatform.com^
 ||cdn.altitudeplatform.com^
+||creative.alxbgo.com^
 ||track.msadcenter.ama.com^
 ||ads.amakings.com^
 ||adtools2.amakings.com^
@@ -3223,6 +3224,8 @@
 ||app.bugreplay.com^
 ||ymail-activate1.bugs3.com^
 ||api.bugsee.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
 ||bannersgomlm.buildreferrals.com^
 ||www.buildtraffic.com^
 ||www.bulkclicks.com^
@@ -3452,6 +3455,7 @@
 ||www.clickclick.com^
 ||images.clickfinders.com^
 ||stats.clickforknowledge.com^
+||s.clickiocdn.com^
 ||www.clicktilluwin.com^
 ||promo.clicnscores.com^
 ||adserverc.cliipa.com^
@@ -3710,8 +3714,9 @@
 ||go.data1rtb.com^
 ||ads.databrainz.com^
 ||static.databrainz.com^
+||browser-http-intake.logs.datadoghq.com^
+||rum-http-intake.logs.datadoghq.com^
 ||api.datadoghq.com^
-||logs.datadoghq.com^
 ||analytics.datahc.com^
 ||brands.datahc.com^
 ||media.datahc.com^
@@ -5673,9 +5678,11 @@
 ||stream1.livefyre.com^
 ||js.livehelper.com^
 ||newbrowse.livehelper.com^
+||analytics.livehindustan.com^
 ||www.2.livejasmin.com^
 ||cradver.livejasmin.com^
 ||creatives.livejasmin.com^
+||crt.livejasmin.com^
 ||live-cams-0.livejasmin.com^
 ||live-cams-1.livejasmin.com^
 ||adserver.livejournal.com^
@@ -6231,6 +6238,8 @@
 ||adssrv.nationmultimedia.com^
 ||proac.nationwide.com^
 ||sdk.native123.com^
+||cdn.nativery.com^
+||w.nativery.com^
 ||clicks.natwest.com^
 ||www.naughty-traffic.com^
 ||tools.naughtyamerica.com^
@@ -6589,6 +6598,7 @@
 ||exit.oxcash2.com^
 ||ads.oxymoronent.com^
 ||www3.oyunstar.com^
+||collector.ozeex.com^
 ||f1.p0y.com^
 ||f2.p0y.com^
 ||f3.p0y.com^
@@ -8686,6 +8696,7 @@
 ||smetrics.washingtonpost.com^
 ||videotracker.washingtonpost.com^
 ||stats.watchmygf.com^
+||adz.wattpad.com^
 ||track.wattpad.com^
 ||sp.wausaudailyherald.com^
 ||track.wayin.com^
@@ -11186,6 +11197,7 @@
 ||art-offer.com^
 ||artcomix.com^
 ||artfut.com^
+||artgullyhep.com^
 ||artisticdisgraceevidently.com^
 ||artizaa.com^
 ||artpever.com^
@@ -12123,7 +12135,6 @@
 ||budurl.com^
 ||bugherd.com^
 ||bugsense.com^
-||bugsnag.com^
 ||buhatfjrk9dje10eme.com^
 ||buildtrafficx.com^
 ||buipovexhav.com^
@@ -12575,6 +12586,7 @@
 ||cl0udh0st1ng.com^
 ||cl96rwprue.com^
 ||claimfreerewards.com^
+||clairvoyantvigourcelebrity.com^
 ||claria.com^
 ||clarityray.com^
 ||claritytag.com^
@@ -13399,6 +13411,7 @@
 ||delegatediscussion.com^
 ||deliberateporridge.com^
 ||delightfulold.com^
+||deline-sunction.com^
 ||delivery45.com^
 ||delivery47.com^
 ||delivery49.com^
@@ -14498,6 +14511,7 @@
 ||fatcoil.com^
 ||fathomdelivers.com^
 ||fathomseo.com^
+||fathuntsgall.com^
 ||fatrjjcm.com^
 ||faultycanvas.com^
 ||faultyfowl.com^
@@ -21263,6 +21277,7 @@
 ||securitymetrics.com^
 ||securitytrfx.com^
 ||sedativesandhandbook.com^
+||sedodna.com^
 ||sedoparking.com^
 ||sedotracker.com^
 ||seducehandbookspecific.com^
@@ -25620,7 +25635,8 @@
 ||fra-01.braze.eu^
 ||manageadv.cblogs.eu^
 ||cnstats.cdev.eu^
-||logs.datadoghq.eu^
+||browser-http-intake.logs.datadoghq.eu^
+||rum-http-intake.logs.datadoghq.eu^
 ||adsbb.dfiles.eu^
 ||d.finative.eu^
 ||banner.icmedia.eu^
@@ -25646,6 +25662,7 @@
 ||adten.eu^
 ||affiliateedge.eu^
 ||agillic.eu^
+||alobby-x.eu^
 ||bepolite.eu^
 ||bitcoin-cashcard.eu^
 ||bitcoin-pay.eu^
@@ -25993,6 +26010,7 @@
 ||landuncessa.fun^
 ||learliamtempl.fun^
 ||lingovernmen.fun^
+||lismcanalys.fun^
 ||lvesgranticnor.fun^
 ||mariyadarg.fun^
 ||matekernes.fun^
@@ -26044,6 +26062,7 @@
 ||remultiesbee.fun^
 ||renceriskie.fun^
 ||requencesfor.fun^
+||resumersvo.fun^
 ||rindicalapa.fun^
 ||ritiesagently.fun^
 ||rovalionsa.fun^
@@ -30476,6 +30495,7 @@
 ||simpleads.net^
 ||singular.net^
 ||sitebro.net^
+||skinstrip.net^
 ||slack-app.net^
 ||slashstar.net^
 ||smaato.net^
