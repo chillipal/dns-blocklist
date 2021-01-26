@@ -1,9 +1,10 @@
 ! custom Adguard dns filter list by @chillipal
-! Updated: 2021-01-23 08:55:13 +0000
+! Updated: 2021-01-26 08:55:12 +0000
 !
 ||www.weknow.ac^
 ||say.ac^
 ||tube.ac^
+||livejasmin.academy^
 ||bonzai.ad^
 ||brand.ad^
 ||chameleon.ad^
@@ -15,6 +16,7 @@
 ||fls-eu.amazon.ae^
 ||ads.emirates.net.ae^
 ||advertica.ae^
+||livejasmin.net.ag^
 ||commissionkings.ag^
 ||script.ag^
 ||supert.ag^
@@ -183,6 +185,7 @@
 ||tiser.com.au^
 ||counter.theconversation.edu.au^
 ||loopa.net.au^
+||t.auditedmedia.org.au^
 ||banners.haqqin.az^
 ||ilk10.az^
 ||mobilink.az^
@@ -884,6 +887,7 @@
 ||geo.emol.cl^
 ||abc.pema.cl^
 ||estadonline.publiguias.cl^
+||livejasmin.cl^
 ||track.buybox.click^
 ||t2.t2b.click^
 ||4ur.click^
@@ -2857,6 +2861,7 @@
 ||cdn.altitudeplatform.com^
 ||creative.alxbgo.com^
 ||go.alxbgo.com^
+||video.alxbgo.com^
 ||track.msadcenter.ama.com^
 ||ads.amakings.com^
 ||adtools2.amakings.com^
@@ -3893,6 +3898,7 @@
 ||stats.canalblog.com^
 ||snr4.canalplus.com^
 ||www.canuckmethods.com^
+||bfp.capitalone.com^
 ||m-metrics.capitalone.com^
 ||smetrics.capitalone.com^
 ||metrics.car.com^
@@ -3944,6 +3950,7 @@
 ||dev-fly.cbsnews.com^
 ||mads.cbsnews.com^
 ||ocp.cbsnews.com^
+||tealium.cbsnews.com^
 ||sc.cc.com^
 ||refer.ccbill.com^
 ||ad.ccement.com^
@@ -4159,6 +4166,7 @@
 ||www.cnstats.com^
 ||u.cnzol.com^
 ||ads.co.com^
+||livejasmin.co.com^
 ||www.co2stats.com^
 ||ads.cobrad.com^
 ||app.cobrowser.com^
@@ -5472,6 +5480,7 @@
 ||ads.globo.com^
 ||horizon.globo.com^
 ||horizon-track.globo.com^
+||tags.globo.com^
 ||player-feedback-v1.glomex.com^
 ||pre.glotgrx.com^
 ||confirm-referer.glrsales.com^
@@ -6499,6 +6508,7 @@
 ||mms.lehighvalleylive.com^
 ||tracking.lenddom.com^
 ||widgets.lendingtree.com^
+||dd.lendup.com^
 ||tracking.lengow.com^
 ||next.lenzmx.com^
 ||tracking.lenzmx.com^
@@ -6600,12 +6610,117 @@
 ||js.livehelper.com^
 ||newbrowse.livehelper.com^
 ||analytics.livehindustan.com^
-||www.2.livejasmin.com^
+||img0.glb.livejasmin.com^
+||img1.glb.livejasmin.com^
+||img2.glb.livejasmin.com^
+||www.glb.livejasmin.com^
+||link.info.livejasmin.com^
+||www.uslax.livejasmin.com^
+||lubet.www.livejasmin.com^
+||2.livejasmin.com^
+||3dns-3.livejasmin.com^
+||6apart.livejasmin.com^
+||api.livejasmin.com^
+||apps.livejasmin.com^
+||asia-red.livejasmin.com^
+||au2.livejasmin.com^
+||auth.livejasmin.com^
+||autodiscover.livejasmin.com^
+||bingoblitz.livejasmin.com^
+||bizwww.livejasmin.com^
+||ccs.livejasmin.com^
 ||cradver.livejasmin.com^
+||crcom.livejasmin.com^
+||creative.livejasmin.com^
 ||creatives.livejasmin.com^
+||crpop.livejasmin.com^
+||crpt.livejasmin.com^
 ||crt.livejasmin.com^
+||crtbb.livejasmin.com^
+||crtinf.livejasmin.com^
+||domains.livejasmin.com^
+||eutest.livejasmin.com^
+||extra-chat.livejasmin.com^
+||fl-gw.livejasmin.com^
+||flashstream1.livejasmin.com^
+||flashstream21.livejasmin.com^
+||flashstream27.livejasmin.com^
+||flashstream3.livejasmin.com^
+||flashstream32.livejasmin.com^
+||flashstream35.livejasmin.com^
+||flashstream36.livejasmin.com^
+||flashstream38.livejasmin.com^
+||flashstream4.livejasmin.com^
+||flashstream42.livejasmin.com^
+||flashstream5.livejasmin.com^
+||flashstream60.livejasmin.com^
+||flashstream7.livejasmin.com^
+||flashstream8.livejasmin.com^
+||flashstream9.livejasmin.com^
+||free.livejasmin.com^
+||gallery0.livejasmin.com^
+||gallery1.livejasmin.com^
+||hnew.livejasmin.com^
+||htmlwww.livejasmin.com^
+||htnew.livejasmin.com^
+||httcreatives.livejasmin.com^
+||httnew.livejasmin.com^
+||images.livejasmin.com^
+||img.livejasmin.com^
+||img0.livejasmin.com^
+||img1.livejasmin.com^
+||img2.livejasmin.com^
+||imghu.livejasmin.com^
+||imgproc1.livejasmin.com^
+||imgx.livejasmin.com^
+||imgx2.livejasmin.com^
 ||live-cams-0.livejasmin.com^
 ||live-cams-1.livejasmin.com^
+||live-cams-2.livejasmin.com^
+||live-cams-3.livejasmin.com^
+||live-cams-4.livejasmin.com^
+||live-cams-5.livejasmin.com^
+||m.livejasmin.com^
+||mailer.livejasmin.com^
+||mastercenter.livejasmin.com^
+||modelcenter.livejasmin.com^
+||mxd.livejasmin.com^
+||mxu.livejasmin.com^
+||new.livejasmin.com^
+||news.livejasmin.com^
+||news12.livejasmin.com^
+||newsletter.livejasmin.com^
+||newsletter07.livejasmin.com^
+||newsletter09.livejasmin.com^
+||newsletter10.livejasmin.com^
+||newsletter100.livejasmin.com^
+||newsletter101.livejasmin.com^
+||newsletter105.livejasmin.com^
+||newsletter106.livejasmin.com^
+||newsletter109.livejasmin.com^
+||newsletter11.livejasmin.com^
+||newsletter111.livejasmin.com^
+||newsletter112.livejasmin.com^
+||newsletter113.livejasmin.com^
+||newsletter114.livejasmin.com^
+||newsletter115.livejasmin.com^
+||newsletter2.livejasmin.com^
+||old.livejasmin.com^
+||performercenter.livejasmin.com^
+||relay.livejasmin.com^
+||sandbox.livejasmin.com^
+||secure.livejasmin.com^
+||static.livejasmin.com^
+||stream.livejasmin.com^
+||streamdiag.livejasmin.com^
+||sync.livejasmin.com^
+||test.livejasmin.com^
+||tives.livejasmin.com^
+||tv.livejasmin.com^
+||updatehd.livejasmin.com^
+||ustest.livejasmin.com^
+||ww.livejasmin.com^
+||x3fq3dimg1.livejasmin.com^
 ||adserver.livejournal.com^
 ||ads.livenation.com^
 ||cookies.livepartners.com^
@@ -7048,6 +7163,7 @@
 ||pageinfo.motorsport.com^
 ||mobileapi.motus.com^
 ||ads.mouseplanet.com^
+||perf.mouser.com^
 ||analytics.mouthshut.com^
 ||ads.movieweb.com^
 ||ext.movixhub.com^
@@ -9026,6 +9142,7 @@
 ||yield-op-idsync.live.streamtheworld.com^
 ||track.strife.com^
 ||creative.stripchat.com^
+||go.stripchat.com^
 ||creative.strpjmp.com^
 ||go.strpjmp.com^
 ||servedby.studads.com^
@@ -14290,6 +14407,7 @@
 ||bqiovml.com^
 ||bqqnngtpc.com^
 ||braincash.com^
+||braincf.com^
 ||brainient.com^
 ||brainschampions.com^
 ||braintb.com^
@@ -14766,6 +14884,7 @@
 ||cbbvi.com^
 ||cbclickbank.com^
 ||cbclicks.com^
+||cbdatatracker.com^
 ||cbeyywbfm.com^
 ||cbiknyhztow.com^
 ||cbleads.com^
@@ -14952,6 +15071,7 @@
 ||chinsnakes.com^
 ||chistochisto.com^
 ||chitika.com^
+||chivoufe.com^
 ||chkfdt.com^
 ||chnhty.com^
 ||chocohjuanfhdhf.com^
@@ -14961,6 +15081,7 @@
 ||choicestream.com^
 ||choozle.com^
 ||chopstick16.com^
+||choupsee.com^
 ||chpfgx.com^
 ||christianbusinessadvertising.com^
 ||christiantop1000.com^
@@ -15250,6 +15371,7 @@
 ||cnliken.com^
 ||cnomy.com^
 ||cnpinzhuo.com^
+||cnrok169.com^
 ||cnrvmcderv.com^
 ||cnsayo.com^
 ||cnscdj.com^
@@ -20038,6 +20160,7 @@
 ||jarsquatter.com^
 ||jarvinzo.com^
 ||jasaiklan.com^
+||jasmin-cams-live.com^
 ||jasperlabs.com^
 ||jatxt.com^
 ||jaugloup.com^
@@ -21095,6 +21218,11 @@
 ||livedecwow.com^
 ||livehapp.com^
 ||liveintent.com^
+||livejasmin-hack.com^
+||livejasminacademy.com^
+||livejasminbabes.com^
+||livejasmincall.com^
+||livejasmincdn.com^
 ||livelumber.com^
 ||liveprivates.com^
 ||livepromotools.com^
@@ -21764,6 +21892,7 @@
 ||meilides.com^
 ||meineserver.com^
 ||meinlist.com^
+||meishi0554.com^
 ||mekadr.com^
 ||mellowads.com^
 ||mellowtin.com^
@@ -21823,6 +21952,7 @@
 ||metrika-informer.com^
 ||metrilo.com^
 ||metrixlab.com^
+||metro114.com^
 ||metroaverage.com^
 ||meubonus.com^
 ||mewtenhah.com^
@@ -22328,6 +22458,7 @@
 ||mustang-browser.com^
 ||musthird.com^
 ||mutary.com^
+||mutenessdollyheadlong.com^
 ||mutinycdn.com^
 ||mutinyhq.com^
 ||muttonvalet.com^
@@ -22504,6 +22635,7 @@
 ||namilh.com^
 ||namimedia.com^
 ||namitol.com^
+||nancyface.com^
 ||nanigans.com^
 ||nanjinglongyu.com^
 ||nanoadexchange.com^
@@ -23970,6 +24102,7 @@
 ||platinumarrangements.com^
 ||plausiblebyeshear.com^
 ||plavid.com^
+||plavxml.com^
 ||play4traffic.com^
 ||playamo30.com^
 ||playertraffic.com^
@@ -24056,6 +24189,7 @@
 ||pointexcusestretching.com^
 ||pointillist.com^
 ||pointlessrifle.com^
+||pointmediatracker.com^
 ||pointomatic.com^
 ||pointroll.com^
 ||points2shop.com^
@@ -24915,6 +25049,7 @@
 ||qumwhbfjvbrrr.com^
 ||quoashei.com^
 ||quotes.com^
+||quxiandu.com^
 ||quxveblgxgsi.com^
 ||qvmgjhspiebe.com^
 ||qvnlejvkkicf.com^
@@ -26270,6 +26405,7 @@
 ||shoveac.com^
 ||shovewhe.com^
 ||showcasead.com^
+||showheroes.com^
 ||showjihadspink.com^
 ||showmebars.com^
 ||showmeyouradsnow.com^
@@ -26984,6 +27120,7 @@
 ||stetic.com^
 ||stfdhrkj.com^
 ||stfowevsn.com^
+||sthjoq.com^
 ||stickssheep.com^
 ||stickyadstv.com^
 ||stickysheet.com^
@@ -29120,6 +29257,7 @@
 ||vuuwd.com^
 ||vuwcudzzyxn.com^
 ||vuwgt.com^
+||vv8h9vyjgnst.com^
 ||vvbvubdvfzihb.com^
 ||vvczvfrbtwrvs.com^
 ||vvnmwfnpkat.com^
@@ -30346,6 +30484,7 @@
 ||yslvynerwkdls.com^
 ||ysnj74ed.com^
 ||yt-adblocker.com^
+||ytbctyy.com^
 ||ytcgivcxzawx.com^
 ||ytimgg.com^
 ||ytimm.com^
@@ -30616,6 +30755,7 @@
 ||zippywind.com^
 ||zipropyl.com^
 ||zirve100.com^
+||zixiansun.com^
 ||zixun8.com^
 ||ziyeaiying.com^
 ||ziyuantx.com^
@@ -32597,6 +32737,7 @@
 ||i2.myapkcdn.in^
 ||app.adjust.net.in^
 ||rlinks.one.in^
+||livejasmin.org.in^
 ||counter.pixplug.in^
 ||referer.pixplug.in^
 ||visitor.pixplug.in^
@@ -33999,6 +34140,7 @@
 ||leadsmonitor.io^
 ||liftoff.io^
 ||litix.io^
+||livejasmin.io^
 ||livesession.io^
 ||loginhood.io^
 ||logmatic.io^
@@ -34704,6 +34846,7 @@
 ||newmedia.live^
 ||private-show.live^
 ||quarterfactwant7.live^
+||thansendmaterial-14.live^
 ||verifier.live^
 ||watch-this.live^
 ||web-analysis.live^
@@ -36393,11 +36536,6 @@
 ||cat.onlinepeople.net^
 ||vw.onlinia.net^
 ||www.optiad.net^
-||gvctracksdk.optimove.net^
-||sdk-cdn.optimove.net^
-||sdkuaservice.optimove.net^
-||staplespoctracksdk.optimove.net^
-||sweatybettytracksdk.optimove.net^
 ||banner.orb.net^
 ||sdk.ourplay.net^
 ||g.ousns.net^
@@ -37297,7 +37435,6 @@
 ||extfiles.net^
 ||eyeota.net^
 ||ezakus.net^
-||ezoic.net^
 ||eztnezdmeg.net^
 ||f-counter.net^
 ||facetz.net^
@@ -37661,6 +37798,7 @@
 ||littel.net^
 ||liveadserver.net^
 ||liveappgirl.net^
+||livejasmincall.net^
 ||liversely.net^
 ||lkqd.net^
 ||locotrack.net^
@@ -37713,6 +37851,7 @@
 ||medical-aid.net^
 ||medyanet.net^
 ||meehaina.net^
+||meerihoh.net^
 ||meetrics.net^
 ||meezauch.net^
 ||megabestnews.net^
@@ -38766,6 +38905,7 @@
 ||nzme-ads.co.nz^
 ||rtrk.co.nz^
 ||webads.co.nz^
+||livejasmin.net.nz^
 ||megaad.nz^
 ||ad.52av.one^
 ||big88.one^
@@ -39196,6 +39336,7 @@
 ||mudmonster.org^
 ||multibux.org^
 ||murcs.org^
+||mylivejasmin.org^
 ||mywebstats.org^
 ||navyfederai.org^
 ||ncjjfn.org^
@@ -39538,6 +39679,7 @@
 ||xn--2qux23c9ziyrq.plus^
 ||nst.broadcast.pm^
 ||box.rus.porn^
+||livejasmin.porn^
 ||analytic.press^
 ||caramel.press^
 ||sq85.press^
@@ -40136,6 +40278,7 @@
 ||fls-eu.amazon.sa^
 ||mail.imamu.edu.sa^
 ||amazon.sa^
+||livejasmin.net.sc^
 ||thenational-gb.thenational.scot^
 ||ad.aftonbladet.se^
 ||fls-eu.amazon.se^
@@ -40683,6 +40826,7 @@
 ||laredintonw.space^
 ||ldwidentconc.space^
 ||lightiesenco.space^
+||lostincunt.space^
 ||lvetpermina.space^
 ||macleaner.space^
 ||malpacascal.space^
@@ -41557,6 +41701,7 @@
 ||kost.tv^
 ||laim.tv^
 ||livejasmin.tv^
+||livejasminacademy.tv^
 ||nativeroll.tv^
 ||runetki.tv^
 ||scambiobanner.tv^
@@ -42098,6 +42243,7 @@
 ||st.cdnco.us^
 ||wawa.cleansite.us^
 ||wph2.destinia.us^
+||x.disq.us^
 ||lay.dubya.us^
 ||pixel.meteora.us^
 ||ads.phillipsdata.us^
@@ -42121,6 +42267,7 @@
 ||hot-hits.us^
 ||iframes.us^
 ||invoc.us^
+||livejasmine.us^
 ||mailstat.us^
 ||mainsite.us^
 ||mediaunder.us^
@@ -42152,6 +42299,7 @@
 ||a.muloqot.uz^
 ||pmssrv.mercadolibre.com.ve^
 ||orion.platino.gov.ve^
+||livejasmin.vg^
 ||analytics.hostyour.video^
 ||sdk.hostyour.video^
 ||tea.pornolomka.video^
