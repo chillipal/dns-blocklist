@@ -1,5 +1,5 @@
 ! custom Adguard dns filter list for mobile by @chillipal
-! Updated: 2021-01-26 09:40:10 +0000
+! Updated: 2021-01-30 09:40:10 +0000
 !
 ||campaign.aliexpress.*^
 ||click.aliexpress.*^
@@ -2231,6 +2231,19 @@
 ||www.advertpro.com^
 ||adserver.adverty.com^
 ||www.advertyz.com^
+||ads.adviad.com^
+||ads2.adviad.com^
+||ads3.adviad.com^
+||ads4.adviad.com^
+||api.adviad.com^
+||app.adviad.com^
+||cdn.adviad.com^
+||cdnuz.adviad.com^
+||dmp.adviad.com^
+||dsp.adviad.com^
+||report.adviad.com^
+||ssp.adviad.com^
+||sync.adviad.com^
 ||widgetcf.adviceiq.com^
 ||widgets.adviceiq.com^
 ||banners.advidi.com^
@@ -2498,6 +2511,7 @@
 ||ads1.ami-admin.com^
 ||api.ampiri.com^
 ||signals.ampiri.com^
+||pixel.ampry.com^
 ||api.anagog.com^
 ||eapik.anagog.com^
 ||eapip.anagog.com^
@@ -6761,7 +6775,6 @@
 ||b.stats.paypal.com^
 ||slc.stats.paypal.com^
 ||t.paypal.com^
-||epl.paypal-communication.com^
 ||hawk.pcgamer.com^
 ||pcgamer-gb.pcgamer.com^
 ||ashow.pcpop.com^
@@ -17306,6 +17319,7 @@
 ||lfztmoamieum.com^
 ||lgcblkbn.com^
 ||lgmsekxqwxe.com^
+||lgpumcja.com^
 ||lgse.com^
 ||lgsvywogylblv.com^
 ||lguqeppylijw.com^
@@ -18246,6 +18260,7 @@
 ||mockingfish.com^
 ||modelsgonebad.com^
 ||modernpricing.com^
+||modificationdispatch.com^
 ||modifyeyes.com^
 ||modpotcue.com^
 ||modraytor.com^
@@ -19469,6 +19484,7 @@
 ||pardot.com^
 ||parkingpremium.com^
 ||parklogic.com^
+||parkurl.com^
 ||parpapsit.com^
 ||parrable.com^
 ||parsely.com^
@@ -19756,6 +19772,7 @@
 ||plaintiffalphabetslacken.com^
 ||planetactive.com^
 ||planktab.com^
+||plannerladyreality.com^
 ||plannto.com^
 ||plantaosexy.com^
 ||plantationthrillednoncommittal.com^
@@ -22590,6 +22607,7 @@
 ||tfpayjwjphuk.com^
 ||tfqexqeldxjvet.com^
 ||tfuyqoxs.com^
+||tfzznclztl.com^
 ||tgdaudience.com^
 ||tgknt.com^
 ||tgpmanager.com^
@@ -22603,6 +22621,7 @@
 ||the-adult-company.com^
 ||the-best-track.com^
 ||the-ozone-project.com^
+||theactivetag.com^
 ||theadex.com^
 ||theadgateway.com^
 ||theadhost.com^
@@ -23728,6 +23747,7 @@
 ||visitortracklog.com^
 ||visitorville.com^
 ||visitpath.com^
+||visitsfunk.com^
 ||visitstats.com^
 ||visitstrack.com^
 ||visitstreamer.com^
@@ -26107,6 +26127,7 @@
 ||ecurrenchoutliness.fun^
 ||edmarketts.fun^
 ||edmotherew.fun^
+||edthoutfre.fun^
 ||ellanrequiryf.fun^
 ||emkarto.fun^
 ||engrievinebef.fun^
@@ -26120,6 +26141,7 @@
 ||ewseriencern.fun^
 ||eycrossible.fun^
 ||feitiesogates.fun^
+||freychang.fun^
 ||gedcompani.fun^
 ||getherehap.fun^
 ||haracticdag.fun^
@@ -27371,6 +27393,7 @@
 ||dil.hansel.io^
 ||sdk.hansel.io^
 ||ujm.hansel.io^
+||st.hbrd.io^
 ||cem.hotelsapi.io^
 ||hrum.hotelsapi.io^
 ||crosspromo.hutchgames.io^
@@ -29474,6 +29497,7 @@
 ||a8ww.net^
 ||aarth.net^
 ||abacho.net^
+||ablida.net^
 ||abmr.net^
 ||abnad.net^
 ||abtasty.net^
@@ -31143,6 +31167,7 @@
 ||anon-stats.eff.org^
 ||ad1.emule-project.org^
 ||a.environmentaldefense.org^
+||js.baytorrent.eu.org^
 ||ad.exyws.org^
 ||ads.fiat-bg.org^
 ||www69.findhere.org^
@@ -33616,7 +33641,6 @@
 ||cdnaz.win^
 ||hashing.win^
 ||hemnes.win^
-||hollps.win^
 ||lindon-pool.win^
 ||swiftmining.win^
 ||trafiq.win^
