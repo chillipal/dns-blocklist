@@ -32,7 +32,8 @@
 ||adserver.pressboard.ca^
 ||data1.virginmobile.ca^
 ||logger.yp.ca^
-||pixel.ionos.de (alias for [pixel.ionos.ca])^
+||pixel.ionos.de^
+||pixel.ionos.ca^
 ||adop.cc^
 ||popin.cc^
 ||event.syndigo.cloud^
@@ -47,7 +48,8 @@
 ||a.mailmunch.co^
 ||i.viafoura.co^
 ||analytics.worldtable.co^
-||leadpages.net (alias for [careercontessa.lpages.co])^
+||leadpages.net^
+||careercontessa.lpages.co^
 ||360yield.com^
 ||3lift.com^
 ||4seeresults.com^
@@ -772,21 +774,37 @@
 ||zergnet.com^
 ||zeustechnology.com^
 ||e.zg-api.com^
-||omtrdc.net (alias for [starget.aircanada.com])^
-||vms.bluebillywig.com (alias for [pubmatic.bbvms.com])^
-||exacttarget.com.edgekey.net (alias for [image.email.emeraldclub.com])^
-||pardot.com (alias for [www2.ganintegrity.com])^
-||izooto.com (alias for [notify.indianexpress.com])^
-||2o7.net (alias for [metric.langhamhotels.com])^
-||exacttarget.com.edgekey.net (alias for [image.e.manulife.com])^
-||online-metrix.net (alias for [secured.netflix.com])^
-||c.msn.com (alias for [c.office.com])^
-||bnc.lt (alias for [t.ac.pandora.com])^
-||eventgateway.soundcloud.com (alias for [l9bjkkhaycw6f8f4.soundcloud.com])^
-||mparticle.map.fastly.net (alias for [mp.spokeo.com])^
-||revcontent.com (alias for [trends.stacksocialcontent.com])^
-||online-metrix.net (alias for [tmx.td.com])^
-||pardot.com (alias for [go.thehub-amazon.com])^
+
+||omtrdc.net^
+||starget.aircanada.com^
+||vms.bluebillywig.com^
+||pubmatic.bbvms.com^
+||exacttarget.com.edgekey.net^
+||image.email.emeraldclub.com^
+||pardot.com^
+||www2.ganintegrity.com^
+||izooto.com^
+||notify.indianexpress.com^
+||2o7.net^
+||metric.langhamhotels.com^
+||exacttarget.com.edgekey.net^
+||image.e.manulife.com^
+||online-metrix.net^
+||secured.netflix.com^
+||c.msn.com^
+||c.office.com^
+||bnc.lt^
+||t.ac.pandora.com^
+||eventgateway.soundcloud.com^
+||l9bjkkhaycw6f8f4.soundcloud.com^
+||mparticle.map.fastly.net^
+||mp.spokeo.com^
+||revcontent.com^
+||trends.stacksocialcontent.com^
+||online-metrix.net^
+||tmx.td.com^
+||pardot.com^
+||go.thehub-amazon.com^
 ||toplist.cz^
 ||adtech.de^
 ||stats.datawrapper.de^
@@ -1019,8 +1037,10 @@
 ||trustx.org^
 ||webvisor.org^
 ||intake-analytics.wikimedia.org^
-||omtrdc.net (alias for [sjourney.aarp.org])^
-||exacttarget.com.edgekey.net (alias for [image.email.sans.org])^
+||omtrdc.net^ 
+||sjourney.aarp.org^
+||exacttarget.com.edgekey.net^
+||image.email.sans.org^
 ||ck.page^
 ||instant.page^
 ||piwik.pro^
