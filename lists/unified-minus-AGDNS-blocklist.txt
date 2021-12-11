@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2021-12-10T06:50:06.395Z
+! Last modified: 2021-12-11T06:50:55.847Z
 !
 !
 ||00px.net^
@@ -338,7 +338,6 @@
 ||cedato.com^
 ||cella.home.hedbor.org^
 ||centraliprom.com^
-||c.evidon.com^
 ||chango.ca^
 ||channeladvisor.com^
 ||channelintelligence.com^
@@ -873,6 +872,7 @@
 ||moolah-media.com^
 ||moolahmedia.com^
 ||m.opentable.fr^
+||mopub.com^
 ||motigo.com^
 ||movielush.com^
 ||mparticle.map.fastly.net^
@@ -2123,7 +2123,6 @@
 ||mongoosemetrics.com^
 ||monitus.net^
 ||mookie1.com^
-||mopub.com^
 ||mouseflow.com^
 ||mparticle.com^
 ||msads.net^
@@ -4023,7 +4022,6 @@
 ||geobanner.hornywife.com^
 ||geobanner.sexfinder.com^
 ||go.clicknplay.to^
-||icfcdn.com^
 ||iframes.hustler.com^
 ||loveme.com^
 ||media.eurolive.com^
@@ -4342,7 +4340,6 @@
 ||mv.treehousei.com^
 ||nojscontainer.pepperjam.com^
 ||observer.ip-label.net^
-||pixel.mtrcs.samba.tv^
 ||pixel.widgetly.com^
 ||s.clickiocdn.com^
 ||s.sniphub.com^
@@ -4354,7 +4351,6 @@
 ||stats.vliplatform.com^
 ||t.c4tw.net^
 ||tag.aticdn.net^
-||tag.mtrcs.samba.tv^
 ||target.mixi.media^
 ||tr.webantenna.info^
 ||track.sitetag.us^
@@ -15217,6 +15213,7 @@
 ||aqt.adalliance.io^
 ||mafo.adalliance.io^
 ||tracking.adalliance.io^
+||adap.tv^
 ||api.adcalls.nl^
 ||cdn1.adcdnx.com^
 ||rtb.adcel.co^
@@ -15240,6 +15237,8 @@
 ||adj.st^
 ||fraud.adjoe.zone^
 ||prod.adjoe.zone^
+||adjust.net.in^
+||adjust.world^
 ||bp.adkmob.com^
 ||cm.adkmob.com^
 ||profile.adkmob.com^
@@ -15339,6 +15338,7 @@
 ||setting.adzcore.com^
 ||static.adziff.com^
 ||adztec.com^
+||click.aep-email.com^
 ||pulse.svod.aetnd.com^
 ||insights.vip.aetnd.com^
 ||lb.affilae.com^
@@ -15712,6 +15712,7 @@
 ||lynx.cognitivlabs.com^
 ||tag.cogocast.net^
 ||sdk.collabollc.com^
+||collector.pabs.comcast.com^
 ||engage.commander1.com^
 ||mytheresa.commander1.com^
 ||privacy.commander1.com^
@@ -15730,6 +15731,7 @@
 ||sdk.consoliads.com^
 ||fyls88zqyb.content-ad.net^
 ||mobile-production.content-square.net^
+||graphql.contentful.com^
 ||contentstream.pl^
 ||cdn-3.convertexperiments.com^
 ||conviva.com^
@@ -15764,6 +15766,7 @@
 ||oauth.datorama.com^
 ||ad.g.daum.net^
 ||adimg.daumcdn.net^
+||datacollector-dra.dt.dbankcloud.cn^
 ||s79.research.de.com^
 ||prod-dcs-eventlog.decagames.com^
 ||api.decibelinsight.net^
@@ -15819,6 +15822,8 @@
 ||prebid.districtm.ca^
 ||st.districtm.ca^
 ||tag.divvit.com^
+||postsign.docusign.com^
+||telemetry.docusign.net^
 ||ads.dofunapps.com^
 ||sdk.dofunapps.com^
 ||ti.domainforlite.com^
@@ -15949,18 +15954,13 @@
 ||mobile.eum-appdynamics.com^
 ||pdx-col.eum-appdynamics.com^
 ||syd-col.eum-appdynamics.com^
-||iabmap.evidon.com^
-||info.evidon.com^
-||l.evidon.com^
-||l3.evidon.com^
+||evidon.com^
+||media.evolv.ai^
+||participants.evolv.ai^
 ||tp-emea.exactag.com^
 ||exacttargetapis.com^
 ||a.exdynsrv.com^
-||beacons.extremereach.io^
-||beacons2.extremereach.io^
-||cdn1.extremereach.io^
-||cdn2.extremereach.io^
-||vast.extremereach.io^
+||boombit-api.exponea.com^
 ||filter.ezmob.com^
 ||xml.ezmob.com^
 ||fabric.io^
@@ -15977,6 +15977,7 @@
 ||auth.follow-apps.com^
 ||sdk.follow-apps.com^
 ||sor-sdk.follow-apps.com^
+||load.fomo.com^
 ||king-contenido-prod.secure2.footprint.net^
 ||events.foreseeresults.com^
 ||cdn-static.formisimo.com^
@@ -16055,11 +16056,9 @@
 ||adcdn.goo.ne.jp^
 ||owb101.goo.ne.jp^
 ||secure.gooddata.com^
-||www.google-analytics.com^
 ||ads.google.com^
 ||crashlytics2.l.google.com^
 ||s0-2mdn-net.l.google.com^
-||www.googleadservices.com^
 ||static.googleadsserving.cn^
 ||displayads-formats.googleusercontent.com^
 ||gotoip55.com^
@@ -16224,19 +16223,6 @@
 ||babel.innertrends.com^
 ||io.innertrends.com^
 ||api.innomdc.com^
-||ag.innovid.com^
-||dts.innovid.com^
-||rtr.innovid.com^
-||s.innovid.com^
-||s-a.innovid.com^
-||s-cdn.innovid.com^
-||s-files.innovid.com^
-||s-static.innovid.com^
-||s-video.innovid.com^
-||service.innovid.com^
-||static.innovid.com^
-||video.innovid.com^
-||x.innovid.com^
 ||cdn.insigit.com^
 ||cdn.inskinad.com^
 ||mfad.inskinad.com^
@@ -16254,9 +16240,11 @@
 ||sync.intentiq.com^
 ||sync1.intentiq.com^
 ||ads.inven.co.kr^
+||invocacdn.com^
 ||ci-mpsnare.iovation.com^
 ||first.iovation.com^
 ||iris.tv^
+||logs.ironsrc.mobi^
 ||irr.ru^
 ||dm.isnssdk.com^
 ||h5.isnssdk.com^
@@ -16304,16 +16292,6 @@
 ||bmedia.justservingfiles.net^
 ||ping-meta-prd.jwpltx.com^
 ||prd.jwpltx.com^
-||api-usent.kampyle.com^
-||assets.kampyle.com^
-||cdn-prod.kampyle.com^
-||cdn-usent.kampyle.com^
-||cooladata.kampyle.com^
-||mobilesdk-us.kampyle.com^
-||nebula-cdn.kampyle.com^
-||screencaptue-cdn.kampyle.com^
-||screencapture.kampyle.com^
-||udc-neb.kampyle.com^
 ||api.keen.io^
 ||kejet.net^
 ||au.res.keymedia.com^
@@ -16385,6 +16363,7 @@
 ||xfeedback.scloud.lfengmobile.com^
 ||online.slb.lfengmobile.com^
 ||online2.slb.lfengmobile.com^
+||aic.cdpbeacon.lgtvcommon.com^
 ||adexp.liftoff.io^
 ||build-cdn.liftoff.io^
 ||cdn.liftoff.io^
@@ -16394,6 +16373,7 @@
 ||impression-europe.liftoff.io^
 ||s3.lightboxcdn.com^
 ||www.lightboxcdn.com^
+||cs.liiift.io^
 ||ad.lionmobi.com^
 ||analysis.lionmobi.com^
 ||battery.lionmobi.com^
@@ -16594,7 +16574,7 @@
 ||nex8.net^
 ||segment.psg.nexstardigital.net^
 ||api.ning.com^
-||rtb.ninthdecimal.com^
+||ninthdecimal.com^
 ||dev.nodle.io^
 ||ads.nordcurrent.com^
 ||b.ns1p.net^
@@ -16621,6 +16601,8 @@
 ||api2.okanjo.com^
 ||cdn.okanjo.com^
 ||track.omguk.com^
+||api.omnilocal.ai^
+||static.omnilocal.ai^
 ||upload.omnivirt.com^
 ||static.onecms.io^
 ||validate.onecount.net^
@@ -16708,6 +16690,7 @@
 ||topapps-func.pinsightmedia.com^
 ||trackdat.pinsightmedia.com^
 ||ads.pinterest.com^
+||placed.com^
 ||ads.placeiq.com^
 ||3pt.placelocal.com^
 ||adacus-cdn.placelocal.com^
@@ -16733,9 +16716,11 @@
 ||cdn-assets.prfct.cc^
 ||cdn-otf-cas.prfct.cc^
 ||cdn-resources.prfct.cc^
+||locate.pricespider.com^
 ||schemea.prinit.net^
 ||static.privacytrck.com^
 ||af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.prmutv.co^
+||api.proba.ai^
 ||att.productmadness.com^
 ||prooffactor.com^
 ||global.proper.io^
@@ -16772,6 +16757,7 @@
 ||sulake.pushwoosh.com^
 ||uefa.pushwoosh.com^
 ||wetter.pushwoosh.com^
+||cf-us-popular.dash.pv-cdn.net^
 ||collector-px8fcgygk4.px-cloud.net^
 ||api.pxlad.io^
 ||api.pythonexample.com^
@@ -16830,11 +16816,13 @@
 ||sdk1.resu.io^
 ||tracking.retargeting.biz^
 ||waves.retentionscience.com^
+||api.revenuecat.com^
 ||apollointeractive.ringrevenue.com^
 ||c.riskified.com^
 ||img.riskified.com^
 ||metric-android-am.road404.com^
 ||ads.roblox.com^
+||rocketreach.co^
 ||p.ads.roku.com^
 ||austin.logs.roku.com^
 ||scribe.logs.roku.com^
@@ -16875,8 +16863,7 @@
 ||report.salmonads.com^
 ||upload.salmonads.com^
 ||sam4m.com^
-||ads.samba.tv^
-||events.cid.samba.tv^
+||samba.tv^
 ||insights.samsung.com^
 ||api.saypromo.net^
 ||images.scanalert.com^
@@ -17039,6 +17026,7 @@
 ||snowplowcollector.talkspace.com^
 ||www.tamgrt.com^
 ||acme.tango.me^
+||audid-api.taobao.com^
 ||cdn-stg.tapad.app^
 ||tapas.net^
 ||log.tapatalk.com^
@@ -17127,7 +17115,7 @@
 ||reporting.tutelatechnologies.com^
 ||tutoads.tv^
 ||px.tvadsync.com^
-||collectoru.us.tvsquared.com^
+||tvsquared.com^
 ||sdkgw.us1.twilio.com^
 ||ads.twitter.com^
 ||ads-api.twitter.com^
@@ -17166,6 +17154,7 @@
 ||api.usabilla.com^
 ||w.usabilla.com^
 ||srepdata.usatoday.com^
+||geocode.usefomo.com^
 ||www.usefomo.com^
 ||segment.api.useinsider.com^
 ||mobileanalytics.useinsider.com^
@@ -17301,6 +17290,8 @@
 ||production.wootric.com^
 ||survey.wootric.com^
 ||wsod.com^
+||metricscollector.lp.xcal.tv^
+||api.player.xcal.tv^
 ||log.ad.xiaomi.com^
 ||track.ad.xiaomi.com^
 ||diagnosis.ad.intl.xiaomi.com^
@@ -18136,7 +18127,6 @@ iklan300x250.gif|
 ||518ad.com^
 ||777partner.com^
 ||a.aproductmsg.com^
-||a.consumer.net^
 ||a.muloqot.uz^
 ||a.pub.network^
 ||a.sakh.com^
@@ -18234,7 +18224,6 @@ iklan300x250.gif|
 ||ad4mat.com^
 ||ad4mat.net^
 ||adaction.de^
-||adap.tv^
 ||adapt.tv^
 ||adbilty.me^
 ||adblade.org^
@@ -18527,7 +18516,6 @@ iklan300x250.gif|
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
-||ads.rcncdn.de^
 ||ads.rcs.it^
 ||ads.recoletos.es^
 ||ads.rediff.com^
@@ -19074,7 +19062,6 @@ iklan300x250.gif|
 ||dpu.samsungelectronics.com^
 ||drumcash.com^
 ||dsp.io^
-||e-adimages.scrippsnetworks.com^
 ||e-m.fr^
 ||e.kde.cz^
 ||e37364.dscd.akamaiedge.net^
@@ -19087,7 +19074,6 @@ iklan300x250.gif|
 ||edaa.eu^
 ||elitedollars.com^
 ||elitetoplist.com^
-||elthamely.com^
 ||em1.yoursantander.co.uk^
 ||email-clk.adguard.com^
 ||email-opn.adguard.com^
@@ -19443,7 +19429,6 @@ iklan300x250.gif|
 ||optmstr.com^
 ||ota.cartrawler.com^
 ||otto-images.developershed.com^
-||owebanalytics.com^
 ||ox1.shopcool.com.tw^
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
@@ -19468,7 +19453,6 @@ iklan300x250.gif|
 ||pilotaffiliate.com^
 ||pimproll.com^
 ||ping.ublock.org^
-||placed.com^
 ||play4traffic.com^
 ||pltraffic8.com^
 ||pokkt.com^
@@ -19561,7 +19545,6 @@ iklan300x250.gif|
 ||revlift.io^
 ||revstats.com^
 ||richmails.com^
-||richmedia.yimg.com^
 ||rle.ru^
 ||rmads.msn.com^
 ||rmedia.boston.com^
@@ -19621,7 +19604,6 @@ iklan300x250.gif|
 ||spinbox.versiontracker.com^
 ||sponsorpro.de^
 ||sponsors.thoughtsmedia.com^
-||sportsad.net^
 ||spot.fitness.com^
 ||spulse.net^
 ||spykemediatrack.com^
@@ -19629,7 +19611,6 @@ iklan300x250.gif|
 ||srvmath.com^
 ||srwww1.com^
 ||starffa.com^
-||start.freeze.com^
 ||stat.cliche.se^
 ||stat.dyna.ultraweb.hu^
 ||stat.webmedia.pl^
@@ -19702,6 +19683,7 @@ iklan300x250.gif|
 ||topgamesites.net^
 ||toplist.pornhost.com^
 ||toplista.mw.hu^
+||toplistcity.com^
 ||topping.com.ua^
 ||toprebates.com^
 ||topsir.com^
@@ -19755,7 +19737,6 @@ iklan300x250.gif|
 ||trafficstrategies.com^
 ||travis.bosscasinos.com^
 ||trck.a8.net^
-||trcking4wdm.de^
 ||trcklion.com^
 ||trekdata.com^
 ||trendmd.com^
@@ -19800,7 +19781,6 @@ iklan300x250.gif|
 ||vrtzcontextualads.com^
 ||vs.tucows.com^
 ||waardex.com^
-||wd-track.de^
 ||wdads.sx.atl.publicus.com^
 ||web.informer.com^
 ||web2.deja.com^
@@ -19882,6 +19862,7 @@ iklan300x250.gif|
 ||a-ads.com^
 ||a-counter.kiev.ua^
 ||a.0day.kiev.ua^
+||a.consumer.net^
 ||a.ucoz.net^
 ||a32.g.a.yimg.com^
 ||a9.com^
@@ -20343,6 +20324,7 @@ iklan300x250.gif|
 ||domainsponsor.com^
 ||doubleclick.com^
 ||doubleclick.net^
+||e-adimages.scrippsnetworks.com^
 ||e-bannerx.com^
 ||e-debtconsolidation.com^
 ||e-n-t-e-r-n-e-x.com^
@@ -20681,6 +20663,7 @@ iklan300x250.gif|
 ||rev2pub.com^
 ||revenue.net^
 ||revmob.com^
+||richmedia.yimg.com^
 ||richwebmaster.com^
 ||rightstats.com^
 ||rotabanner.com^
@@ -20725,6 +20708,7 @@ iklan300x250.gif|
 ||spywords.com^
 ||srbijacafe.org^
 ||star-advertising.com^
+||start.freeze.com^
 ||stat.dealtime.com^
 ||stat.pl^
 ||stat.su^
@@ -20775,7 +20759,6 @@ iklan300x250.gif|
 ||topbarh.box.sk^
 ||topblogarea.se^
 ||toplist.cz^
-||toplistcity.com^
 ||topmmorpgsites.com^
 ||topsafelist.net^
 ||topsearcher.com^
@@ -29142,6 +29125,7 @@ directtrack.*.js
 ||cdn.nativery.com^
 ||cdn.nsimg.net^
 ||cdn.onescreen.net^
+||cdn.owebanalytics.com^
 ||cdn.palomatik.info^
 ||cdn.pickyopahs.com^
 ||cdn.stat-rock.com^
@@ -31441,6 +31425,7 @@ directtrack.*.js
 ||rt.visilabs.com^
 ||rtl-most.blogspot.hu^
 ||rtlhirek-online.com^
+||rtr.innovid.com^
 ||ru.redtram.com^
 ||rubi4edit.com^
 ||rubiccrum.com^
@@ -31461,6 +31446,7 @@ directtrack.*.js
 ||s.baidu.com^
 ||s.di.com.pl^
 ||s.dynad.net^
+||s.innovid.com^
 ||s.media-imdb.com^
 ||s.megaclick.com^
 ||s.optnx.com^
@@ -32598,6 +32584,7 @@ directtrack.*.js
 ||www.getloan.com^
 ||www.gigdnetwork.com^
 ||www.gm4pgv.plus.com^
+||www.googleadservices.com^
 ||www.googmel.win^
 ||www.grabflashsign.win^
 ||www.greatdexchange.com^
@@ -34779,6 +34766,7 @@ directtrack.*.js
 ||tiads.ew.com^
 ||promo.freshdirect.com^
 ||tiads.health.com^
+||s-static.innovid.com^
 ||mnet-ad.net^
 ||adcache.nymag.com^
 ||cdn.polmontventures.com^
@@ -34818,6 +34806,7 @@ directtrack.*.js
 ||ads.domainoptions.net^
 ||parkcloud.dynadot.com^
 ||click.gospect.com^
+||dts.innovid.com^
 ||bootstrap.livefyre.com^
 ||stream1.livefyre.com^
 ||geo.jetpackdigital.com^
@@ -35010,7 +34999,6 @@ directtrack.*.js
 ||d1piupybsgr6dr.cloudfront.net^
 ||cdn-1.convertexperiments.com^
 ||cdn.elasticad.net^
-||ads.evidon.com^
 ||bundle-geoip.herokuapp.com^
 ||cdn.iasrv.com^
 ||cdn.ip.inpwrd.com^
