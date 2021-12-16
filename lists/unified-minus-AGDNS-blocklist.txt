@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2021-12-15T06:45:00.553Z
+! Last modified: 2021-12-16T06:44:57.002Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3728,6 +3728,7 @@
 ||perf.cdnads.com^
 ||cdnwidget.com^
 ||api.monedata.iomericreceiver.cellrebel.com^
+||metricreceiver.cellrebel.com^
 ||celltick.com^
 ||js.center.io^
 ||track.chanret.com^
@@ -3817,6 +3818,7 @@
 ||locatorpp.corevm.com^
 ||monetize-api.coronalabs.com^
 ||count.ly^
+||static.cloud.coveo.com^
 ||smetrics.cox.com^
 ||piq.cr-nielsen.com^
 ||pmg.cr-nielsen.com^
@@ -4692,6 +4694,7 @@
 ||ec.moengage.com^
 ||image.moengage.com^
 ||websdk.moengage.com^
+||api.monedata.io^
 ||vik-analytics.moonactive.net^
 ||vik-analytics-gke.moonactive.net^
 ||mobileapi.motus.com^
@@ -4754,6 +4757,7 @@
 ||midoweb.offerstrack.net^
 ||mobfloral.offerstrack.net^
 ||mobnerve.offerstrack.net^
+||sdk-monitoring.ogury.co^
 ||cloud.ogury.io^
 ||dsp-1.ogury.io^
 ||sdk-monitoring.ogury.io^
@@ -5268,6 +5272,8 @@
 ||ping.taplytics.com^
 ||www.tapresearch.com^
 ||api.taps.io^
+||api.tapsell.ir^
+||plus.tapsell.ir^
 ||api.tapstream.com^
 ||reporting.tapstream.com^
 ||cdnsonata.taptapnetworks.com^
