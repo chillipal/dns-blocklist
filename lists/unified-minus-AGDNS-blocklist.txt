@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2021-12-20T06:44:59.465Z
+! Last modified: 2021-12-21T06:44:58.788Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3929,8 +3929,6 @@
 ||duiba.com.cn^
 ||controller.duokanbox.com^
 ||fm.duokanbox.com^
-||assets.dwell.com^
-||images.dwell.com^
 ||ak.dxsvr.com^
 ||nrc.dxsvr.com^
 ||rts.dxsvr.com^
@@ -5637,7 +5635,6 @@
 ||c-stat.eu^
 ||cfs1.uzone.id^
 ||moneyfree.co^
-||nonegrysu.pro^
 ||track.aptitudemedia.co^
 ||track.avxid.com^
 ||track.spzan.com^
@@ -7468,6 +7465,7 @@ iklan300x250.gif|
 ||gml.email^
 ||go-clicks.de^
 ||go-rank.de^
+||go.icann.org^
 ||goingplatinum.com^
 ||googleanalytics.com^
 ||googletagmanager.com^
