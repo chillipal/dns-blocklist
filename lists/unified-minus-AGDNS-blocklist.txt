@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2021-12-29T06:44:34.063Z
+! Last modified: 2021-12-30T06:44:29.081Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4973,7 +4973,6 @@
 ||clients-api.pushengage.com^
 ||sw.pushengage.com^
 ||theconstructor.pushengage.com^
-||pushnami.com^
 ||api.pushspring.com^
 ||api.pushwoosh.com^
 ||bbumgames.pushwoosh.com^
@@ -8455,6 +8454,7 @@ iklan300x250.gif|
 ||tracking.orixa-media.com^
 ||tracking.theoceanac.online^
 ||tracking.thinkabt.com^
+||tracking.wetter.at^
 ||tracking01.walmart.com^
 ||tracking22.com^
 ||trackingfestival.com^
@@ -14700,7 +14700,6 @@ iklan300x250.gif|
 ||feeds.videosz.com^
 ||feeds.weselltraffic.com^
 ||fejezet.com^
-||felix.data.tm-awx.com^
 ||fengfengtie.com.cn^
 ||fengfengtiecrv.com.cn^
 ||fengfengtiessp.com.cn^
