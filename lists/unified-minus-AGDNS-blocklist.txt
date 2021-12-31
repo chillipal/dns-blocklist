@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2021-12-30T06:44:29.081Z
+! Last modified: 2021-12-31T06:44:32.757Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3178,6 +3178,9 @@
 ||uberupload.online^
 ||pokemoney.biz^
 ||pokemoney.shop^
+||domsearch.net^
+||vor.ngo^
+||vor.ong^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -3230,7 +3233,6 @@
 ||api.accengage.net^
 ||daraz-by.accengage.net^
 ||tags.acmeaom.com^
-||activemetering.com^
 ||as.ad-brix.com^
 ||campaign.ad-brix.com^
 ||config.ad-brix.com^
@@ -3245,7 +3247,6 @@
 ||seg.ad.gt^
 ||adlogs.ad2iction.com^
 ||content.ad2iction.com^
-||ad4.com.cn^
 ||ads.adadapted.com^
 ||ec.adadapted.com^
 ||images.adadapted.com^
@@ -3832,7 +3833,6 @@
 ||sdk.consoliads.com^
 ||fyls88zqyb.content-ad.net^
 ||mobile-production.content-square.net^
-||graphql.contentful.com^
 ||contentstream.pl^
 ||cdn-3.convertexperiments.com^
 ||conviva.com^
