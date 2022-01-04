@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-03T06:44:32.850Z
+! Last modified: 2022-01-04T06:44:33.476Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3844,7 +3844,6 @@
 ||locator1.corevm.com^
 ||locatorpp.corevm.com^
 ||monetize-api.coronalabs.com^
-||count.ly^
 ||static.cloud.coveo.com^
 ||smetrics.cox.com^
 ||piq.cr-nielsen.com^
@@ -4231,7 +4230,6 @@
 ||sync.hariken.co^
 ||hasmobi.net^
 ||hbi-ingest.net^
-||www.healthgrades.com^
 ||cdn.heapanalytics.com^
 ||adv.herocraft.com^
 ||gamestats.herocraft.com^
@@ -5059,7 +5057,6 @@
 ||sdk1.resu.io^
 ||tracking.retargeting.biz^
 ||waves.retentionscience.com^
-||api.revenuecat.com^
 ||ads.revjet.com^
 ||cdn.revjet.com^
 ||pix-us.revjet.com^
