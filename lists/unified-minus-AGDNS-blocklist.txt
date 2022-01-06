@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-05T06:44:33.823Z
+! Last modified: 2022-01-06T06:44:33.991Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3844,7 +3844,6 @@
 ||locator1.corevm.com^
 ||locatorpp.corevm.com^
 ||monetize-api.coronalabs.com^
-||static.cloud.coveo.com^
 ||smetrics.cox.com^
 ||piq.cr-nielsen.com^
 ||pmg.cr-nielsen.com^
@@ -4299,7 +4298,6 @@
 ||ssl-s.idio.co^
 ||game.idoing3d.com^
 ||server.idreams.pl^
-||d.ifengimg.com^
 ||adlog.ifood.tv^
 ||log.ifood.tv^
 ||entree.igetget.com^
