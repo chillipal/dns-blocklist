@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-06T06:44:33.991Z
+! Last modified: 2022-01-07T06:44:34.413Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5113,7 +5113,6 @@
 ||samba.tv^
 ||tracker.samplicio.us^
 ||insights.samsung.com^
-||nmetrics.samsung.com^
 ||execution-use.ci360.sas.com^
 ||api.saypromo.net^
 ||images.scanalert.com^
@@ -8444,6 +8443,7 @@ iklan300x250.gif|
 ||tracking.42-01pr5-osm-secure.co.uk^
 ||tracking.5-47737-bi.co.uk^
 ||tracking.emilyclarkconsulting.com^
+||tracking.exipure.com^
 ||tracking.gajmp.com^
 ||tracking.ibxlink.com^
 ||tracking.internetstores.de^
