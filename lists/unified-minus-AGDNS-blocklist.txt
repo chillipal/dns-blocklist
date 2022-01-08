@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-07T06:44:34.413Z
+! Last modified: 2022-01-08T06:44:36.535Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3935,8 +3935,6 @@
 ||prebid.districtm.ca^
 ||st.districtm.ca^
 ||tag.divvit.com^
-||postsign.docusign.com^
-||telemetry.docusign.net^
 ||ads.dofunapps.com^
 ||sdk.dofunapps.com^
 ||ti.domainforlite.com^
@@ -6704,6 +6702,7 @@ iklan300x250.gif|
 ||xjudi.com^
 ||yourpokercash.com^
 ||yoyopoker.net^
+||1-1ads.com^
 ||101com.com^
 ||101order.com^
 ||123freeavatars.com^
@@ -7262,6 +7261,7 @@ iklan300x250.gif|
 ||adserver.echdk.pl^
 ||adserver.friendfinder.com^
 ||adserver.generationiron.com^
+||adserver.gilligan.tech^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -7984,6 +7984,7 @@ iklan300x250.gif|
 ||magicadz.co^
 ||mail-ads.google.com^
 ||manageadv.cblogs.eu^
+||market-buster.com^
 ||marketing.hearstmagazines.nl^
 ||marketing.net.home24.de^
 ||marketing.net.occhiali24.it^
@@ -8153,7 +8154,6 @@ iklan300x250.gif|
 ||piet2eix3l.com^
 ||pilotaffiliate.com^
 ||pimproll.com^
-||ping.hashnode.com^
 ||ping.ublock.org^
 ||plausible.mangadex.org^
 ||play4traffic.com^
@@ -17545,7 +17545,6 @@ iklan300x250.gif|
 ||wppluginspro.com^
 ||ww1.flashx.net^
 ||wwbtads.com^
-||www.1-1ads.com^
 ||www.1120.com.tw^
 ||www.1hkfq6598i.com^
 ||www.2015rewardopportunities.com^
@@ -17839,7 +17838,6 @@ iklan300x250.gif|
 ||www.mac.com-w.net^
 ||www.macfillerck.com^
 ||www.macombdisplayads.com^
-||www.market-buster.com^
 ||www.marketrip.co^
 ||www.mb102.com^
 ||www.media-motor.com^
