@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-17T06:44:11.316Z
+! Last modified: 2022-01-18T06:43:49.235Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4821,7 +4821,6 @@
 ||api.onesignal.com^
 ||cdn.onesignal.com^
 ||geolocation.onetrust.com^
-||privacyportal.onetrust.com^
 ||privacyportal-de.onetrust.com^
 ||impl.onscroll.com^
 ||onetag-geo.onscroll.com^
@@ -11715,7 +11714,6 @@ iklan300x250.gif|
 ||flu23.com^
 ||fm3cafe.hu^
 ||fmads.osdn.com^
-||fnp-smellingerlan.nl^
 ||fodder.qq.com^
 ||fodder.tc.qq.com^
 ||fogjunkossze.com^
