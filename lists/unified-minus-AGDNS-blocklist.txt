@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-18T06:43:49.235Z
+! Last modified: 2022-01-19T06:43:46.852Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4027,7 +4027,6 @@
 ||stickyadstv.com.edgekey.net^
 ||unityads.unity3d.com.edgekey.net^
 ||vungle.com.edgekey.net^
-||cookiebot.com-v1.edgekey.net^
 ||rubiconproject.com-v1.edgekey.net^
 ||v6analytics.htmedia.in.edgekey.net^
 ||akstat.io.edgekey.net^
@@ -4533,7 +4532,6 @@
 ||impression-europe.liftoff.io^
 ||s3.lightboxcdn.com^
 ||www.lightboxcdn.com^
-||cs.liiift.io^
 ||ad.lionmobi.com^
 ||analysis.lionmobi.com^
 ||battery.lionmobi.com^
@@ -4820,8 +4818,6 @@
 ||apicssdk.onemt.co^
 ||api.onesignal.com^
 ||cdn.onesignal.com^
-||geolocation.onetrust.com^
-||privacyportal-de.onetrust.com^
 ||impl.onscroll.com^
 ||onetag-geo.onscroll.com^
 ||tag.onscroll.com^
@@ -16402,6 +16398,7 @@ iklan300x250.gif|
 ||www.deepmetrix.com^
 ||e3.adpushup.com^
 ||mt.adquality.ch^
+||geolocation.onetrust.com^
 ||analytics.breakingnews.com^
 ||madserver.net^
 ||analytics.msn.com^
