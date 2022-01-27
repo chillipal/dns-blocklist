@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-01-26T06:43:47.076Z
+! Last modified: 2022-01-27T06:43:47.072Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3535,7 +3535,6 @@
 ||static.apester.com^
 ||apis.com.br^
 ||app-adforce.jp^
-||app-measurement.com^
 ||cdn-api.appadhoc.com^
 ||experiment.appadhoc.com^
 ||sdk.appadhoc.com^
@@ -3812,7 +3811,6 @@
 ||locatorpp.corevm.com^
 ||monetize-api.coronalabs.com^
 ||smetrics.cox.com^
-||crashlytics.com^
 ||crittercism.com^
 ||creatives.crossinstall.com^
 ||img.crossinstall.com^
@@ -4043,7 +4041,6 @@
 ||enhance-config.fgl.com^
 ||ads.fingersoft.net^
 ||ads3.fingersoft.net^
-||famobi-01.firebaseio.com^
 ||logging.fishsticksgames.com^
 ||widget.fitanalytics.com^
 ||adbsc.flyermobi.com^
@@ -4142,7 +4139,6 @@
 ||adservice.google.com^
 ||s0-2mdn-net.l.google.com^
 ||static.googleadsserving.cn^
-||crashlyticsreports-pa.googleapis.com^
 ||googlesyndication.com^
 ||displayads-formats.googleusercontent.com^
 ||gotoip55.com^
@@ -4990,7 +4986,6 @@
 ||ios-quinoa-personal-identify-prod.sense360eng.com^
 ||quinoa-personal-identify-prod.sense360eng.com^
 ||api.sentiance.com^
-||sentry.io^
 ||e.serverbid.com^
 ||track.sgdmobile.com^
 ||id.sharedid.org^
@@ -7482,6 +7477,8 @@ iklan300x250.gif|
 ||cp.abbp1.pw^
 ||cpu.samsungelectronics.com^
 ||cpx-traffic.com^
+||crashlytics.com^
+||crashlyticsreports-pa.googleapis.com^
 ||crawlability.com^
 ||crazypopups.com^
 ||crtv.mate1.com^
@@ -10881,6 +10878,7 @@ iklan300x250.gif|
 ||api.linkgist.com^
 ||api.optnmnstr.com^
 ||api.zhy333.com^
+||app-measurement.com^
 ||app.datafastguru.info^
 ||app.getresponse.com^
 ||app.monetizze.com.br^
