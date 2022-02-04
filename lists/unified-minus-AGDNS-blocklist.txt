@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-02-03T06:43:43.969Z
+! Last modified: 2022-02-04T06:43:45.425Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3805,7 +3805,6 @@
 ||cdn-3.convertexperiments.com^
 ||conviva.com^
 ||cookie-cdn.cookiepro.com^
-||api.coralogix.com^
 ||events-stream-svc.usw2.cordial.com^
 ||message-hub-svc.usw2.cordial.com^
 ||locator1.corevm.com^
