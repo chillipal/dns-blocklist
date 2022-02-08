@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-02-07T06:43:15.051Z
+! Last modified: 2022-02-08T06:43:17.453Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5163,7 +5163,6 @@
 ||error-collector.ted.com^
 ||api.videometrics.ted.com^
 ||sstats.teenvogue.com^
-||oneapi.telematicsct.com^
 ||nav.telematicsdirect.com^
 ||beacon.sparta.mig.tencent-cloud.net^
 ||tend.io^
