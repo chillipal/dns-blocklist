@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-02-15T06:43:13.589Z
+! Last modified: 2022-02-16T06:43:11.748Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -7526,6 +7526,7 @@ iklan300x250.gif|
 ||em1.yoursantander.co.uk^
 ||email-clk.adguard.com^
 ||email-opn.adguard.com^
+||email.m1.bktrksmail.com^
 ||emebo.com^
 ||emebo.io^
 ||emodoinc.com^
@@ -7606,6 +7607,7 @@ iklan300x250.gif|
 ||go-rank.de^
 ||go.eu.sparkpostmail1.com^
 ||go.icann.org^
+||go.usa.gov^
 ||goingplatinum.com^
 ||googleanalytics.com^
 ||googletagmanager.com^
