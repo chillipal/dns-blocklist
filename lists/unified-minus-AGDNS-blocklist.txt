@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-02-22T06:43:13.924Z
+! Last modified: 2022-02-23T06:43:14.405Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4301,8 +4301,6 @@
 ||cdn.intergient.com^
 ||ads.inven.co.kr^
 ||invocacdn.com^
-||ci-mpsnare.iovation.com^
-||first.iovation.com^
 ||iris.tv^
 ||logs.ironsrc.mobi^
 ||irr.ru^
@@ -4830,7 +4828,6 @@
 ||uefa.pushwoosh.com^
 ||wetter.pushwoosh.com^
 ||cf-us-popular.dash.pv-cdn.net^
-||collector-px8fcgygk4.px-cloud.net^
 ||api.pxlad.io^
 ||c2.qbk1.com^
 ||sdk.api.qgraph.io^
@@ -5469,11 +5466,6 @@
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
 ||a.brand.ad^
-||a01.uadexchange.com^
-||a02.uadexchange.com^
-||a03.uadexchange.com^
-||a04.uadexchange.com^
-||a05.uadexchange.com^
 ||a937a51544.85e954452d.com^
 ||aa9271e4a2.4d4ac172b7.com^
 ||mybannermaker.com^
@@ -8621,6 +8613,7 @@ iklan300x250.gif|
 ||insightxe.looksmart.com^
 ||intljs.rmtag.com^
 ||iovation.co.uk^
+||iovation.com^
 ||iplogger.org^
 ||istat.biz^
 ||izarc.fr^
