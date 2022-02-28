@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-02-27T06:43:14.237Z
+! Last modified: 2022-02-28T06:43:15.530Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4029,6 +4029,7 @@
 ||a.exdynsrv.com^
 ||smetrics1.experian.com^
 ||boombit-api.exponea.com^
+||extreme-ip-lookup.com^
 ||track.eyeviewads.com^
 ||filter.ezmob.com^
 ||xml.ezmob.com^
@@ -9310,6 +9311,7 @@ iklan300x250.gif|
 ||proflashdata.com^
 ||provenfeedback.com^
 ||qbittorrent.com^
+||qevia.doubleclick.bond^
 ||quicksaledeal.su^
 ||randki-sex.com^
 ||reacherinst.com^
