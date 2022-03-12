@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-03-11T06:43:36.304Z
+! Last modified: 2022-03-12T06:43:16.487Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3664,7 +3664,6 @@
 ||tr.blismedia.com^
 ||cdn.blisspointmedia.com^
 ||personalization.bloomberg.com^
-||tracking.bloomberg.com^
 ||cdn.bluebillywig.com^
 ||vms.bluebillywig.com^
 ||api.bluecore.com^
@@ -6893,7 +6892,6 @@ iklan300x250.gif|
 ||ads.oxyshop.cz^
 ||ads.passion.com^
 ||ads.paymonex.net^
-||ads.pennet.com^
 ||ads.pexi.nl^
 ||ads.pfl.ua^
 ||ads.phpclasses.org^
@@ -7137,7 +7135,6 @@ iklan300x250.gif|
 ||adview.com^
 ||advnt.com^
 ||adwebone.com^
-||adwords-track.com^
 ||adwordsecommerce.com.br^
 ||adworldnetwork.com^
 ||adx.allstar.cz^
@@ -7833,14 +7830,12 @@ iklan300x250.gif|
 ||myads.company^
 ||myads.net^
 ||myads.telkomsel.com^
-||mybestmv.com^
 ||mylink-today.com^
 ||mypagerank.ru^
 ||mypowermall.com^
 ||mysafeads.com^
 ||mystat.pl^
 ||mytop-in.net^
-||mytrackingservers.com^
 ||n69.com^
 ||naj22.proasdf.com^
 ||naradxb.com^
@@ -12317,6 +12312,7 @@ iklan300x250.gif|
 ||ox-i.zenoviagroup.com^
 ||oz.valueclick.ne.jp^
 ||p.profistats.net^
+||p232207.mybestmv.com^
 ||p4psearch.china.alibaba.com^
 ||paclitor.com^
 ||page.0ffer.eu^
