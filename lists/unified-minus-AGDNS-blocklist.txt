@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-03-12T06:43:16.487Z
+! Last modified: 2022-03-13T06:43:16.930Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3439,6 +3439,8 @@
 ||appsflyer.com.akamaized.net^
 ||abcd.mdc.akamaized.net^
 ||statics-marketingsites-eus-ms-com.akamaized.net^
+||17de4c16.akstat.io^
+||17de4c17.akstat.io^
 ||p.alcmpn.com^
 ||abtest.alibaba.com^
 ||hydra.alibaba.com^
@@ -3450,6 +3452,7 @@
 ||p102-clb.allstarcluster.com^
 ||api.altamob.com^
 ||altrooz.com^
+||fls-na.amazon.com^
 ||ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com^
 ||adserver-1277986481.ap-northeast-1.elb.amazonaws.com^
 ||adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com^
@@ -3511,6 +3514,7 @@
 ||analytics.analytics-egain.com^
 ||cloud-emea.analytics-egain.com^
 ||cloud-us.analytics-egain.com^
+||analyticssystems.net^
 ||go1.aniview.com^
 ||gov.aniview.com^
 ||observe.aniview.com^
@@ -3715,6 +3719,7 @@
 ||coremetrics.carrier.com^
 ||gcheck.carthook.com^
 ||pa.wme.catchmedia.com^
+||vod-gcs-cedexis.cbsaavideo.com^
 ||production-cmp.isgprivacy.cbsi.com^
 ||tealium.cbsnews.com^
 ||perf.cdnads.com^
@@ -3904,6 +3909,8 @@
 ||duiba.com.cn^
 ||controller.duokanbox.com^
 ||fm.duokanbox.com^
+||be.durationmedia.net^
+||tag.durationmedia.net^
 ||ak.dxsvr.com^
 ||tls.dxsvr.com^
 ||u.dxsvr.com^
@@ -4448,6 +4455,7 @@
 ||sparkle.locationlabs.com^
 ||api.locuslabs.com^
 ||assets.locuslabs.com^
+||rest.locuslabs.com^
 ||smetrics.loft.com^
 ||api.logentries.com^
 ||data.logentries.com^
@@ -4625,6 +4633,7 @@
 ||secure-cdn.mplxtms.com^
 ||r.mradx.net^
 ||r0.mradx.net^
+||ad.mrtnsvr.com^
 ||ads.msn.com^
 ||ads2.msn.com^
 ||rads.msn.com^
@@ -4876,6 +4885,7 @@
 ||rayjump.com^
 ||assets.rbl.ms^
 ||realclever.com^
+||ac.realvu.net^
 ||cdn.rebel.ai^
 ||redfast.com^
 ||app.redretarget.com^
@@ -5386,6 +5396,9 @@
 ||eligibility.wootric.com^
 ||production.wootric.com^
 ||survey.wootric.com^
+||content.worldnow.com^
+||ftpcontent.worldnow.com^
+||kake.images.worldnow.com^
 ||wsod.com^
 ||metricscollector.lp.xcal.tv^
 ||api.player.xcal.tv^
@@ -15006,7 +15019,6 @@ iklan300x250.gif|
 ||fiona.ai.net^
 ||tag.aticdn.net^
 ||a.bf-ad.net^
-||ac.realvu.net^
 ||b.thanksearch.com^
 ||e.thanksearch.com^
 ||www.77tracking.com^
