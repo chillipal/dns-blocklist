@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-03-14T05:43:18.542Z
+! Last modified: 2022-03-15T05:43:17.743Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3719,7 +3719,6 @@
 ||coremetrics.carrier.com^
 ||gcheck.carthook.com^
 ||pa.wme.catchmedia.com^
-||vod-gcs-cedexis.cbsaavideo.com^
 ||production-cmp.isgprivacy.cbsi.com^
 ||tealium.cbsnews.com^
 ||perf.cdnads.com^
@@ -3989,7 +3988,6 @@
 ||marketo.net.edgekey.net^
 ||owneriq.net.edgekey.net^
 ||yieldlab.net.edgekey.net^
-||typekit.net-v3.edgekey.net^
 ||pubmatic.edgekey.net^
 ||secure-adnxs.edgekey.net^
 ||teads.tv.edgekey.net^
@@ -9115,6 +9113,7 @@ iklan300x250.gif|
 ||codegur.com^
 ||codeotel.com^
 ||coderexception.com^
+||coin-hive.com^
 ||coldcertainchannel.com^
 ||coldpacific.com^
 ||compufixshop.com^
