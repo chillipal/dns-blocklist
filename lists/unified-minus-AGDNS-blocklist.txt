@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-03-18T05:43:13.670Z
+! Last modified: 2022-03-19T05:43:16.120Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4324,9 +4324,6 @@
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||ispot.tv^
-||api.iterable.com^
-||assets.iterable.com^
-||static.iterable.com^
 ||iteratehq.com^
 ||fc.itmedia.co.jp^
 ||ip.itracker360.com^
@@ -4485,10 +4482,6 @@
 ||cdn.madkudu.com^
 ||api.magmamobile.com^
 ||ad.mail.ru^
-||assets.mantisadnetwork.com^
-||ecs.mantisadnetwork.com^
-||resize.mantisadnetwork.com^
-||resizer.mantisadnetwork.com^
 ||widget.manychat.com^
 ||marfeel.com^
 ||mm.markandmini.com^
@@ -7376,6 +7369,7 @@ iklan300x250.gif|
 ||cl0udh0st1ng.com^
 ||claria.com^
 ||clck.ru^
+||clerk.io^
 ||click.airmalta-mail.com^
 ||click.bkdpt.com^
 ||click.cartsguru.io^
@@ -7560,6 +7554,7 @@ iklan300x250.gif|
 ||fly-analytics.com^
 ||foo.cosmocode.de^
 ||foresee.com^
+||formstack.com^
 ||fpctraffic.com^
 ||free-banners.com^
 ||freebanner.com^
@@ -7567,6 +7562,7 @@ iklan300x250.gif|
 ||freewebcounter.com^
 ||freewheel.com^
 ||freewheel.tv^
+||freshrelevance.com^
 ||frtyj.com^
 ||frtyk.com^
 ||fusionquest.com^
@@ -7681,8 +7677,10 @@ iklan300x250.gif|
 ||ip.ro^
 ||ip193.cn^
 ||ipstack.com^
+||iraiser.eu^
 ||irchan.com^
 ||ireklama.cz^
+||iterable.com^
 ||its-that-easy.com^
 ||iubzka.online^
 ||jcount.com^
@@ -7717,6 +7715,7 @@ iklan300x250.gif|
 ||leadplace.fr^
 ||leadzupc.com^
 ||lemmatechnologies.com^
+||lemnisk.co^
 ||levelrate.de^
 ||lever-analytics.com^
 ||lfeeder.com^
@@ -7774,13 +7773,16 @@ iklan300x250.gif|
 ||mail-ads.google.com^
 ||maltiverse.lt.acemlnc.com^
 ||manageadv.cblogs.eu^
+||mantisadnetwork.com^
 ||market-buster.com^
+||marketing.desertcart.com^
 ||marketing.hearstmagazines.nl^
 ||marketing.net.home24.de^
 ||marketing.net.occhiali24.it^
 ||marketing.nyi.net^
 ||marketing.osijek031.com^
 ||mas.sector.sk^
+||masterworks.com^
 ||matchcraft.com^
 ||matomo.activate.cz^
 ||matomo.crossiety.app^
@@ -7928,13 +7930,13 @@ iklan300x250.gif|
 ||partners.priceline.com^
 ||paycounter.com^
 ||pcash.imlive.com^
-||pctracking.net^
 ||peep-auktion.de^
 ||pennyweb.com^
 ||performancerevenue.com^
 ||personagraph.com^
 ||pgl.example.com^
 ||pgl.example0101^
+||phenompeople.com^
 ||phoenix-adrunner.mycomputer.com^
 ||phpadsnew.new.natuurpark.nl^
 ||piano.io^
@@ -8009,7 +8011,6 @@ iklan300x250.gif|
 ||rate.ru^
 ||ratings.lycos.com^
 ||re-directme.com^
-||realcastmedia.com^
 ||realclix.com^
 ||realmedia-a800.d4p.net^
 ||realtechnetwork.com^
@@ -8026,7 +8027,6 @@ iklan300x250.gif|
 ||reklama.mironet.cz^
 ||reklamcsere.hu^
 ||reklamdsp.com^
-||relevanz10.de^
 ||remox.com^
 ||republika.onet.pl^
 ||resonate.com^
@@ -8057,6 +8057,7 @@ iklan300x250.gif|
 ||rum-http-intake.logs.datadoghq.eu^
 ||s1-adfly.com^
 ||sabio.us^
+||sbird.xyz^
 ||sbx.pagesjaunes.fr^
 ||scambiobanner.aruba.it^
 ||scopelight.com^
@@ -8086,6 +8087,7 @@ iklan300x250.gif|
 ||sizmek.com^
 ||skroutza.skroutz.gr^
 ||skylink.vn^
+||smart-data-systems.com^
 ||smart-traffik.com^
 ||smart-traffik.io^
 ||smart4ads.com^
@@ -8108,6 +8110,7 @@ iklan300x250.gif|
 ||sponsorpro.de^
 ||sponsors.thoughtsmedia.com^
 ||spot.fitness.com^
+||springbot.com^
 ||spulse.net^
 ||spykemediatrack.com^
 ||spywarelabs.com^
@@ -8262,6 +8265,7 @@ iklan300x250.gif|
 ||treasuredata.com^
 ||trekdata.com^
 ||trendmd.com^
+||trialfire.com^
 ||trk.bad-tool-tell-doubt.xyz^
 ||trk.bc.shutterfly.com^
 ||trk.bee-data.com^
@@ -10438,6 +10442,7 @@ iklan300x250.gif|
 ||ads.ratemyprofessors.com^
 ||ads.rcgroups.com^
 ||ads.rdstore.com^
+||ads.realcastmedia.com^
 ||ads.realcities.com^
 ||ads.realmedia.de^
 ||ads.register.com^
@@ -15248,7 +15253,6 @@ iklan300x250.gif|
 ||t.zqtk.net^
 ||fastnclick.com^
 ||track.leadin.com^
-||mantodea.mantisadnetwork.com^
 ||ar.mytrack.pro^
 ||us.pixel.newscgp.com^
 ||go.tracksz.co^
