@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-03-30T05:43:08.287Z
+! Last modified: 2022-04-01T05:43:27.404Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5249,7 +5249,6 @@
 ||combine.urbanairship.com^
 ||remote-data.urbanairship.com^
 ||sbux-dl.urbanairship.com^
-||wallet-api.urbanairship.com^
 ||web-sdk.urbanairship.com^
 ||api.usabilla.com^
 ||w.usabilla.com^
