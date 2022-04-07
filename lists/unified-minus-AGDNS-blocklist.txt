@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-04-06T05:43:09.914Z
+! Last modified: 2022-04-07T05:43:10.891Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -1884,6 +1884,7 @@
 ||vizu.com^
 ||vizury.com^
 ||vocento.com^
+||vocstatic.com^
 ||voicefive.com^
 ||vpdcp.com^
 ||vptms.com^
@@ -10933,6 +10934,8 @@ iklan300x250.gif|
 ||auxin-box.com^
 ||avidnewssource.com^
 ||avilagtitkai.com^
+||avworld.activehosted.com^
+||avworld.lt.acemlnc.com^
 ||azcentra.app.ur.gcion.com^
 ||aztbeszelik.com^
 ||b.adexchangemachine.com^
