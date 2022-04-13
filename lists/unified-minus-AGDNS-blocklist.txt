@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-04-07T05:43:10.891Z
+! Last modified: 2022-04-13T05:43:10.530Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3314,6 +3314,7 @@
 ||apps.admob.com^
 ||media.admob.com^
 ||banners.adnetmedia.lt^
+||prebids.adnsx.com^
 ||nym1-ib.adnxs-simple.com^
 ||campaign.adobe.com^
 ||geo.adobe.com^
@@ -3557,6 +3558,7 @@
 ||mobile.appchina.com^
 ||cdn.appdynamics.com^
 ||trk.apperol.com^
+||inapps.appflyer.com^
 ||creative-cdn.appgrowth.com^
 ||appia.com^
 ||sdkapicdn.applanga.com^
@@ -3588,6 +3590,8 @@
 ||appdiscovery.apptap.com^
 ||app-icons.apptentive.com^
 ||sdk.apptentive.com^
+||brahe.apptimize.com^
+||md-a-c.apptimize.com^
 ||tracking.apptrackerlink.com^
 ||apsalar.com^
 ||push.apusapps.com^
@@ -3659,6 +3663,8 @@
 ||useast.bfmio.com^
 ||uswest.bfmio.com^
 ||biddingx.com^
+||cdn.bidmatrixdsp.com^
+||us-trk.bidmatrixdsp.com^
 ||bat.bing.com^
 ||c.bing.com^
 ||api.bitmango.com^
@@ -5012,10 +5018,6 @@
 ||newspush.sinajs.cn^
 ||singular.net^
 ||slicktext.com^
-||cm.smadex.com^
-||creatives.smadex.com^
-||geo-tracker.smadex.com^
-||static-content-1.smadex.com^
 ||lg.smardroid.com^
 ||tkclick.smardroid.com^
 ||smart.link^
@@ -5381,6 +5383,7 @@
 ||identity.api.wmcdp.io^
 ||logs.psm.wmcdp.io^
 ||api.wonderpush.com^
+||woobids.com^
 ||api.wootric.com^
 ||app.wootric.com^
 ||eligibility.wootric.com^
@@ -6991,7 +6994,6 @@ iklan300x250.gif|
 ||ads.xtra.co.nz^
 ||ads.yimg.com^
 ||ads.yourfreedvds.com^
-||ads.zmarsa.com^
 ||ads1.mediacapital.pt^
 ||ads1.msn.com^
 ||ads1.rne.com^
@@ -7431,6 +7433,7 @@ iklan300x250.gif|
 ||content22.online.citi.com^
 ||converge-digital.com^
 ||conversionbet.com^
+||convertbox.com^
 ||convertingtraffic.com^
 ||cookies.cmpnet.com^
 ||cootlogix.com^
@@ -7535,6 +7538,7 @@ iklan300x250.gif|
 ||exitexchange.com^
 ||exitfuel.com^
 ||explorads.com^
+||expmediadirect1.com^
 ||express-submit.de^
 ||ezula.com^
 ||fastclick.com.edgesuite.net^
@@ -7595,6 +7599,7 @@ iklan300x250.gif|
 ||gotraffic.net^
 ||gp.dejanews.com^
 ||groundtruth.com^
+||grychiphidu.com^
 ||gstaticx.com^
 ||gtop100.com^
 ||h-bid.com^
@@ -7690,7 +7695,6 @@ iklan300x250.gif|
 ||jungroup.com^
 ||k.iinfo.cz^
 ||karonty.com^
-||katie.v4.byetnc.com^
 ||keymedia.hu^
 ||kindads.com^
 ||klclick.com^
@@ -7849,7 +7853,6 @@ iklan300x250.gif|
 ||naj22.proasdf.com^
 ||naradxb.com^
 ||nastydollars.com^
-||naturalbid.com^
 ||ndparking.com^
 ||netcommunities.com^
 ||netdirect.nl^
@@ -7859,7 +7862,6 @@ iklan300x250.gif|
 ||netmera.com^
 ||netpool.netbookia.net^
 ||newads.bangbros.com^
-||newbie.com^
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
@@ -7901,7 +7903,6 @@ iklan300x250.gif|
 ||openads.org^
 ||openadsnetwork.com^
 ||opentag-stats.qubit.com^
-||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
 ||openx.cairo360.com^
 ||openx.kgmedia.eu^
@@ -8209,6 +8210,7 @@ iklan300x250.gif|
 ||topstats.com^
 ||touchclarity.natwest.com^
 ||tour.brazzers.com^
+||track-tracingkit394853.com^
 ||track.anchorfree.com^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
@@ -12473,7 +12475,6 @@ iklan300x250.gif|
 ||probusinesshub.com^
 ||productresearchpanel.com^
 ||producttestpanel.com^
-||prodxnews1blob.blob.core.windows.net^
 ||profile.uproxx.com^
 ||profiline-berlin.de^
 ||promo.awempire.com^
