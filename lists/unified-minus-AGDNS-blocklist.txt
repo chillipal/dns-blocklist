@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-04-15T05:43:13.808Z
+! Last modified: 2022-04-18T05:43:12.805Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3441,7 +3441,6 @@
 ||middycdn-a.akamaihd.net^
 ||appsflyer.com.akamaized.net^
 ||abcd.mdc.akamaized.net^
-||statics-marketingsites-eus-ms-com.akamaized.net^
 ||17de4c16.akstat.io^
 ||17de4c17.akstat.io^
 ||p.alcmpn.com^
@@ -3767,13 +3766,10 @@
 ||trk.clinch.co^
 ||clkdeals.com^
 ||g2c.cloud-elements.com^
-||ailoganalyticsportal-eus.cloudapp.net^
-||bi-analytics.cloudapp.net^
 ||bkt.clouddn.com^
 ||metrics.cloudflarebolt.com^
 ||static.cloudflareinsights.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
-||us-central1-production-242307.cloudfunctions.net^
 ||cloudmobi.net^
 ||cas.cluep.com^
 ||dev-as.cluep.com^
@@ -4375,8 +4371,6 @@
 ||cloudservice14.kingsoft-office-service.com^
 ||cloudservice24.kingsoft-office-service.com^
 ||static.klaviyo.com^
-||trk.klclick2.com^
-||trk.klclick3.com^
 ||gplayer.kmpmedia.net^
 ||update.kmpmedia.net^
 ||brand-sdk.kmsmep.com^
@@ -4538,7 +4532,6 @@
 ||micpn.com^
 ||send.microadinc.com^
 ||bingads.microsoft.com^
-||c1.microsoft.com^
 ||adtrack1.midasplayer.com^
 ||minimob.com^
 ||snippet.minute.ly^
@@ -5375,7 +5368,6 @@
 ||track.wesdk.co^
 ||widget.wickedreports.com^
 ||ad-display.wikawika.xyz^
-||optanon.blob.core.windows.net^
 ||tracker.winudf.com^
 ||pie.wirelessregistry.com^
 ||tag.wknd.ai^
@@ -6818,7 +6810,6 @@ iklan300x250.gif|
 ||ads.guardian.co.uk^
 ||ads.guardianunlimited.co.uk^
 ||ads.guru3d.com^
-||ads.harpers.org^
 ||ads.hbv.de^
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
@@ -7148,7 +7139,6 @@ iklan300x250.gif|
 ||adx.allstar.cz^
 ||adx.atnext.com^
 ||adx.gayboy.at^
-||adx.relaksit.ru^
 ||adyea.com^
 ||adz.rashflash.com^
 ||adz2you.com^
@@ -7853,6 +7843,7 @@ iklan300x250.gif|
 ||naj22.proasdf.com^
 ||naradxb.com^
 ||nastydollars.com^
+||naturalbid.com^
 ||ndparking.com^
 ||netcommunities.com^
 ||netdirect.nl^
@@ -7943,7 +7934,6 @@ iklan300x250.gif|
 ||pilotaffiliate.com^
 ||pimproll.com^
 ||ping.ublock.org^
-||plausible.mangadex.org^
 ||play4traffic.com^
 ||pltraffic8.com^
 ||plugrush.com^
@@ -8210,7 +8200,6 @@ iklan300x250.gif|
 ||topstats.com^
 ||touchclarity.natwest.com^
 ||tour.brazzers.com^
-||track-tracingkit394853.com^
 ||track.anchorfree.com^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
@@ -8218,6 +8207,7 @@ iklan300x250.gif|
 ||track.game18click.com^
 ||track.mailalert.io^
 ||track.segmetrics.io^
+||track.software-codes.com^
 ||track.themaccleanup.info^
 ||track.ultravpn.com^
 ||track.unear.net^
@@ -10350,6 +10340,7 @@ iklan300x250.gif|
 ||ads.greenbaypressgazette.com^
 ||ads.greenvilleonline.com^
 ||ads.haberler.com^
+||ads.harpers.org^
 ||ads.heraldnet.com^
 ||ads.heroldonline.com^
 ||ads.hitcents.com^
