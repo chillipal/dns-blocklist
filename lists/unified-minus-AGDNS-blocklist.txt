@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-04-18T05:43:12.805Z
+! Last modified: 2022-04-20T05:43:32.136Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5272,10 +5272,6 @@
 ||api.verticalscope.com^
 ||static.verticalscope.com^
 ||vervemobile.com^
-||api.viafoura.co^
-||realtimeeventfeeds.viafoura.co^
-||sub.viafoura.co^
-||cdn.viafoura.net^
 ||sdk.viantsuite.com^
 ||ads.viber.com^
 ||ads-d.viber.com^
