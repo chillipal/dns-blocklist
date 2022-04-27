@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-04-26T05:43:14.355Z
+! Last modified: 2022-04-27T05:43:21.347Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5384,6 +5384,7 @@
 ||api.player.xcal.tv^
 ||log.ad.xiaomi.com^
 ||track.ad.xiaomi.com^
+||sdkconfig.ad.india.xiaomi.com^
 ||diagnosis.ad.intl.xiaomi.com^
 ||zeus.ad.intl.xiaomi.com^
 ||ad-sdk.altamob.xiaoying.co^
@@ -7718,7 +7719,6 @@ iklan300x250.gif|
 ||ligatus.de^
 ||lightcast.leadscoringcenter.com^
 ||lightspeedcash.com^
-||lightstep.medium.systems^
 ||link-booster.de^
 ||link4ads.com^
 ||linkadd.de^
