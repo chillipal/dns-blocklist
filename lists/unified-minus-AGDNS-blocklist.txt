@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-04-27T05:43:21.347Z
+! Last modified: 2022-04-28T05:43:21.346Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4296,7 +4296,6 @@
 ||cdn.inskinad.com^
 ||mfad.inskinad.com^
 ||video.inskinad.com^
-||eum-orange-saas.instana.io^
 ||hook.integromat.com^
 ||api.intellimize.co^
 ||log.intellimize.co^
@@ -4896,7 +4895,6 @@
 ||metric-android-am.road404.com^
 ||ads.roblox.com^
 ||metrics.roblox.com^
-||rocketreach.co^
 ||p.ads.roku.com^
 ||austin.logs.roku.com^
 ||mobile.logs.roku.com^
