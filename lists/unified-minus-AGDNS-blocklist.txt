@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-05-02T05:43:22.262Z
+! Last modified: 2022-05-03T05:43:22.637Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5397,7 +5397,6 @@
 ||pclick.yahoo.com^
 ||geo.query.yahoo.com^
 ||onepush.query.yahoo.com^
-||app.ssp.yahoo.com^
 ||ads.yap.yahoo.com^
 ||m.yap.yahoo.com^
 ||partnerads.ysm.yahoo.com^
@@ -9063,6 +9062,7 @@ iklan300x250.gif|
 ||bluescreenalert.com^
 ||blw4-1.com^
 ||bnvxcfhdgf.blogspot.com.es^
+||bobcard.co.in^
 ||bopstermedia56.com^
 ||brunga.at^
 ||c1i.su^
