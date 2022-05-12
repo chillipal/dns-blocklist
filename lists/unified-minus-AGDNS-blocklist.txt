@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-05-11T05:43:17.341Z
+! Last modified: 2022-05-12T05:43:17.964Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -1786,6 +1786,8 @@
 ||tradelab.fr^
 ||tradetracker.com^
 ||tradetracker.net^
+||trafficfactory.biz^
+||trafficfactory.com^
 ||trafficfacts.com^
 ||traffichaus.com^
 ||traffichouse.com^
@@ -3458,6 +3460,7 @@
 ||p102-clb.allstarcluster.com^
 ||api.altamob.com^
 ||altrooz.com^
+||aax-us-east-retail-direct.amazon.com^
 ||fls-na.amazon.com^
 ||ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com^
 ||adserver-1277986481.ap-northeast-1.elb.amazonaws.com^
@@ -8124,6 +8127,7 @@ iklan300x250.gif|
 ||surfmusik-adserver.de^
 ||swordfishdc.com^
 ||t.bawafx.com^
+||t.co^
 ||t.en25.com^
 ||t.firstpromoter.com^
 ||t.insigit.com^
@@ -12051,7 +12055,6 @@ iklan300x250.gif|
 ||media.popmarker.com^
 ||media.popuptraffic.com^
 ||media.primalforce.net^
-||media.trafficfactory.biz^
 ||media.ventivmedia.com^
 ||media.xxxnavy.com^
 ||media1.popmarker.com^
@@ -12616,8 +12619,6 @@ iklan300x250.gif|
 ||romepartners.com^
 ||roosevelt.gjbig.com^
 ||route31.org^
-||rpc-php.trafficfactory.biz^
-||rpc.trafficfactory.biz^
 ||rpgmasterleague.com^
 ||rpm.newrelisc.com^
 ||rtl-most.blogspot.hu^
@@ -14813,7 +14814,6 @@ iklan300x250.gif|
 ||ams.toxity.biz^
 ||www.tr100.net^
 ||ad.track.us.org^
-||cdnegc.trafficfactory.biz^
 ||www.trackbacksecure.com^
 ||t.trackedlink.net^
 ||usage.trackjs.com^
