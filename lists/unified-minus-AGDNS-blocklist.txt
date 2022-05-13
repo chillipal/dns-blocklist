@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-05-12T05:43:17.964Z
+! Last modified: 2022-05-13T05:43:16.822Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4732,7 +4732,6 @@
 ||api.parse.com^
 ||b.stats.paypal.com^
 ||slc.stats.paypal.com^
-||hawk.pcgamer.com^
 ||api.pdbarea.com^
 ||images.perf-serving.com^
 ||ads.perfectaudience.com^
