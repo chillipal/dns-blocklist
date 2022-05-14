@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-05-13T05:43:16.822Z
+! Last modified: 2022-05-14T05:43:16.616Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5326,6 +5326,9 @@
 ||ai.voiceads.cn^
 ||api.voiceads.cn^
 ||imp.voiceads.cn^
+||addelivery-engine-api.voodoo-ads.io^
+||front-logs.voodoo-ads.io^
+||splash-screen.voodoo-ads.io^
 ||trackers.voodoo-analytics.io^
 ||api-gdpr.voodoo-tech.io^
 ||concertads-configs.vox-cdn.com^
@@ -6741,7 +6744,6 @@ iklan300x250.gif|
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.dailycamera.com^
-||ads.datingyes.com^
 ||ads.delfin.bg^
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
@@ -6947,6 +6949,7 @@ iklan300x250.gif|
 ||ads.tripod.lycos.de^
 ||ads.tripod.lycos.es^
 ||ads.tripod.lycos.it^
+||ads.tripod.lycos.nl^
 ||ads.tso.dennisnet.co.uk^
 ||ads.twojatv.info^
 ||ads.uknetguide.co.uk^
@@ -7584,7 +7587,6 @@ iklan300x250.gif|
 ||groundtruth.com^
 ||grychiphidu.com^
 ||gstaticx.com^
-||gtop100.com^
 ||h-bid.com^
 ||h0.t.hubspotemail.net^
 ||hb.vntsm.com^
@@ -7615,7 +7617,6 @@ iklan300x250.gif|
 ||hueads.com^
 ||hueadsortb.com^
 ||hueadsxml.com^
-||huezzcjskf.site^
 ||hurricanedigitalmedia.com^
 ||hydramedia.com^
 ||hypertracker.com^
@@ -8285,7 +8286,6 @@ iklan300x250.gif|
 ||vivads.net^
 ||vivtracking.com^
 ||voluum.com^
-||voodoo-ads.io^
 ||vpon.com^
 ||vrs.cz^
 ||vs.tucows.com^
@@ -12632,7 +12632,6 @@ iklan300x250.gif|
 ||s.arclk.net^
 ||s.baidu.com^
 ||s.boom.ro^
-||s.clickiocdn.com^
 ||s.di.com.pl^
 ||s.domob.cn^
 ||s.dynad.net^
