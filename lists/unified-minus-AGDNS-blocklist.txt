@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-05-20T05:43:17.579Z
+! Last modified: 2022-05-21T05:43:16.711Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3202,6 +3202,8 @@
 ||yourbestwoman.life^
 ||sweetchicks.net^
 ||fuckmebook.com^
+||tracking.overwolf.com^
+||raf.overwolf.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -3906,7 +3908,6 @@
 ||ads.dofunapps.com^
 ||sdk.dofunapps.com^
 ||ti.domainforlite.com^
-||collector.doordash.com^
 ||uk-script.dotmetrics.net^
 ||api.doumob.com^
 ||bjfesdk.douyucdn.cn^
@@ -7109,6 +7110,7 @@ iklan300x250.gif|
 ||adv.donejty.pl^
 ||adv.freeonline.it^
 ||adv.hwupgrade.it^
+||adv.livedoor.com^
 ||adv.mpvc.it^
 ||adv.neverbuy.com^
 ||adv.nexthardware.com^
@@ -7307,6 +7309,7 @@ iklan300x250.gif|
 ||bigbangmedia.com^
 ||bigclicks.com^
 ||billboard.cz^
+||bizad.nikkeibp.co.jp^
 ||blingbucks.com^
 ||blis.com^
 ||blockadblock.com^
@@ -7404,7 +7407,6 @@ iklan300x250.gif|
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmvrclicks000.com^
 ||cnomy.com^
-||cnt.spbland.ru^
 ||cnt1.pocitadlo.cz^
 ||cny.yoyo.org^
 ||cognitiv.ai^
@@ -7496,7 +7498,6 @@ iklan300x250.gif|
 ||email-opn.adguard.com^
 ||email.m1.bktrksmail.com^
 ||emaillinks.soundiiz.com^
-||emebo.com^
 ||emebo.io^
 ||emodoinc.com^
 ||engage.dnsfilter.com^
@@ -7590,7 +7591,9 @@ iklan300x250.gif|
 ||gstaticx.com^
 ||h-bid.com^
 ||h0.t.hubspotemail.net^
+||hb.afl.rakuten.co.jp^
 ||hb.vntsm.com^
+||hbb.afl.rakuten.co.jp^
 ||hdscout.com^
 ||heap.com^
 ||hellobar.com^
@@ -7997,7 +8000,6 @@ iklan300x250.gif|
 ||realmedia-a800.d4p.net^
 ||realtechnetwork.com^
 ||recoco.it^
-||record.affiliates.karjalakasino.com^
 ||record.bonniergaming.com^
 ||record.mrwin.com^
 ||redirectingat.com^
@@ -8119,7 +8121,6 @@ iklan300x250.gif|
 ||statserv.net^
 ||statsie.com^
 ||statxpress.com^
-||stream.useriq.com^
 ||subscribe.hearstmags.com^
 ||sugoicounter.com^
 ||supertop100.com^
@@ -10624,6 +10625,7 @@ iklan300x250.gif|
 ||adserve.podaddies.com^
 ||adserve.profit-smart.com^
 ||adserve.viaarena.com^
+||adserve5.nikkeibp.co.jp^
 ||adserver-2.ig.com.br^
 ||adserver-4.ig.com.br^
 ||adserver-5.ig.com.br^
@@ -14602,8 +14604,6 @@ iklan300x250.gif|
 ||track.linkoffers.net^
 ||www.linkworth.com^
 ||ads.listingware.com^
-||click.adv.livedoor.com^
-||image.adv.livedoor.com^
 ||js.livehelper.com^
 ||newbrowse.livehelper.com^
 ||stats.livingsocial.com^
