@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-05-26T05:43:37.030Z
+! Last modified: 2022-05-27T05:43:39.520Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -660,6 +660,7 @@
 ||csm-secure.com^
 ||ctasnet.com^
 ||cubics.com^
+||cuebiq.com^
 ||curalate.com^
 ||customerconversio.com^
 ||cxense.com^
@@ -900,6 +901,7 @@
 ||gfk.com^
 ||gfkdaphne.com^
 ||giantrealm.com^
+||gimbal.com^
 ||gismads.jp^
 ||glam.com^
 ||glammedia.com^
@@ -1011,6 +1013,7 @@
 ||inner-active.com^
 ||innity.com^
 ||inq.com^
+||inrix.com^
 ||insightexpressai.com^
 ||insightexpress.com^
 ||insightgrit.com^
@@ -3836,7 +3839,6 @@
 ||apps.crowdtangle.com^
 ||resources.crowdtwist.com^
 ||snippet.omm.crownpeak.com^
-||cuebiq.com^
 ||assets.customer.io^
 ||edge-west.customer.io^
 ||track.customer.io^
@@ -4119,11 +4121,6 @@
 ||hades.getsocial.im^
 ||sdk.open.talk.getui.net^
 ||socialize.eu1.gigya.com^
-||communicate.gimbal.com^
-||placebubble.gimbal.com^
-||registration.gimbal.com^
-||sdk-configuration.gimbal.com^
-||sdk-info.gimbal.com^
 ||cdn.gimbal.tech^
 ||stats.gioneemobile.net^
 ||analytics.gismart.xyz^
