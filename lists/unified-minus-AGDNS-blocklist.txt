@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-06-14T05:43:21.146Z
+! Last modified: 2022-06-15T05:43:24.551Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3931,7 +3931,6 @@
 ||rcom.dynamicyield.com^
 ||rcom-eu.dynamicyield.com^
 ||rest.dynamicyield.com^
-||st-eu.dynamicyield.com^
 ||static.dynamicyield.com^
 ||dlt-beacon.dynatrace-managed.com^
 ||bf20578xco.bf.dynatrace.com^
@@ -4561,7 +4560,6 @@
 ||ads.mncmedia.co.kr^
 ||applink.mob.com^
 ||d.mob.com^
-||data.mob.com^
 ||df.mob.com^
 ||exc.mob.com^
 ||gm.mob.com^
@@ -7997,6 +7995,7 @@ iklan300x250.gif|
 ||surfmusik-adserver.de^
 ||swordfishdc.com^
 ||t.bawafx.com^
+||t.carta.com^
 ||t.co^
 ||t.en25.com^
 ||t.firstpromoter.com^
@@ -16854,7 +16853,6 @@ iklan300x250.gif|
 ||www.textlinkads.com^
 ||secure.w3track.com^
 ||sinettrk.com^
-||b.sli-spark.com^
 ||track.childrensalon.com^
 ||ads.adhsm.adhese.com^
 ||ads.nrc.adhese.com^
