@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-06-16T05:43:19.016Z
+! Last modified: 2022-06-17T05:43:19.416Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3838,7 +3838,6 @@
 ||snippet.omm.crownpeak.com^
 ||assets.customer.io^
 ||edge-west.customer.io^
-||track.customer.io^
 ||content-thumbnail.cxpublic.com^
 ||openapi.cymera.com^
 ||d2cmedia.ca^
@@ -7358,10 +7357,12 @@ iklan300x250.gif|
 ||ecleneue.com^
 ||ecoupons.com^
 ||edaa.eu^
+||edgexads.com^
 ||elitedollars.com^
 ||elitetoplist.com^
 ||em1.yoursantander.co.uk^
 ||email-clk.adguard.com^
+||email-links.crowdfireapp.com^
 ||email-opn.adguard.com^
 ||email.m1.bktrksmail.com^
 ||emaillinks.soundiiz.com^
