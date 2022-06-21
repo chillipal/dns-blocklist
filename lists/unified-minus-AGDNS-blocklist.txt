@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-06-20T05:43:19.939Z
+! Last modified: 2022-06-21T05:43:20.689Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -659,7 +659,6 @@
 ||csi-tracking.com^
 ||csm-secure.com^
 ||ctasnet.com^
-||cubics.com^
 ||cuebiq.com^
 ||curalate.com^
 ||customerconversio.com^
@@ -4200,14 +4199,6 @@
 ||api.huqindustries.co.uk^
 ||crosspromo.hutchgames.io^
 ||stats.huuuge.net^
-||api.iadvize.com^
-||cdlc.iadvize.com^
-||cobrowsing-ha.iadvize.com^
-||fstatic.iadvize.com^
-||halc.iadvize.com^
-||lc.iadvize.com^
-||static.iadvize.com^
-||xmpp-ha-alb.iadvize.com^
 ||sdk.iappgame.com^
 ||data.iappmobi.com^
 ||planning-analytics.ibmcloud.com^
@@ -9299,7 +9290,6 @@ iklan300x250.gif|
 ||salebestever.su^
 ||scottishstuff-online.com^
 ||screenaddict.thewhizproducts.com^
-||scribus.fr^
 ||sea.net.edu.cn^
 ||search.buzzdock.com^
 ||securielite.com^
