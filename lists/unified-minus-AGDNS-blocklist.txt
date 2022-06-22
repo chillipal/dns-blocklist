@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-06-21T05:43:20.689Z
+! Last modified: 2022-06-22T05:43:19.291Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3206,6 +3206,8 @@
 ||fuckmebook.com^
 ||tracking.overwolf.com^
 ||raf.overwolf.com^
+||speeddials.opera.com^
+||merchandise.opera-api.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
