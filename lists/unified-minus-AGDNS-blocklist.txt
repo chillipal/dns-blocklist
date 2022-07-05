@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-07-04T05:43:20.200Z
+! Last modified: 2022-07-05T05:43:19.260Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4912,7 +4912,6 @@
 ||guardianapps.co.uk^
 ||dil.hansel.io^
 ||sdk.hansel.io^
-||ujm.hansel.io^
 ||hasmobi.net^
 ||hbi-ingest.net^
 ||cdn.heapanalytics.com^
