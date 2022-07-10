@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-07-09T05:43:22.170Z
+! Last modified: 2022-07-10T05:43:22.521Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4140,6 +4140,7 @@
 ||redirect.advconversion.com^
 ||tq.adventurefeeds.com^
 ||syndication.advertiserurl.com^
+||adserver.adverty.com^
 ||bid.adview.cn^
 ||open.adview.cn^
 ||webfile.adview.cn^
@@ -4297,6 +4298,14 @@
 ||dsp-d.ants.vn^
 ||st-au.ants.vn^
 ||t.ants.vn^
+||caps-server.anzu.io^
+||l1-1.anzu.io^
+||assets.anzuinfra.com^
+||dynamic-l1.anzuinfra.com^
+||emqx.anzuinfra.com^
+||events.anzuinfra.com^
+||l3-2.anzuinfra.com^
+||logic.anzuinfra.com^
 ||display.apester.com^
 ||images.apester.com^
 ||img.apester.com^
@@ -7610,7 +7619,6 @@ iklan300x250.gif|
 ||adserve.io^
 ||adserve.jbs.org^
 ||adserver.71i.de^
-||adserver.adverty.com^
 ||adserver.anawe.cz^
 ||adserver.aol.fr^
 ||adserver.ariase.org^
