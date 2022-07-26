@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-07-25T05:43:25.837Z
+! Last modified: 2022-07-26T05:43:21.260Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -669,6 +669,7 @@
 ||daphnecm.com^
 ||dapper.net^
 ||dashboardad.net^
+||datadome.co^
 ||dataium.com^
 ||datamind.ru^
 ||dataxu.com^
@@ -862,6 +863,7 @@
 ||fout.jp^
 ||foxnetworks.com^
 ||foxonestop.com^
+||fqtag.com^
 ||franecki.net^
 ||fraudjs.io^
 ||freedom.com^
@@ -4604,7 +4606,6 @@
 ||databerries.com^
 ||tracker.databrain.com^
 ||logs.datadoghq.com^
-||api-sdk.datadome.co^
 ||media.datahc.com^
 ||app.datorama.com^
 ||oauth.datorama.com^
@@ -4839,12 +4840,6 @@
 ||logger.foxitcloud.com^
 ||pushaction.foxpush.com^
 ||analytics.nova.foxsports.com^
-||aux.fqtag.com^
-||c.fqtag.com^
-||cdn.fqtag.com^
-||new.fqtag.com^
-||query.fqtag.com^
-||s.fqtag.com^
 ||c.ftstats.com^
 ||dat.funheroic.com^
 ||pokkt.fuse-ad.com^
