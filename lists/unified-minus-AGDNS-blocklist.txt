@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-07-26T05:43:21.260Z
+! Last modified: 2022-07-27T05:43:21.555Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -967,6 +967,7 @@
 ||hotwords.com^
 ||hotwords.es^
 ||hs-analytics.net^
+||hubspot.com^
 ||huntmads.com^
 ||hurra.com^
 ||iacadvertising.com^
@@ -1123,6 +1124,7 @@
 ||listrak.com^
 ||liveintent.com^
 ||liveinternet.ru^
+||liveperson.net^
 ||liveramp.com^
 ||lkqd.com^
 ||lkqd.net^
@@ -1402,6 +1404,7 @@
 ||peerfly.com^
 ||peerset.com^
 ||percentmobile.com^
+||perfdrive.com^
 ||perfectmarket.com^
 ||perfiliate.com^
 ||performancing.com^
@@ -1582,6 +1585,7 @@
 ||safecount.net^
 ||sageanalyst.net^
 ||sagemetrics.com^
+||salesforceliveagent.com^
 ||samurai-factory.jp^
 ||sapient.com^
 ||sascdn.com^
@@ -2003,6 +2007,7 @@
 ||zedo.com^
 ||ze-fir.com^
 ||zemanta.com^
+||zendesk.com^
 ||zestad.com^
 ||zetaemailsolutions.com^
 ||zincx.com^
@@ -5183,8 +5188,6 @@
 ||parameter.lionmobi.com^
 ||updater.lionmobi.com^
 ||player.stats.live-video.net^
-||server.iad.liveperson.net^
-||lptag.liveperson.net^
 ||sds.livesegmentservice.com^
 ||tealium.hs.llnwd.net^
 ||analytics.locallogic.co^
@@ -5675,7 +5678,6 @@
 ||cb.sailthru.com^
 ||horizon.sailthru.com^
 ||beacon.my.salesforce.com^
-||d.la1-c2-iad.salesforceliveagent.com^
 ||analytics.salmonads.com^
 ||api.salmonads.com^
 ||net.salmonads.com^
@@ -6178,7 +6180,6 @@
 ||sdk.zapr.in^
 ||submit.zapr.in^
 ||zcoup.com^
-||analytics.zendesk.com^
 ||mwzeom.zeotap.com^
 ||spl.zeotap.com^
 ||bms.zeptolab.com^
@@ -7965,6 +7966,7 @@ iklan300x250.gif|
 ||click.fool.com^
 ||click.hookupinyourcity.com^
 ||click.kmindex.ru^
+||click.news.vans.com^
 ||click.redditmail.com^
 ||click.twcwigs.com^
 ||click2freemoney.com^
@@ -15238,7 +15240,6 @@ iklan300x250.gif|
 ||ox.hoosiertimes.com^
 ||ad2.hotels.com^
 ||www.hotranks.com^
-||js.hubspot.com^
 ||ads.hulu.com^
 ||ads2000.hw.net^
 ||dserver.hw.net^
@@ -15758,7 +15759,6 @@ iklan300x250.gif|
 ||aka.accortech.com^
 ||dyn-beacon.akamaized.net^
 ||i.l.cnn.net^
-||sr2.liveperson.net^
 ||ad.policeone.com^
 ||a.rmgserving.com^
 ||track.sitetag.us^
@@ -16087,7 +16087,6 @@ iklan300x250.gif|
 ||t.invitemedia.com^
 ||fhg.digitaldesire.com^
 ||tags.extole.com^
-||tracking.hubspot.com^
 ||ads.livepromotools.com^
 ||click.searchnation.net^
 ||cdn.qbaka.net^
