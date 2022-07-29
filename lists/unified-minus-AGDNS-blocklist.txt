@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-07-28T05:43:41.804Z
+! Last modified: 2022-07-29T05:43:22.918Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4475,8 +4475,6 @@
 ||adservices.brandcdn.com^
 ||cdn.brandmetrics.com^
 ||braze.com^
-||cdn.braze.eu^
-||fra-01.braze.eu^
 ||ads.bridgebase.com^
 ||adserver.bridgebase.com^
 ||services.brightline.tv^
@@ -7920,6 +7918,7 @@ iklan300x250.gif|
 ||bpath.com^
 ||bpu.samsungelectronics.com^
 ||braincash.com^
+||braze.eu^
 ||brightcom.com^
 ||brightinfo.com^
 ||brightmountainmedia.com^
