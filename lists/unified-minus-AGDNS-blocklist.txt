@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-08-02T05:43:21.287Z
+! Last modified: 2022-08-03T05:43:21.554Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5076,6 +5076,9 @@
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||ispot.tv^
+||api.iterable.com^
+||assets.iterable.com^
+||static.iterable.com^
 ||iteratehq.com^
 ||fc.itmedia.co.jp^
 ||ip.itracker360.com^
@@ -8262,12 +8265,12 @@ iklan300x250.gif|
 ||ipstack.com^
 ||irchan.com^
 ||ireklama.cz^
-||iterable.com^
 ||its-that-easy.com^
 ||iubzka.online^
 ||jcount.com^
 ||jinkads.de^
 ||joetec.net^
+||js.iterable.com^
 ||js.users.51.la^
 ||jsrdn.com^
 ||juicyads.me^
@@ -14956,6 +14959,7 @@ iklan300x250.gif|
 ||schemas.microsoft.akadns.net^
 ||statsfe2.ws.microsoft.com^
 ||wes.df.telemetry.microsoft.com^
+||amanad.adtdp.com^
 ||ad.sxp.smartclip.net^
 ||vmap.v.ad-generation.jp^
 ||ad.jetx.info^
