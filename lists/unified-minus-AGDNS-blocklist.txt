@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-08-05T05:43:23.223Z
+! Last modified: 2022-08-06T05:43:22.273Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4073,6 +4073,10 @@
 ||ssdk.adkmob.com^
 ||ufs.adkmob.com^
 ||adtrack.adleadevent.com^
+||epn.adledge.com^
+||rs.adledge.com^
+||rs2.adledge.com^
+||ser.adledge.com^
 ||cdn.adligature.com^
 ||tagan.adlightning.com^
 ||cs.admanmedia.com^
@@ -7132,7 +7136,6 @@ iklan300x250.gif|
 ||ablink.comms.trainline.com^
 ||ablink.news.emails-puregym.com^
 ||ablinks.mail.hinge.co^
-||absoluteclickscom.com^
 ||abtasty.com^
 ||abz.com^
 ||ac.rnm.ca^
@@ -7162,7 +7165,6 @@ iklan300x250.gif|
 ||ad.cooks.com^
 ||ad.digitallook.com^
 ||ad.domainfactory.de^
-||ad.eurosport.com^
 ||ad.exyws.org^
 ||ad.grafika.cz^
 ||ad.hbv.de^
@@ -7256,7 +7258,6 @@ iklan300x250.gif|
 ||adjix.com^
 ||adjuggler.yourdictionary.com^
 ||adjustnetwork.com^
-||adledge.com^
 ||adlure.net^
 ||adman.otenet.gr^
 ||admanager.btopenworld.com^
@@ -7498,7 +7499,6 @@ iklan300x250.gif|
 ||ads.praguetv.cz^
 ||ads.primissima.it^
 ||ads.printscr.com^
-||ads.privatemedia.co^
 ||ads.program3.com^
 ||ads.psd2html.com^
 ||ads.pushplay.com^
@@ -8021,7 +8021,6 @@ iklan300x250.gif|
 ||convertingtraffic.com^
 ||cookies.cmpnet.com^
 ||cootlogix.com^
-||cormast.com^
 ||cosmopolitads.com^
 ||count.west263.com^
 ||counted.com^
@@ -8346,6 +8345,7 @@ iklan300x250.gif|
 ||look.ichlnk.com^
 ||look.opskln.com^
 ||look.ufinkln.com^
+||lop.com^
 ||m4n.nl^
 ||mackeeperapp.mackeeper.com^
 ||madclient.uimserv.net^
@@ -8368,7 +8368,6 @@ iklan300x250.gif|
 ||matchcraft.com^
 ||matomo.activate.cz^
 ||matomo.crossiety.app^
-||matomo.gals24.ru^
 ||matomo.hdweb.ru^
 ||mautic.com^
 ||max.i12.de^
@@ -8501,7 +8500,6 @@ iklan300x250.gif|
 ||p.nag.ru^
 ||pagead.l.google.com^
 ||pagerank-ranking.de^
-||pagerank4you.com^
 ||pageranktop.com^
 ||partner.pelikan.cz^
 ||partnercash.de^
@@ -8521,6 +8519,7 @@ iklan300x250.gif|
 ||piet2eix3l.com^
 ||pimproll.com^
 ||ping.ublock.org^
+||pixel.app.returnpath.net^
 ||play4traffic.com^
 ||pltraffic8.com^
 ||plugrush.com^
@@ -10754,6 +10753,7 @@ iklan300x250.gif|
 ||ad.ekonomikticaret.com^
 ||ad.eporner.com^
 ||ad.ettoday.net^
+||ad.eurosport.com^
 ||ad.filmweb.pl^
 ||ad.firstadsolution.com^
 ||ad.floq.jp^
@@ -14962,6 +14962,7 @@ iklan300x250.gif|
 ||wes.df.telemetry.microsoft.com^
 ||amanad.adtdp.com^
 ||ad.sxp.smartclip.net^
+||a.cookpad-ads.com^
 ||vmap.v.ad-generation.jp^
 ||ad.jetx.info^
 ||api.mobshark.net^
