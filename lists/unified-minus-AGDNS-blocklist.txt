@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-08-08T05:43:29.097Z
+! Last modified: 2022-08-09T05:43:27.194Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5647,7 +5647,6 @@
 ||img.riskified.com^
 ||metric-android-am.road404.com^
 ||ads.roblox.com^
-||metrics.roblox.com^
 ||p.ads.roku.com^
 ||austin.logs.roku.com^
 ||mobile.logs.roku.com^
