@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-08-19T05:43:30.631Z
+! Last modified: 2022-08-20T05:43:51.179Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4095,6 +4095,7 @@
 ||media.admob.com^
 ||banners.adnetmedia.lt^
 ||prebids.adnsx.com^
+||acdn.adnxs-simple.com^
 ||nym1-ib.adnxs-simple.com^
 ||campaign.adobe.com^
 ||geo.adobe.com^
@@ -5494,6 +5495,7 @@
 ||performancehorizon.com^
 ||secure.perk0mean.com^
 ||cdn.permutive.app^
+||6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app^
 ||api.personali.com^
 ||events.personali.com^
 ||report.personali.com^
@@ -8654,7 +8656,6 @@ iklan300x250.gif|
 ||sendmepixel.com^
 ||serv0.com^
 ||servads.net^
-||servadsdisrupt.com^
 ||serve.tercept.com^
 ||servedby-buysellads.com^
 ||servethis.com^
