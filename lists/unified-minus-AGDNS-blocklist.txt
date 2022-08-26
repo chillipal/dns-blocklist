@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-08-25T05:44:10.687Z
+! Last modified: 2022-08-26T05:44:11.165Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3973,6 +3973,8 @@
 ||mlbcash.com^
 ||easy-extra-income-ways-makes-you-rich.store^
 ||arizona-golf-vacations.com^
+||prd-lender.cdp.internal.unity3d.com^
+||c2shb.ssp.yahoo.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -4053,6 +4055,17 @@
 ||adsvideo1.addealsnetwork.com^
 ||trk-int.addealsnetwork.com^
 ||track.addict-mobile.net^
+||api.addthis.com^
+||api-public.addthis.com^
+||cw.addthis.com^
+||dlx.addthis.com^
+||edge.addthis.com^
+||m.addthis.com^
+||q.addthis.com^
+||s7.addthis.com^
+||s8.addthis.com^
+||su.addthis.com^
+||v1.addthis.com^
 ||static.addtoany.com^
 ||stats.addtoany.com^
 ||ads.adecosystems.net^
@@ -11848,7 +11861,6 @@ iklan300x250.gif|
 ||addelivery.thestreet.com^
 ||addserver.mtv.com.tr^
 ||addstock.co.uk^
-||addthis.com^
 ||addthiscdn.com^
 ||ade.wooboo.com.cn^
 ||adengine.rt.ru^
@@ -15971,6 +15983,7 @@ iklan300x250.gif|
 ||ads.activepower.net^
 ||app.activetrail.com^
 ||pixel.adcrowd.com^
+||ct1.addthis.com^
 ||static.adfclick1.com^
 ||s.adframesrc.com^
 ||www.adgitize.com^
@@ -16739,6 +16752,7 @@ iklan300x250.gif|
 ||download.cdn.sharelive.net^
 ||cdn.unityads.unity3d.com^
 ||content.womensforum.com^
+||s9.addthis.com^
 ||ssltracking.esearchvision.com^
 ||aka.accortech.com^
 ||dyn-beacon.akamaized.net^
@@ -17066,6 +17080,7 @@ iklan300x250.gif|
 ||dl.gameplaylabs.com^
 ||dl.keywordstrategy.org^
 ||beacon.tunecore.com^
+||p.addthis.com^
 ||g-pixel.invitemedia.com^
 ||segment-pixel.invitemedia.com^
 ||t.invitemedia.com^
