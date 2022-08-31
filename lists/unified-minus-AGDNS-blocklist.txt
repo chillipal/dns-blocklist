@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-08-30T05:44:26.885Z
+! Last modified: 2022-08-31T05:44:28.703Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3979,6 +3979,13 @@
 ||pornsite123.com^
 ||xxxbullet.com^
 ||packsdechicas.online^
+||ip-info.ff.avast.com^
+||ipm-provider.ff.avast.com^
+||ipmcdn.avast.com^
+||ncc.avast.com^
+||shepherd.ff.avast.com^
+||clicktut.site^
+||wiztube.xyz^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -13513,7 +13520,6 @@ iklan300x250.gif|
 ||ipacc1.adtech.us^
 ||ipdata.adtech.fr^
 ||ipdata.adtech.us^
-||ipm-provider.ff.avast.com^
 ||iq001.adtech.fr^
 ||iq001.adtech.us^
 ||iqoption.com^
