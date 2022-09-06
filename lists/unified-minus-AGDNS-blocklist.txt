@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-09-05T05:44:13.690Z
+! Last modified: 2022-09-06T05:44:13.035Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3989,6 +3989,10 @@
 ||yourgodess.com^
 ||quinni.cyou^
 ||alenai.cyou^
+||telewizja-online.net^
+||bramka.org^
+||ustreamix.su^
+||inatv.pl^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
