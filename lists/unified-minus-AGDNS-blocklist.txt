@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-09-07T05:44:14.176Z
+! Last modified: 2022-09-08T05:44:13.307Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3993,6 +3993,7 @@
 ||bramka.org^
 ||ustreamix.su^
 ||inatv.pl^
+||tracking.minitool.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -4232,7 +4233,6 @@
 ||aibuy-api.aibuy.io^
 ||cdn-media.aibuy.io^
 ||overlay.aibuy.io^
-||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||api.us-east-1.aiv-delivery.net^
 ||innovid.com.akadns.net^
 ||jadserve.postrelease.com.akadns.net^
