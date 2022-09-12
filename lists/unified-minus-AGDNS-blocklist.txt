@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-09-11T05:44:20.026Z
+! Last modified: 2022-09-12T05:44:15.479Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4130,6 +4130,7 @@
 ||banners.adnetmedia.lt^
 ||prebids.adnsx.com^
 ||acdn.adnxs-simple.com^
+||ib.adnxs-simple.com^
 ||nym1-ib.adnxs-simple.com^
 ||campaign.adobe.com^
 ||geo.adobe.com^
@@ -4254,8 +4255,11 @@
 ||a50.g2.akamai.net^
 ||e7876.dscg.akamaiedge.net^
 ||middycdn-a.akamaihd.net^
+||113vod-adaptive.akamaized.net^
 ||appsflyer.com.akamaized.net^
 ||abcd.mdc.akamaized.net^
+||statics-marketingsites-eus-ms-com.akamaized.net^
+||statics-marketingsites-neu-ms-com.akamaized.net^
 ||17de4c16.akstat.io^
 ||17de4c17.akstat.io^
 ||p.alcmpn.com^
@@ -4425,6 +4429,9 @@
 ||api.areametrics.com^
 ||dptr.areyouahuman.com^
 ||n-cdn.areyouahuman.com^
+||metabet.api.areyouwatchingthis.com^
+||metabet.static.api.areyouwatchingthis.com^
+||metabet.static.areyouwatchingthis.com^
 ||api.arity.com^
 ||rcn.asapp.com^
 ||sdk.asapp.com^
@@ -4441,6 +4448,7 @@
 ||data.atomex.net^
 ||trk.atomex.net^
 ||api.attentivemobile.com^
+||cdn.attn.tv^
 ||adm3.autoimg.cn^
 ||img2.autoimg.cn^
 ||cdn.avantisvideo.com^
@@ -4487,6 +4495,7 @@
 ||biddingx.com^
 ||cdn.bidmatrixdsp.com^
 ||us-trk.bidmatrixdsp.com^
+||server.bidstack.com^
 ||bat.bing.com^
 ||c.bing.com^
 ||api.bitmango.com^
@@ -4519,6 +4528,9 @@
 ||adservices.brandcdn.com^
 ||cdn.brandmetrics.com^
 ||braze.com^
+||cdn.brid.tv^
+||p.brid.tv^
+||services.brid.tv^
 ||ads.bridgebase.com^
 ||adserver.bridgebase.com^
 ||services.brightline.tv^
@@ -4569,6 +4581,7 @@
 ||www.civicscience.com^
 ||config.claspws.tv^
 ||i.clean.gg^
+||marketo.clearbit.com^
 ||net.cleverjp.com^
 ||sender.clevernt.com^
 ||ui.clevernt.com^
@@ -4590,7 +4603,9 @@
 ||metrics.cloudflarebolt.com^
 ||static.cloudflareinsights.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
+||res.cloudinary.com^
 ||cloudmobi.net^
+||customer.cludo.com^
 ||cas.cluep.com^
 ||dev-as.cluep.com^
 ||lcf.cmplay.cmcm.com^
@@ -4631,9 +4646,12 @@
 ||cdn-3.convertexperiments.com^
 ||conviva.com^
 ||cookie-cdn.cookiepro.com^
+||sitegenesis.production.deckers.coremedia.cloud^
 ||locator1.corevm.com^
 ||locatorpp.corevm.com^
 ||monetize-api.coronalabs.com^
+||static.cloud.coveo.com^
+||cloudplatform.coveo.com^
 ||smetrics.cox.com^
 ||crittercism.com^
 ||creatives.crossinstall.com^
@@ -4827,6 +4845,7 @@
 ||adlic.us-west-2.elasticbeanstalk.com^
 ||api-gateway.us-west-2.elasticbeanstalk.com^
 ||wpsconfig4svr.elasticbeanstalk.com^
+||assets.emarsys.net^
 ||me-client.eservice.emarsys.net^
 ||mobile-sdk-config.gservice.emarsys.net^
 ||config.emb-api.com^
@@ -4851,10 +4870,12 @@
 ||a.exdynsrv.com^
 ||smetrics1.experian.com^
 ||boombit-api.exponea.com^
+||everlywell.extole.io^
 ||extreme-ip-lookup.com^
 ||track.eyeviewads.com^
 ||filter.ezmob.com^
 ||xml.ezmob.com^
+||go.ezoic.net^
 ||fabric.io^
 ||mparticle.map.fastly.net^
 ||sonar-iad.xx.fbcdn.net^
@@ -4864,6 +4885,7 @@
 ||ads3.fingersoft.net^
 ||logging.fishsticksgames.com^
 ||widget.fitanalytics.com^
+||script.fixel.ai^
 ||adbsc.flyermobi.com^
 ||adbsdk.flyermobi.com^
 ||adc.flyermobi.com^
@@ -4915,8 +4937,10 @@
 ||api.getdrip.com^
 ||api-telemetry.servers.getgo.com^
 ||telemetry.servers.getgo.com^
+||everlywell.cname.getrockerbox.com^
 ||hades.getsocial.im^
 ||sdk.open.talk.getui.net^
+||app.getwoohoo.com^
 ||cdn.gimbal.tech^
 ||stats.gioneemobile.net^
 ||analytics.gismart.xyz^
@@ -4933,6 +4957,7 @@
 ||tredir.go.com^
 ||tapjoy.go2cloud.org^
 ||media.go2speed.org^
+||marketing.goabode.com^
 ||gocarrot.com^
 ||adlockscreen.goforandroid.com^
 ||adpushsdk.goforandroid.com^
@@ -5084,6 +5109,7 @@
 ||m2m-api.inmarket.com^
 ||babel.innertrends.com^
 ||io.innertrends.com^
+||perimeterx.widget.insent.ai^
 ||cdn.insigit.com^
 ||cdn.inskinad.com^
 ||mfad.inskinad.com^
@@ -5145,6 +5171,7 @@
 ||im64.jpush.cn^
 ||s.jpush.cn^
 ||sis.jpush.io^
+||cdn.jst.ai^
 ||analytics.jumboprivacy.com^
 ||mobile-sdk-resources.jumio.com^
 ||nv-sdk.jumio.com^
@@ -5324,6 +5351,8 @@
 ||bingads.microsoft.com^
 ||adtrack1.midasplayer.com^
 ||minimob.com^
+||analytics-tcp.mintegral.net^
+||pok.mintegral.net^
 ||snippet.minute.ly^
 ||assets.minutemediacdn.com^
 ||images2.minutemediacdn.com^
@@ -5418,11 +5447,13 @@
 ||ads2.msn.com^
 ||rads.msn.com^
 ||sdkconf.msstatic.com^
+||cdn-aka.ts.mtvnservices.com^
 ||api.myendpoint.io^
 ||hb.mynativeplatform.com^
 ||mzbcdn.net^
 ||naiadsystems.com^
 ||static.narrativ.com^
+||assets.narvar.com^
 ||api.native.ai^
 ||cdn.native.ai^
 ||cdn.natpal.com^
@@ -5434,6 +5465,7 @@
 ||stats.netsolads.com^
 ||app.networkad.net^
 ||www.newsbreak.com^
+||v2.pixel.newscgp.com^
 ||us.tags.newscgp.com^
 ||nex8.net^
 ||segment.psg.nexstardigital.net^
@@ -5552,6 +5584,7 @@
 ||trackdat.pinsightmedia.com^
 ||ads.pinterest.com^
 ||ct.pinterest.com^
+||pub.pixels.ai^
 ||placed.com^
 ||ads.placeiq.com^
 ||ak-cdn.placelocal.com^
@@ -5666,6 +5699,7 @@
 ||realclever.com^
 ||ac.realvu.net^
 ||cdn.rebel.ai^
+||cdn.rebuyengine.com^
 ||redfast.com^
 ||app.redretarget.com^
 ||trackifyx.redretarget.com^
@@ -5678,6 +5712,7 @@
 ||sdk1.resu.io^
 ||tracking.retargeting.biz^
 ||waves.retentionscience.com^
+||static.returngo.ai^
 ||ads.revjet.com^
 ||cdn.revjet.com^
 ||pix-us.revjet.com^
@@ -5725,12 +5760,14 @@
 ||api.salmonads.com^
 ||net.salmonads.com^
 ||report.salmonads.com^
+||images.salsify.com^
 ||sam4m.com^
 ||samba.tv^
 ||tracker.samplicio.us^
 ||insights.samsung.com^
 ||execution-use.ci360.sas.com^
 ||api.saypromo.net^
+||cdn.scarabresearch.com^
 ||recommender.scarabresearch.com^
 ||aprod.scopely.io^
 ||collector.scopely.io^
@@ -5762,6 +5799,7 @@
 ||quinoa-personal-identify-prod.sense360eng.com^
 ||api.sentiance.com^
 ||e.serverbid.com^
+||sync.serverbid.com^
 ||track.sgdmobile.com^
 ||id.sharedid.org^
 ||buttons-config.sharethis.com^
@@ -5863,6 +5901,7 @@
 ||ssp.streamrail.net^
 ||strikeiron.com^
 ||static.subiz.com^
+||load.sumo.com^
 ||superad2.com.sg^
 ||u.superadbox.com^
 ||trk.superads.cn^
@@ -5957,11 +5996,14 @@
 ||adlc-exchange.toast.com^
 ||adx-exchange.toast.com^
 ||aamt.today.com^
+||adscfg.togothermany.cn^
+||adsup.togothermany.cn^
 ||android-com-wildlife-games-battle-royale-free-zooba.topaz-analytics.com^
 ||playtest-api.topaz-analytics.com^
 ||push-api.topaz-analytics.com^
 ||m1.torrenti.al^
 ||s.tpctrust.com^
+||cdn.tpdads.com^
 ||log.trackingio.com^
 ||slog.trackingio.com^
 ||cdn-magiclinks.trackonomics.net^
@@ -6190,6 +6232,7 @@
 ||ads.yap.yahoo.com^
 ||m.yap.yahoo.com^
 ||partnerads.ysm.yahoo.com^
+||report.appmetrica.yandex.net^
 ||assets.yieldify-production.com^
 ||assets-v2.yieldify-production.com^
 ||gateway.yieldify-production.com^
@@ -16983,7 +17026,6 @@ iklan300x250.gif|
 ||t.mdn2015x2.com^
 ||ps.ns-cdn.com^
 ||ap.octopuspop.com^
-||cdn.scarabresearch.com^
 ||code.adsales.snidigital.com^
 ||wfpscripts.webspectator.com^
 ||srv-us.znaptag.com^
