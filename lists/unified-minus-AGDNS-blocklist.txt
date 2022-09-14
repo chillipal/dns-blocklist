@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-09-13T05:44:15.473Z
+! Last modified: 2022-09-14T05:44:16.893Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3994,6 +3994,7 @@
 ||inatv.pl^
 ||tracking.minitool.com^
 ||pasiekazlotoklos.pl^
+||eu-commercialb.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -4602,7 +4603,6 @@
 ||metrics.cloudflarebolt.com^
 ||static.cloudflareinsights.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
-||res.cloudinary.com^
 ||cloudmobi.net^
 ||customer.cludo.com^
 ||cas.cluep.com^
@@ -5209,7 +5209,6 @@
 ||ask.log.kuyun.com^
 ||api.lanistaads.com^
 ||largosoft.co.kr^
-||mobile.launchdarkly.com^
 ||cc.lbesec.com^
 ||leadboltapps.net^
 ||kibana.leadboxer.com^
@@ -16005,6 +16004,7 @@ iklan300x250.gif|
 ||schemas.microsoft.akadns.net^
 ||statsfe2.ws.microsoft.com^
 ||wes.df.telemetry.microsoft.com^
+||krt.asycxtz.cn^
 ||amanad.adtdp.com^
 ||ad.sxp.smartclip.net^
 ||a.cookpad-ads.com^
@@ -18489,7 +18489,6 @@ iklan300x250.gif|
 ||return.uk.domainnamesales.com^
 ||internettraffic.click^
 ||appie.com^
-||btprmnav.com^
 ||pixel.programmatictrader.com^
 ||tracking.aimediagroup.com^
 ||as1.mistupid.com^
