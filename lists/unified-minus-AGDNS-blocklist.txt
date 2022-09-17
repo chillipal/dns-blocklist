@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-09-16T05:44:17.220Z
+! Last modified: 2022-09-17T05:44:22.536Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -1657,6 +1657,7 @@
 ||smileymedia.com^
 ||smowtion.com^
 ||smrtlnks.com^
+||snapchat.com^
 ||snap.com^
 ||snoobi.com^
 ||snplow.net^
@@ -1770,6 +1771,7 @@
 ||thewheelof.com^
 ||thinkrealtime.com^
 ||thirdwatch.ai^
+||tiktok.com^
 ||tinder.com^
 ||tiqiq.com^
 ||tisoomi.com^
@@ -2797,6 +2799,7 @@
 ||wiki.gd^
 ||airlinemeals.net^
 ||h0stname.net^
+||dedyn.io^
 ||dvrlists.com^
 ||myq-see.com^
 ||thddns.net^
@@ -5886,8 +5889,6 @@
 ||abort-count.smbeat.jp^
 ||control.smbeat.jp^
 ||snapads.com^
-||ads.snapchat.com^
-||tr6.snapchat.com^
 ||snapmobile.asia^
 ||c.socialannex.com^
 ||cdn.socialannex.com^
@@ -7653,7 +7654,6 @@ iklan300x250.gif|
 ||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
-||ads.tiktok.com^
 ||ads.tmcs.net^
 ||ads.todoti.com.br^
 ||ads.toplayaffiliates.com^
@@ -8091,7 +8091,6 @@ iklan300x250.gif|
 ||click.redditmail.com^
 ||click.twcwigs.com^
 ||click2freemoney.com^
-||clickability.com^
 ||clickadz.com^
 ||clickagents.com^
 ||clickbank.com^
@@ -8843,7 +8842,6 @@ iklan300x250.gif|
 ||t.firstpromoter.com^
 ||t.insigit.com^
 ||t.irtyd.com^
-||t.news.browns-restaurants.co.uk^
 ||t.notif-colissimo-laposte.info^
 ||t.salesmatemail.com^
 ||t.vacations.disneydestinations.com^
@@ -8873,6 +8871,7 @@ iklan300x250.gif|
 ||tfag.de^
 ||theadhost.com^
 ||thebugs.ws^
+||theclickads.com^
 ||therapistla.com^
 ||thirdparty.bnc.lt^
 ||throtle.io^
@@ -9238,6 +9237,7 @@ iklan300x250.gif|
 ||clicktrack.premium-shops.net^
 ||clicktracker.alloymarketing.com^
 ||clk.aboxdeal.com^
+||cnn.entertainment.printthis.clickability.com^
 ||cnt.xcounter.com^
 ||collector.deepmetrix.com^
 ||connectionlead.com^
@@ -12072,6 +12072,7 @@ iklan300x250.gif|
 ||ads.chumcity.com^
 ||ads.cineville.nl^
 ||ads.cleveland.com^
+||ads.clickability.com^
 ||ads.clickad.com.pl^
 ||ads.clubzone.com^
 ||ads.cnixon.com^
@@ -17320,6 +17321,10 @@ iklan300x250.gif|
 ||adv.sexcounter.com^
 ||cs.sexcounter.com^
 ||ads.asredas.com^
+||btn.clickability.com^
+||button.clickability.com^
+||ri.clickability.com^
+||sftp.clickability.com^
 ||buzzcpm.com^
 ||cdnmedia.xyz^
 ||wp1.cor-natty.com^
