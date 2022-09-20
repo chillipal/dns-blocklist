@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-09-19T05:44:27.555Z
+! Last modified: 2022-09-20T05:44:21.650Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4951,6 +4951,16 @@
 ||hades.getsocial.im^
 ||sdk.open.talk.getui.net^
 ||app.getwoohoo.com^
+||au1.gigya.com^
+||cdn.gigya.com^
+||cdns.gigya.com^
+||cdns1.gigya.com^
+||cdns2.gigya.com^
+||cdns3.gigya.com^
+||eu1.gigya.com^
+||eu2.gigya.com^
+||farm5.gigya.com^
+||us1.gigya.com^
 ||cdn.gimbal.tech^
 ||stats.gioneemobile.net^
 ||analytics.gismart.xyz^
@@ -13258,6 +13268,7 @@ iklan300x250.gif|
 ||eu2.madsone.com^
 ||euniverseads.com^
 ||events.kiosked.com^
+||eventtracker.videostrip.com^
 ||evroteplo.ru^
 ||exclusivegiftcards.com^
 ||ext.royalcactus.com^
