@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-10-03T05:44:26.757Z
+! Last modified: 2022-10-04T05:44:21.710Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4218,6 +4218,7 @@
 ||cf.adxcel.com^
 ||dispatcher.adxcore.com^
 ||mtag.adxcore.com^
+||www.adxserve.com^
 ||adywind.com^
 ||setting.adzcore.com^
 ||static.adziff.com^
@@ -4340,6 +4341,7 @@
 ||later-analytics-reports.s3-accelerate.amazonaws.com^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
+||amnyescsmgcagjj.com^
 ||eapik.anagog.com^
 ||ecdn.analysis.fi^
 ||analytics.analytics-egain.com^
@@ -4486,6 +4488,7 @@
 ||api.beaconsinspace.com^
 ||t.beanstalkdata.com^
 ||t2.beanstalkdata.com^
+||st.bebi.com^
 ||api.bee7.com^
 ||api-proxy.bee7.com^
 ||widget.beop.io^
@@ -4569,6 +4572,8 @@
 ||coremetrics.carrier.com^
 ||gcheck.carthook.com^
 ||pa.wme.catchmedia.com^
+||image.cauly.co.kr^
+||xconf.cauly.co.kr^
 ||production-cmp.isgprivacy.cbsi.com^
 ||tealium.cbsnews.com^
 ||perf.cdnads.com^
@@ -4770,6 +4775,13 @@
 ||bf20578xco.bf.dynatrace.com^
 ||js-cdn.dynatrace.com^
 ||cdn.n.dynstc.com^
+||api.eagllwin.com^
+||creative.eagllwin.com^
+||applog.matrix.easebar.com^
+||mcount.easebar.com^
+||appdump.nie.easebar.com^
+||sigma-statistics-push.proxima.nie.easebar.com^
+||who.nie.easebar.com^
 ||ads.easy-ads.com^
 ||apituner.ecbsn.com^
 ||api.engager.ecbsn.com^
@@ -5039,11 +5051,14 @@
 ||api.wootric.com.herokudns.com^
 ||production.wootric.com.herokudns.com^
 ||analytics.yopify.com.herokudns.com^
+||mdp-appconf-sg.heytapdl.com^
+||client-uc.heytapmobi.com^
 ||ads.heyzap.com^
 ||fyc.heyzap.com^
 ||med.heyzap.com^
 ||cdn-cf-hc-banners.hgonline.net^
 ||h30-deploy.hiconversion.com^
+||pl15402247.highperformancecpm.com^
 ||config.hiido.com^
 ||hlog.hiido.com^
 ||klog.hiido.com^
@@ -5213,6 +5228,7 @@
 ||mobile-sdk-resources.jumio.com^
 ||nv-sdk.jumio.com^
 ||bmedia.justservingfiles.net^
+||sentry.justwatch.com^
 ||entitlements.jwplayer.com^
 ||ping-meta-prd.jwpltx.com^
 ||prd.jwpltx.com^
@@ -5249,6 +5265,8 @@
 ||api.lanistaads.com^
 ||largosoft.co.kr^
 ||cc.lbesec.com^
+||storeen.ldmnq.com^
+||advertise.ldplayer.net^
 ||leadboltapps.net^
 ||kibana.leadboxer.com^
 ||log.leadboxer.com^
@@ -5563,6 +5581,7 @@
 ||a.optmnstr.com^
 ||api.optmnstr.com^
 ||a.optnmnstr.com^
+||cdn.orangeclickmedia.com^
 ||otherlevels.com^
 ||cp.oupeng.com^
 ||max-files.oupeng.com^
@@ -5739,6 +5758,8 @@
 ||rayjump.com^
 ||assets.rbl.ms^
 ||realclever.com^
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
 ||ac.realvu.net^
 ||cdn.rebel.ai^
 ||redfast.com^
@@ -5838,6 +5859,7 @@
 ||ios-quinoa-personal-identify-prod.sense360eng.com^
 ||quinoa-personal-identify-prod.sense360eng.com^
 ||api.sentiance.com^
+||o861134.ingest.sentry.io^
 ||e.serverbid.com^
 ||sync.serverbid.com^
 ||track.sgdmobile.com^
@@ -5998,6 +6020,7 @@
 ||sonata-notifications-us-east.taptapnetworks.com^
 ||taptica.com^
 ||target2sell.com^
+||sanalytics.tbs.com^
 ||analytics.tdameritrade.com^
 ||appdeumext.tdameritrade.com^
 ||ampmetrics.techcrunch.com^
@@ -6018,6 +6041,9 @@
 ||opera-server.thinknearhub.com^
 ||smaato-server.thinknearhub.com^
 ||thinknear-hosted.thinknearhub.com^
+||log-va.tiktokv.com^
+||mon.tiktokv.com^
+||mon-va.tiktokv.com^
 ||registration.tiltingpoint.io^
 ||utctime.tiltingpoint.io^
 ||tia.timeinc.net^
@@ -6036,6 +6062,7 @@
 ||aamt.today.com^
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
+||apitm.toolmatrix.plus^
 ||android-com-wildlife-games-battle-royale-free-zooba.topaz-analytics.com^
 ||playtest-api.topaz-analytics.com^
 ||push-api.topaz-analytics.com^
@@ -6089,6 +6116,7 @@
 ||ocx.umeng.com^
 ||ouplog.umeng.com^
 ||sec.umeng.com^
+||uop.umeng.com^
 ||umengcloud.com^
 ||umtrack.com^
 ||cmp.uniconsent.com^
@@ -6174,6 +6202,11 @@
 ||stnetsdk.vivo.com.cn^
 ||stsdk.vivo.com.cn^
 ||vcardsdkservice.vivo.com.cn^
+||asia-analyzer-appstore.vivoglobal.com^
+||asia-comonrt-stsdk.vivoglobal.com^
+||asia-comort-stsdk.vivoglobal.com^
+||asia-ex-adlog.vivoglobal.com^
+||asia-exstsdk.vivoglobal.com^
 ||asia-monitor-stsdk.vivoglobal.com^
 ||asia-onrt-stsdk.vivoglobal.com^
 ||asia-ort-stsdk.vivoglobal.com^
@@ -6182,7 +6215,16 @@
 ||asia-stsdk.vivoglobal.com^
 ||onrt-stsdk.vivoglobal.com^
 ||stsdk.vivoglobal.com^
+||tr-domaincfg.vivoglobal.com^
+||tr-romsp-unifyconfig.vivoglobal.com^
+||tr-st-sl.vivoglobal.com^
+||tr-timesync.vivoglobal.com^
+||tr-vcode-api.vivoglobal.com^
+||tr-vcode-od.vivoglobal.com^
 ||vnet.cn^
+||mplusps.ims.vodafone.com^
+||mpluswf.ims.vodafone.com^
+||netperform-is.vodafone.com.tr^
 ||ai.voiceads.cn^
 ||api.voiceads.cn^
 ||imp.voiceads.cn^
@@ -8289,6 +8331,7 @@ iklan300x250.gif|
 ||gml.email^
 ||go-clicks.de^
 ||go-rank.de^
+||go.dhs.gov^
 ||go.eu.sparkpostmail1.com^
 ||go.icann.org^
 ||go.usa.gov^
