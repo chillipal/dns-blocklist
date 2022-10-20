@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-10-19T05:44:16.829Z
+! Last modified: 2022-10-20T05:44:24.292Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5869,6 +5869,7 @@
 ||e.serverbid.com^
 ||sync.serverbid.com^
 ||track.sgdmobile.com^
+||shalltry.com^
 ||id.sharedid.org^
 ||buttons-config.sharethis.com^
 ||count-server.sharethis.com^
@@ -12408,7 +12409,6 @@ iklan300x250.gif|
 ||ads24.focalink.com^
 ||ads24.net^
 ||ads25.focalink.com^
-||ads2ads.net^
 ||ads2srv.com^
 ||ads3.advance.net^
 ||ads3.freebannertrade.com^
