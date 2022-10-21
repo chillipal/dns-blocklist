@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-10-20T05:44:24.292Z
+! Last modified: 2022-10-21T05:44:20.741Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4094,7 +4094,6 @@
 ||s8.addthis.com^
 ||su.addthis.com^
 ||v1.addthis.com^
-||static.addtoany.com^
 ||stats.addtoany.com^
 ||ads.adecosystems.net^
 ||ads.adelement.com^
@@ -4588,7 +4587,6 @@
 ||track.chanret.com^
 ||smetrics.chrysler.com^
 ||jp.cinarra.com^
-||collector.cint.com^
 ||qps.cint.com^
 ||c.cintnetworks.com^
 ||app.cision.com^
@@ -5041,6 +5039,7 @@
 ||guardianapps.co.uk^
 ||dil.hansel.io^
 ||sdk.hansel.io^
+||analytics-production.hapyak.com^
 ||hasmobi.net^
 ||hbi-ingest.net^
 ||cdn.heapanalytics.com^
@@ -5225,7 +5224,6 @@
 ||im64.jpush.cn^
 ||s.jpush.cn^
 ||sis.jpush.io^
-||cdn.jst.ai^
 ||analytics.jumboprivacy.com^
 ||mobile-sdk-resources.jumio.com^
 ||nv-sdk.jumio.com^
@@ -5297,7 +5295,6 @@
 ||xfeedback.scloud.lfengmobile.com^
 ||tracking.lg.com^
 ||aic.cdpbeacon.lgtvcommon.com^
-||snap.licdn.com^
 ||adexp.liftoff.io^
 ||build-cdn.liftoff.io^
 ||cdn.liftoff.io^
@@ -5610,7 +5607,6 @@
 ||snowplow.ownlocal.com^
 ||sc.pages03.net^
 ||tracking.pandoiq.com^
-||pi.pardot.com^
 ||api.parse.com^
 ||b.stats.paypal.com^
 ||slc.stats.paypal.com^
@@ -5875,14 +5871,11 @@
 ||count-server.sharethis.com^
 ||edge.sharethis.com^
 ||pd.sharethis.com^
-||platform-api.sharethis.com^
 ||platform-cdn.sharethis.com^
 ||s.sharethis.com^
 ||sd.sharethis.com^
 ||sync.sharethis.com^
-||w.sharethis.com^
 ||wd-edge.sharethis.com^
-||ws.sharethis.com^
 ||serverc.shoofle.tv^
 ||prod.sift.co^
 ||sift-campaign-creatives.sift.co^
@@ -7552,7 +7545,6 @@ iklan300x250.gif|
 ||ads.forbes.net^
 ||ads.formit.cz^
 ||ads.fortunecity.com^
-||ads.fotosidan.se^
 ||ads.friendfinder.com^
 ||ads.gamecity.net^
 ||ads.gamespyid.com^
@@ -8497,7 +8489,6 @@ iklan300x250.gif|
 ||linkswaper.com^
 ||linktarget.com^
 ||liquidad.narrowcastmedia.com^
-||litix.io^
 ||lnks.gd^
 ||loading321.com^
 ||locked4.com^
@@ -8557,6 +8548,7 @@ iklan300x250.gif|
 ||megapu.sh^
 ||megastats.com^
 ||methodcash.com^
+||metrics.api.drift.com^
 ||metrics.articulate.com^
 ||metrics.consumerreports.org^
 ||metrics.ctv.ca^
@@ -9232,7 +9224,7 @@ iklan300x250.gif|
 ||amer.rel.msn.com^
 ||an.mlb.com^
 ||analytics.prx.org^
-||anonymousdemographics.com^
+||analytics.sleeknote.com^
 ||apac.rel.msn.com^
 ||api.gameanalytics.com^
 ||api.simpleanalytics.io^
@@ -16449,7 +16441,6 @@ iklan300x250.gif|
 ||newbrowse.livehelper.com^
 ||stats.livingsocial.com^
 ||a.livesportmedia.eu^
-||advert.livesportmedia.eu^
 ||omnituretrack.local.com^
 ||adserver.lonuncavisto.com^
 ||r.looksmart.com^
@@ -17024,7 +17015,6 @@ iklan300x250.gif|
 ||www.onesafe-software.com^
 ||tracking.revimedia.com^
 ||n.targetctracker.com^
-||trackcmp.net^
 ||videe.tv^
 ||www.whizstats.com^
 ||code2.adtlgc.com^
@@ -17181,7 +17171,6 @@ iklan300x250.gif|
 ||gsf-cf.softonic.com^
 ||cdn.traffichunt.com^
 ||analytics.userreport.com^
-||cdn.userreport.com^
 ||sdscdn.userreport.com^
 ||wsc1.webspectator.com^
 ||zafiti01.webtrekk-us.net^
@@ -18744,7 +18733,6 @@ iklan300x250.gif|
 ||pool.adhsm.adhese.com^
 ||pool.nrc.adhese.com^
 ||pool.sanoma.adhese.com^
-||ads.mrgreen.com^
 ||ads.offsidebet.com^
 ||ads.betsafe.com^
 ||t.svtrd.com^
@@ -18882,7 +18870,6 @@ iklan300x250.gif|
 ||www.klixmedia.com^
 ||reseller.sexyads.com^
 ||www.sexyads.net^
-||servedby.studads.com^
 ||a.thoughtleadr.com^
 ||adv.elaana.com^
 ||banners.mynakedweb.com^
