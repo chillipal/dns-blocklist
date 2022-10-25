@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-10-24T05:44:25.170Z
+! Last modified: 2022-10-25T05:44:24.037Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5606,6 +5606,7 @@
 ||snowplow.ownlocal.com^
 ||sc.pages03.net^
 ||tracking.pandoiq.com^
+||pi.pardot.com^
 ||api.parse.com^
 ||b.stats.paypal.com^
 ||slc.stats.paypal.com^
@@ -8486,6 +8487,7 @@ iklan300x250.gif|
 ||linkswaper.com^
 ||linktarget.com^
 ||liquidad.narrowcastmedia.com^
+||litix.io^
 ||lnks.gd^
 ||loading321.com^
 ||locked4.com^
@@ -17011,6 +17013,7 @@ iklan300x250.gif|
 ||www.onesafe-software.com^
 ||tracking.revimedia.com^
 ||n.targetctracker.com^
+||trackcmp.net^
 ||videe.tv^
 ||www.whizstats.com^
 ||code2.adtlgc.com^
@@ -18274,6 +18277,7 @@ iklan300x250.gif|
 ||metrics.babycentre.co.uk^
 ||stats.backcountry.com^
 ||omni.basspro.com^
+||sa.bbc.co.uk^
 ||metrics.beachbody.com^
 ||a.beliefnet.com^
 ||metrics.bet.com^
