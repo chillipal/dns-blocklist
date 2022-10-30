@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-10-29T05:43:44.211Z
+! Last modified: 2022-10-30T05:43:43.499Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5872,7 +5872,6 @@
 ||shalltry.com^
 ||id.sharedid.org^
 ||buttons-config.sharethis.com^
-||count-server.sharethis.com^
 ||edge.sharethis.com^
 ||pd.sharethis.com^
 ||platform-cdn.sharethis.com^
