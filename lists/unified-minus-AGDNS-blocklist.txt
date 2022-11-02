@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-01T05:43:45.094Z
+! Last modified: 2022-11-02T05:43:46.956Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -6357,7 +6357,6 @@
 ||analytics.zg-api.com^
 ||e.zg-api.com^
 ||zhiziyun.com^
-||zgsdk.zhugeio.com^
 ||ziffdavis.com^
 ||static.ziftsolutions.com^
 ||s.zkcdn.net^
