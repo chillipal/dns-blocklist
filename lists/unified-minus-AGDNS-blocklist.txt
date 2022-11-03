@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-02T05:43:46.956Z
+! Last modified: 2022-11-03T05:43:45.348Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4345,7 +4345,6 @@
 ||later-analytics-reports.s3-accelerate.amazonaws.com^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
-||amnyescsmgcagjj.com^
 ||eapik.anagog.com^
 ||ecdn.analysis.fi^
 ||analytics.analytics-egain.com^
@@ -14177,6 +14176,7 @@ iklan300x250.gif|
 ||parafiaukta.pl^
 ||parronnotandone.info^
 ||parskabab.com^
+||partner-api.jobbio.com^
 ||partner-ts.groupon.be^
 ||partner-ts.groupon.co.uk^
 ||partner-ts.groupon.com^
