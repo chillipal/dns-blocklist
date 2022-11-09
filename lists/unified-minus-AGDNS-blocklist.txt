@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-08T06:43:47.673Z
+! Last modified: 2022-11-09T06:43:46.809Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4097,6 +4097,7 @@
 ||s8.addthis.com^
 ||su.addthis.com^
 ||v1.addthis.com^
+||static.addtoany.com^
 ||stats.addtoany.com^
 ||ads.adecosystems.net^
 ||ads.adelement.com^
