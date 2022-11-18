@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-17T06:43:49.226Z
+! Last modified: 2022-11-18T06:43:49.528Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -6044,8 +6044,6 @@
 ||smaato-server.thinknearhub.com^
 ||thinknear-hosted.thinknearhub.com^
 ||log-va.tiktokv.com^
-||mon.tiktokv.com^
-||mon-va.tiktokv.com^
 ||registration.tiltingpoint.io^
 ||utctime.tiltingpoint.io^
 ||tia.timeinc.net^
@@ -8140,6 +8138,7 @@ iklan300x250.gif|
 ||clicks.deliveroo.co.uk^
 ||clicks.equantum.com^
 ||clicks.mods.de^
+||clicks.monzo.com^
 ||clickserve.cc-dt.com^
 ||clicktag.de^
 ||clickthrutraffic.com^
@@ -8858,6 +8857,7 @@ iklan300x250.gif|
 ||statserv.net^
 ||statsie.com^
 ||statxpress.com^
+||stretchsquirrel.com^
 ||subscribe.hearstmags.com^
 ||sugoicounter.com^
 ||supertop100.com^
