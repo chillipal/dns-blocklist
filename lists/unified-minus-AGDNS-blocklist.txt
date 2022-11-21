@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-20T06:43:49.336Z
+! Last modified: 2022-11-21T06:43:50.157Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4008,6 +4008,7 @@
 ||lemmingro.com^
 ||flashrewards.co^
 ||info-eastflirts.com^
+||reporting-api.gannettinnovation.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
