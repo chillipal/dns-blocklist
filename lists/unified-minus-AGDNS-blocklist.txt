@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-25T06:43:49.549Z
+! Last modified: 2022-11-26T06:43:50.357Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4695,7 +4695,6 @@
 ||app.datorama.com^
 ||oauth.datorama.com^
 ||adimg.daumcdn.net^
-||datacollector-dra.dt.dbankcloud.cn^
 ||s79.research.de.com^
 ||prod-dcs-eventlog.decagames.com^
 ||api.decibelinsight.net^
@@ -7572,7 +7571,6 @@ iklan300x250.gif|
 ||ads.icq.com^
 ||ads.ign.com^
 ||ads.imagistica.com^
-||ads.img.co.za^
 ||ads.imgur.com^
 ||ads.independent.com.mt^
 ||ads.infi.net^
@@ -7981,7 +7979,6 @@ iklan300x250.gif|
 ||banner.eurogrand.com^
 ||banner.finzoom.ro^
 ||banner.goldenpalace.com^
-||banner.img.co.za^
 ||banner.inyourpocket.com^
 ||banner.linux.se^
 ||banner.media-system.de^
@@ -8665,6 +8662,7 @@ iklan300x250.gif|
 ||piano.io^
 ||piet2eix3l.com^
 ||pimproll.com^
+||ping.ublock.org^
 ||pixel.app.returnpath.net^
 ||play4traffic.com^
 ||pltraffic8.com^
