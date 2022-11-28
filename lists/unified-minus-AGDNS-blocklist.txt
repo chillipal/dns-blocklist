@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-11-27T06:43:53.464Z
+! Last modified: 2022-11-28T06:43:56.955Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4038,6 +4038,7 @@
 ||www.gaming-adult.com^
 ||mediasama.com^
 ||danbo.org^
+||crmt.livejasmin.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
