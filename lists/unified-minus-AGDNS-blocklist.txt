@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-12-11T06:43:44.029Z
+! Last modified: 2022-12-12T06:43:42.284Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4093,6 +4093,8 @@
 ||settings-analytics.hotstar.com^
 ||videoads.hotstar.com^
 ||vs.hotstar.com^
+||analytics.shein.com^
+||analytics.shein.co.uk^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -8386,6 +8388,7 @@ iklan300x250.gif|
 ||foo.cosmocode.de^
 ||foo.software^
 ||foresee.com^
+||forex-affiliate.net^
 ||fpctraffic.com^
 ||free-banners.com^
 ||freebanner.com^
