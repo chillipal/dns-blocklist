@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2022-12-12T06:43:42.284Z
+! Last modified: 2022-12-13T06:43:40.151Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -18280,6 +18280,7 @@ iklan300x250.gif|
 ||counter.superstats.com^
 ||stats.superstats.com^
 ||kvors.com^
+||nbjmp.com^
 ||gad.impresionesweb.com^
 ||alt.impresionesweb.com^
 ||gb.impresionesweb.com^
