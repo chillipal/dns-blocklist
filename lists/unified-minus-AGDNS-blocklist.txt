@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2023-01-11T06:43:32.485Z
+! Last modified: 2023-01-12T06:43:34.620Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -4111,7 +4111,9 @@
 ||freestar-io.videoplayerhub.com^
 ||oa.openxcdn.net^
 ||s2s.t13.io^
-||seg.hadron.ad.gt^
+||seg.hadron.ad.g^
+||btc8886.com^
+||en.xachinaproject.fun^
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -8309,6 +8311,7 @@ iklan300x250.gif|
 ||linkprice.com^
 ||linkrain.com^
 ||links-ranking.de^
+||links.zoopla.co.uk^
 ||linkshighway.com^
 ||linkstorms.com^
 ||linkswaper.com^
