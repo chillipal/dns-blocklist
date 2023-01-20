@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2023-01-19T06:43:36.032Z
+! Last modified: 2023-01-20T06:43:37.937Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -5297,20 +5297,6 @@
 ||invocacdn.com^
 ||iris.tv^
 ||irr.ru^
-||dm.isnssdk.com^
-||h5.isnssdk.com^
-||hotapi-va.isnssdk.com^
-||i.isnssdk.com^
-||i16-tb.isnssdk.com^
-||ichannel.isnssdk.com^
-||imapi-sg.isnssdk.com^
-||log.isnssdk.com^
-||log-tb.isnssdk.com^
-||mon.isnssdk.com^
-||open.isnssdk.com^
-||pangolin16.isnssdk.com^
-||tnc16-alisg.isnssdk.com^
-||tnc16-useast1a.isnssdk.com^
 ||ispot.tv^
 ||api.iterable.com^
 ||assets.iterable.com^
