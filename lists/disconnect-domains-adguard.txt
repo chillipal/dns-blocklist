@@ -1,5 +1,5 @@
 ! disconnect domains list Adguard format by @chillipal
-! Updated: 2023-08-20 06:40:02 +0000
+! Updated: 2023-08-27 06:40:02 +0000
 !
 ||nugg.ad^
 ||targ.ad^
@@ -39,6 +39,7 @@
 ||opolen.com.br^
 ||terra.com.br^
 ||vtex.com.br^
+||adservice.google.ca^
 ||bvmedia.ca^
 ||adop.cc^
 ||netflame.cc^
@@ -58,6 +59,9 @@
 ||px-eu.dynamicyield.com^
 ||antifraudjs.friends2follow.com^
 ||tracking.friends2follow.com^
+||adservice.google.com^
+||adwords.google.com^
+||fcmatch.google.com^
 ||ads.yahoo.com^
 ||adserver.yahoo.com^
 ||advertising.yahoo.com^
@@ -65,6 +69,7 @@
 ||marketingsolutions.yahoo.com^
 ||ybp.yahoo.com^
 ||p.yotpo.com^
+||fcmatch.youtube.com^
 ||103092804.com^
 ||247realmedia.com^
 ||2leep.com^
@@ -183,8 +188,10 @@
 ||admaximizer.com^
 ||admedia.com^
 ||admedo.com^
+||admeld.com^
 ||admeta.com^
 ||admized.com^
+||admob.com^
 ||admobile.com^
 ||admoda.com^
 ||admost.com^
@@ -197,6 +204,7 @@
 ||adocean-global.com^
 ||adoftheyear.com^
 ||adohana.com^
+||adometry.com^
 ||adomik.com^
 ||adonion.com^
 ||adonnetwork.com^
@@ -221,6 +229,7 @@
 ||adroitinteractive.com^
 ||adrolays.com^
 ||adroll.com^
+||ads-twitter.com^
 ||adsafemedia.com^
 ||adsafeprotected.com^
 ||adsbwm.com^
@@ -338,6 +347,7 @@
 ||atedra.com^
 ||atemda.com^
 ||atinternet.com^
+||atlassolutions.com^
 ||atoomic.com^
 ||atrinsic.com^
 ||attracta.com^
@@ -458,6 +468,7 @@
 ||cardlytics.com^
 ||casalemedia.com^
 ||cbproads.com^
+||cc-dt.com^
 ||cdn-sitegainer.com^
 ||cdnma.com^
 ||cedato.com^
@@ -556,6 +567,7 @@
 ||cpvtgt.com^
 ||cpxadroit.com^
 ||cpxinteractive.com^
+||crashlytics.com^
 ||crazyegg.com^
 ||creafi.com^
 ||creative-serving.com^
@@ -601,6 +613,7 @@
 ||dep-x.com^
 ||deployads.com^
 ||designbloxlive.com^
+||destinationurl.com^
 ||developermedia.com^
 ||dgit.com^
 ||dialogmgr.com^
@@ -618,6 +631,7 @@
 ||dl-rms.com^
 ||dmpxs.com^
 ||dmtracker.com^
+||dmtry.com^
 ||dmxleo.com^
 ||doclix.com^
 ||domdex.com^
@@ -775,6 +789,10 @@
 ||goldbachgroup.com^
 ||goldspotmedia.com^
 ||gomez.com^
+||google-analytics.com^
+||googleadservices.com^
+||googlesyndication.com^
+||googletagservices.com^
 ||gorillanation.com^
 ||gosquared.com^
 ||gostats.com^
@@ -875,6 +893,7 @@
 ||interpolls.com^
 ||inuvo.com^
 ||investingchannel.com^
+||invitemedia.com^
 ||inviziads.com^
 ||iovation.com^
 ||iperceptions.com^
@@ -1198,6 +1217,7 @@
 ||popcde.com^
 ||poprule.com^
 ||popularmedia.com^
+||postrank.com^
 ||postrelease.com^
 ||powerlinks.com^
 ||ppcprotect.com^
@@ -1438,6 +1458,7 @@
 ||tellapart.com^
 ||tellapt.com^
 ||tensquare.com^
+||teracent.com^
 ||theblogfrog.com^
 ||thebrighttag.com^
 ||thecounter.com^
@@ -1499,6 +1520,7 @@
 ||tumri.com^
 ||turn.com^
 ||tvpixel.com^
+||tweetdeck.com^
 ||twelvefold.com^
 ||twyn.com^
 ||twyn-group.com^
@@ -1718,6 +1740,7 @@
 ||tradelab.fr^
 ||weborama.fr^
 ||drawbrid.ge^
+||clean.gg^
 ||adman.gr^
 ||ad.gt^
 ||carts.guru^
@@ -1802,6 +1825,7 @@
 ||pxlclnmdecom-a.akamaihd.net^
 ||src.kitcode.net^
 ||00px.net^
+||2mdn.net^
 ||2o7.net^
 ||a-mo.net^
 ||a2dfp.net^
@@ -1870,12 +1894,14 @@
 ||crwdcntrl.net^
 ||cya2.net^
 ||dapper.net^
+||dartsearch.net^
 ||dashboardad.net^
 ||dataxu.net^
 ||decdna.net^
 ||demdex.net^
 ||dlqm.net^
 ||domdex.net^
+||doubleclick.net^
 ||dt00.net^
 ||dt07.net^
 ||durasite.net^
@@ -1966,6 +1992,8 @@
 ||ppjol.net^
 ||pro-market.net^
 ||proximic.net^
+||px-cdn.net^
+||px-cloud.net^
 ||qjex.net^
 ||qksz.net^
 ||quitzon.net^
@@ -1986,6 +2014,7 @@
 ||sevenads.net^
 ||smaato.net^
 ||smartclip.net^
+||smtad.net^
 ||snplow.net^
 ||specificclick.net^
 ||staticstuff.net^
@@ -1997,6 +2026,7 @@
 ||tacoda.net^
 ||targetix.net^
 ||technical-service.net^
+||teracent.net^
 ||thesearchagency.net^
 ||tns-cs.net^
 ||tradetracker.net^
@@ -2021,6 +2051,7 @@
 ||yieldmanager.net^
 ||yldmgrimg.net^
 ||yt1187.net^
+||ytsa.net^
 ||z5x.net^
 ||adlantic.nl^
 ||adscience.nl^
@@ -2099,7 +2130,6 @@
 ||goutee.top^
 ||affec.tv^
 ||affine.tv^
-||brid.tv^
 ||clearstream.tv^
 ||extend.tv^
 ||onnetwork.tv^
