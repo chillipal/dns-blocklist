@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2023-09-03T06:48:27.253Z
+! Last modified: 2023-09-10T06:48:37.234Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3459,7 +3459,6 @@
 ||api.ibeat-analytics.com^
 ||mads.amazon.com^
 ||s2.bl-1.com^
-||madqudden.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -3799,6 +3798,7 @@
 ||api.appodealx.com^
 ||mobile-ws.apprissmobile.com^
 ||cdn.apprope.com^
+||api.appsee.com^
 ||sdk.appsflyer.tk^
 ||config.appsgeyser.com^
 ||stat.appsgeyser.com^
@@ -4070,7 +4070,6 @@
 ||deltago.com^
 ||cdn.destinilocators.com^
 ||balancer.devtodev.com^
-||statgw.devtodev.com^
 ||insights.dice.com^
 ||smetrics.dickssportinggoods.com^
 ||tag.dickssportinggoods.com^
@@ -4729,6 +4728,8 @@
 ||mozbar.moz.com^
 ||cj.mplxtms.com^
 ||secure-cdn.mplxtms.com^
+||r.mradx.net^
+||r0.mradx.net^
 ||ad.mrtnsvr.com^
 ||ads.msn.com^
 ||ads2.msn.com^
@@ -4979,6 +4980,7 @@
 ||austin.logs.roku.com^
 ||mobile.logs.roku.com^
 ||scribe.logs.roku.com^
+||app.roximity.com^
 ||widget-cdn.rpxnow.com^
 ||adconf.rqmob.com^
 ||adcs.rqmob.com^
@@ -5001,6 +5003,7 @@
 ||prebid.s-onetag.com^
 ||signal-beacon.s-onetag.com^
 ||signal-metrics-collector-beta.s-onetag.com^
+||api.safedk.com^
 ||edge.safedk.com^
 ||ak.sail-horizon.com^
 ||api.sail-personalize.com^
@@ -5081,6 +5084,7 @@
 ||conf.smartnews-ads.com^
 ||i.smartnews-ads.com^
 ||thumbnail.smartnews-ads.com^
+||api.smbeat.jp^
 ||snapads.com^
 ||snapmobile.asia^
 ||c.socialannex.com^
@@ -5095,6 +5099,7 @@
 ||auth.split.io^
 ||cdn.split.io^
 ||sdk.split.io^
+||api.splkmobile.com^
 ||api-2-0.spot.im^
 ||pixel.spotify.com^
 ||pixel-static.spotify.com^
@@ -5264,6 +5269,8 @@
 ||sa.unionstatistics.com^
 ||ads.prd.ie.internal.unity3d.com^
 ||ads-privacy-api.prd.mz.internal.unity3d.com^
+||stats.unity3d.com^
+||event.allnews.uodoo.com^
 ||other.upqzfile.com^
 ||video.upqzfile.com^
 ||api.uprivaladserver.net^
@@ -6369,7 +6376,6 @@ iklan300x250.gif|
 ||101order.com^
 ||180hits.de^
 ||180searchassistant.com^
-||1link2020.com^
 ||207.net^
 ||247media.com^
 ||24pm-affiliation.com^
@@ -7020,6 +7026,7 @@ iklan300x250.gif|
 ||analytics.swiggy.com^
 ||analytics.xelondigital.com^
 ||analyticsapi.happypancake.net^
+||androiddownload.net^
 ||annonser.dagbladet.no^
 ||anrdoezrs.net^
 ||anstrex.com^
@@ -7081,7 +7088,6 @@ iklan300x250.gif|
 ||banner.reinstil.de^
 ||banner.tanto.de^
 ||banner.titan-dsl.de^
-||banner.vadian.net^
 ||banner.webmersion.com^
 ||banner10.zetasystem.dk^
 ||bannerads.de^
@@ -7257,7 +7263,6 @@ iklan300x250.gif|
 ||cny.yoyo.org^
 ||codeadnetwork.com^
 ||cognitiv.ai^
-||coldbalance.com^
 ||colonize.com^
 ||commindo-media-ressourcen.de^
 ||communications.melitaltd.com^
@@ -7356,7 +7361,6 @@ iklan300x250.gif|
 ||epp.bih.net.ba^
 ||erne.co^
 ||esty.com^
-||ethereum-ads.com^
 ||eu-adcenter.net^
 ||eule1.pmu.fr^
 ||eurekster.com^
@@ -7665,6 +7669,7 @@ iklan300x250.gif|
 ||myads.net^
 ||myads.telkomsel.com^
 ||mylink-today.com^
+||mypagerank.ru^
 ||mypowermall.com^
 ||mystat.pl^
 ||mytop-in.net^
@@ -7767,6 +7772,7 @@ iklan300x250.gif|
 ||post.spmailtechno.com^
 ||postback.iqm.com^
 ||pr-star.de^
+||praddpro.de^
 ||premium-offers.com^
 ||prf.hn^
 ||priefy.com^
@@ -8014,7 +8020,6 @@ iklan300x250.gif|
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||topbucks.com^
 ||topforall.com^
 ||topgamesites.net^
 ||toplist.pornhost.com^
@@ -9136,7 +9141,6 @@ iklan300x250.gif|
 ||biaugerme.fr^
 ||bighow.net^
 ||bioware.fr^
-||biserka.xyz^
 ||bitcoin-upappl.com^
 ||bitsoin.fr^
 ||biucosmetics.fr^
@@ -9210,6 +9214,7 @@ iklan300x250.gif|
 ||camplace.fr^
 ||campus-forprof.fr^
 ||canadapost-delivery-reshedule.com^
+||canadapost-paymentservice.com^
 ||capitalregionusa.fr^
 ||carac-terres.fr^
 ||carrfefour.fr^
@@ -9334,6 +9339,7 @@ iklan300x250.gif|
 ||department06.fr^
 ||deposit-cra2023.com^
 ||depositphotos.fr^
+||depottool.bond^
 ||devguardmap.org^
 ||dewinci.fr^
 ||dfnac.fr^
@@ -9458,6 +9464,7 @@ iklan300x250.gif|
 ||freedon.fr^
 ||freelanced.fr^
 ||fref.fr^
+||freighttools.live^
 ||frenchbweb.fr^
 ||frenesies.fr^
 ||freshzz00.duckdns.org^
@@ -9534,6 +9541,7 @@ iklan300x250.gif|
 ||helpmedb.com^
 ||hentavost.fr^
 ||heritagebathrooms.fr^
+||heuither.sbs^
 ||hibody.fr^
 ||hifa.fr^
 ||himicrosoft.com^
@@ -9542,6 +9550,7 @@ iklan300x250.gif|
 ||hireproplus.com^
 ||hirsch-ille.fr^
 ||hiteck.fr^
+||hiuinder.beauty^
 ||hocolats-voisin.fr^
 ||hommetendance.fr^
 ||hostify.fr^
@@ -9576,6 +9585,7 @@ iklan300x250.gif|
 ||imago-tv.fr^
 ||imotors.fr^
 ||inateck.fr^
+||incuirfes.beauty^
 ||info-sectes.fr^
 ||infodjour.fr^
 ||infographicworld.fr^
@@ -9617,6 +9627,7 @@ iklan300x250.gif|
 ||joomlaworks.fr^
 ||juegosdechicas.fr^
 ||juliettehasagun.fr^
+||juliyea.sbs^
 ||jump.ewoss.net^
 ||juste.ru^
 ||juventuis.fr^
@@ -9645,6 +9656,7 @@ iklan300x250.gif|
 ||kpremium.com^
 ||krakragames.com^
 ||kuder.fr^
+||kweiqox.beauty^
 ||l-histoire.fr^
 ||la1dwne9cn5c.com^
 ||laatribune.fr^
@@ -9986,6 +9998,7 @@ iklan300x250.gif|
 ||paytel.fr^
 ||pbworks.fr^
 ||pcblibraries.fr^
+||pckgatups.bond^
 ||pdns.nudt.edu.cn^
 ||pearlfeet.fr^
 ||peircing-street.fr^
@@ -10217,6 +10230,7 @@ iklan300x250.gif|
 ||sussi.cressoft.com.pk^
 ||suzukiauto.fr^
 ||sverd.net^
+||swflightinfo.bond^
 ||swiftype.fr^
 ||swisslide.fr^
 ||sybonymo.fr^
@@ -10276,6 +10290,7 @@ iklan300x250.gif|
 ||tradeinn.fr^
 ||traffic-bam.link^
 ||tranisere.fr^
+||trauiqce.click^
 ||trioadvisor.fr^
 ||trk.wizzdeal.trade^
 ||trouveunfilm.fr^
@@ -13013,7 +13028,6 @@ iklan300x250.gif|
 ||legjava.com^
 ||legjava.pro^
 ||leklicht.net^
-||lemmynsfw.com^
 ||lesrivesdechambesy.ch^
 ||letmefind.co^
 ||letsfinder.com^
@@ -15438,7 +15452,6 @@ iklan300x250.gif|
 ||schemas.microsoft.akadns.net^
 ||statsfe2.ws.microsoft.com^
 ||wes.df.telemetry.microsoft.com^
-||mradx.net^
 ||im.ov.yahoo.co.jp^
 ||amanad.adtdp.com^
 ||ad.sxp.smartclip.net^
@@ -17991,6 +18004,15 @@ iklan300x250.gif|
 ||media.yesmessenger.com^
 ||outils.yes-messenger.com^
 ||www.dodostats.com^
+||avalon.topbucks.com^
+||botw.topbucks.com^
+||clickheat.topbucks.com^
+||cluster-03.topbucks.com^
+||mainstream.topbucks.com^
+||rainbow.topbucks.com^
+||referral.topbucks.com^
+||vod.topbucks.com^
+||webmaster.topbucks.com^
 ||mapstats.blogflux.com^
 ||topsites.blogflux.com^
 ||www.topblogs.com.ph^
