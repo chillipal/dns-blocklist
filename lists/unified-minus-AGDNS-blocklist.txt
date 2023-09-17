@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2023-09-10T06:48:37.234Z
+! Last modified: 2023-09-17T06:48:37.649Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3459,6 +3459,8 @@
 ||api.ibeat-analytics.com^
 ||mads.amazon.com^
 ||s2.bl-1.com^
+||w61.1piecemanga.com^
+||fbet.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -5364,6 +5366,7 @@
 ||trackers.voodoo-analytics.io^
 ||api-gdpr.voodoo-tech.io^
 ||concertads-configs.vox-cdn.com^
+||phonograph2.voxmedia.com^
 ||dailymotion-cs.vpadn.com^
 ||ids-dmp.vpadn.com^
 ||tw-api.vpadn.com^
@@ -6623,6 +6626,7 @@ iklan300x250.gif|
 ||ads.easy-forex.com^
 ||ads.economist.com^
 ||ads.edbindex.dk^
+||ads.egrana.com.br^
 ||ads.elcarado.com^
 ||ads.electrocelt.com^
 ||ads.elitetrader.com^
@@ -7082,7 +7086,6 @@ iklan300x250.gif|
 ||banner.nixnet.cz^
 ||banner.noblepoker.com^
 ||banner.northsky.com^
-||banner.orb.net^
 ||banner.penguin.cz^
 ||banner.rbc.ru^
 ||banner.reinstil.de^
@@ -7639,7 +7642,6 @@ iklan300x250.gif|
 ||megacash.de^
 ||megapu.sh^
 ||megastats.com^
-||mellowads.com^
 ||methodcash.com^
 ||metrics.articulate.com^
 ||metrics.consumerreports.org^
@@ -7854,7 +7856,6 @@ iklan300x250.gif|
 ||revive.netriota.hu^
 ||revive.plays.bg^
 ||revlift.io^
-||revstats.com^
 ||richmails.com^
 ||rle.ru^
 ||rmads.msn.com^
@@ -8082,7 +8083,6 @@ iklan300x250.gif|
 ||tracking101.com^
 ||tracking22.com^
 ||trackmysales.com^
-||trackuhub.com^
 ||traffic-exchange.com^
 ||traffic-redirecting.com^
 ||traffic.focuusing.com^
@@ -9004,6 +9004,7 @@ iklan300x250.gif|
 ||ac-strasboourg.fr^
 ||ac-versdailles.fr^
 ||aca-languedoc.fr^
+||account-review.com^
 ||accounts.secure-ua.website^
 ||acessoires-electromenager.fr^
 ||acglgoa.com^
@@ -10212,6 +10213,7 @@ iklan300x250.gif|
 ||starbuckssurvey.life^
 ||startmarket.su^
 ||statutorjuihui.site^
+||stay.decentralappps.com^
 ||steelbitepro24.com^
 ||stellarium.fr^
 ||steveberry.fr^
@@ -11958,6 +11960,7 @@ iklan300x250.gif|
 ||banner.monacogoldcasino.com^
 ||banner.newyorkcasino.com^
 ||banner.oddcast.com^
+||banner.orb.net^
 ||banner.piratos.de^
 ||banner.playgatecasino.com^
 ||banner.relcom.ru^
@@ -13174,6 +13177,7 @@ iklan300x250.gif|
 ||medical-offer.com^
 ||megawealthbiz.com^
 ||megoszthato.blogspot.hu^
+||mellowads.com^
 ||members.chello.at^
 ||members.chello.nl^
 ||members.iinet.net.au^
@@ -17177,6 +17181,7 @@ iklan300x250.gif|
 ||ads.mrskin.com^
 ||adserver.sitesense.com^
 ||ebdr2.com^
+||ebdr3.com^
 ||affiliate.trk4.com^
 ||click.cheapstuff.com^
 ||delivery.first-impression.com^
