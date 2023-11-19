@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2023-10-29T06:48:48.246Z
+! Last modified: 2023-11-19T07:49:01.100Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3460,6 +3460,17 @@
 ||w61.1piecemanga.com^
 ||fbet.com^
 ||s.dmmew.com^
+||run.cntxtfl.com^
+||live-manifests-lln.warnermediacdn.com^
+||live-manifests-aka.warnermediacdn.com^
+||logs.browser-intake-datadoghq.com^
+||cpm.didna.io^
+||hb.minutemedia-prebid.com^
+||pbs.nextmillmedia.com^
+||beacons5.gvt2.com^
+||beacons4.gvt2.com^
+||beacons3.gvt2.com^
+||beacons2.gvt2.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -3553,7 +3564,6 @@
 ||aksdk-images.adikteev.com^
 ||tag.adincube.com^
 ||adj.st^
-||fraud.adjoe.zone^
 ||prod.adjoe.zone^
 ||adjust.net.in^
 ||adjust.world^
@@ -3696,7 +3706,6 @@
 ||fls-na.amazon.com^
 ||ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com^
 ||adserver-1277986481.ap-northeast-1.elb.amazonaws.com^
-||ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com^
 ||adservingvpc-1239633584.eu-west-1.elb.amazonaws.com^
@@ -4754,7 +4763,6 @@
 ||app.networkad.net^
 ||www.newsbreak.com^
 ||v2.pixel.newscgp.com^
-||us.tags.newscgp.com^
 ||nex8.net^
 ||ccpa.psg.nexstardigital.net^
 ||segment.psg.nexstardigital.net^
@@ -4772,7 +4780,6 @@
 ||fuzeclick.offerstrack.net^
 ||heatmobi.offerstrack.net^
 ||midoweb.offerstrack.net^
-||sdk-monitoring.ogury.co^
 ||cloud.ogury.io^
 ||dsp-1.ogury.io^
 ||api2.okanjo.com^
@@ -4958,7 +4965,6 @@
 ||ac.realvu.net^
 ||cdn.rebel.ai^
 ||redfast.com^
-||redintelligence.net^
 ||app.redretarget.com^
 ||trackifyx.redretarget.com^
 ||api.reftagger.com^
@@ -5440,9 +5446,6 @@
 ||tracking.yieldlove-ad-serving.net^
 ||v2.yieldlove-ad-serving.net^
 ||yads.c.yimg.jp^
-||analytics-chi-nfl.yinzcam.com^
-||analytics-phi-nfl.yinzcam.com^
-||analytics-pit-nfl.yinzcam.com^
 ||olc.yodo1api.com^
 ||payment.yodo1api.com^
 ||rodeoconfig.yodo1api.com^
@@ -6373,7 +6376,6 @@ iklan300x250.gif|
 ||xjudi.com^
 ||yourpokercash.com^
 ||yoyopoker.net^
-||1-1ads.com^
 ||101com.com^
 ||101order.com^
 ||180hits.de^
@@ -6832,7 +6834,6 @@ iklan300x250.gif|
 ||ads10.speedbit.com^
 ||ads180.com^
 ||ads2.brazzers.com^
-||ads2.clearchannel.com^
 ||ads2.femmefab.nl^
 ||ads2.gamecity.net^
 ||ads2.net-communities.co.uk^
@@ -7035,6 +7036,7 @@ iklan300x250.gif|
 ||api.intensifier.de^
 ||api.kameleoon.com^
 ||app.pendo.io^
+||appmetrica.yandex.ru^
 ||aps.hearstnp.com^
 ||apture.com^
 ||apu.samsungelectronics.com^
@@ -7147,7 +7149,6 @@ iklan300x250.gif|
 ||blingbucks.com^
 ||blis.com^
 ||blockadblock.com^
-||blockthrough.com^
 ||blogtoplist.se^
 ||blogtopsites.com^
 ||blueconic.com^
@@ -7253,7 +7254,6 @@ iklan300x250.gif|
 ||clk1005.com^
 ||clk1011.com^
 ||clk1015.com^
-||cloudcoins.biz^
 ||cluster.adultworld.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmvrclicks000.com^
@@ -7264,7 +7264,6 @@ iklan300x250.gif|
 ||codeadnetwork.com^
 ||cognitiv.ai^
 ||colonize.com^
-||commindo-media-ressourcen.de^
 ||communications.melitaltd.com^
 ||compactbanner.com^
 ||comprabanner.it^
@@ -7289,7 +7288,6 @@ iklan300x250.gif|
 ||coxmt.com^
 ||cpu.samsungelectronics.com^
 ||cpx-traffic.com^
-||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crawlability.com^
 ||crazypopups.com^
@@ -7493,7 +7491,6 @@ iklan300x250.gif|
 ||imprese.cz^
 ||impressionmedia.cz^
 ||impressionmonster.com^
-||impressionz.co.uk^
 ||incognitosearches.com^
 ||incoming-telemetry.thunderbird.net^
 ||incoming.telemetry.mozilla.org^
@@ -7544,7 +7541,6 @@ iklan300x250.gif|
 ||leadplace.fr^
 ||lemmatechnologies.com^
 ||lever-analytics.com^
-||lfeeder.com^
 ||li.alibris.com^
 ||li.azstarnet.com^
 ||li.dailycaller.com^
@@ -7565,6 +7561,7 @@ iklan300x250.gif|
 ||lightspeedcash.com^
 ||link-booster.de^
 ||link.axios.com^
+||link.email.usmagazine.com^
 ||link.sbstck.com^
 ||link.theatlantic.com^
 ||link.uk.expediamail.com^
@@ -7655,7 +7652,6 @@ iklan300x250.gif|
 ||mlsend.com^
 ||mltrk.io^
 ||modernpricing.com^
-||mon.byteoversea.com^
 ||monarchads.com^
 ||moneyexpert.co.uk^
 ||monsterpops.com^
@@ -7684,7 +7680,6 @@ iklan300x250.gif|
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
-||newsletter-link.com^
 ||newt1.adultworld.com^
 ||ng3.ads.warnerbros.com^
 ||nitroclicks.com^
@@ -7739,6 +7734,7 @@ iklan300x250.gif|
 ||pageranktop.com^
 ||panoramicplane.com^
 ||parachutehome.sjv.io^
+||parentpicture.com^
 ||partner.pelikan.cz^
 ||partnercash.de^
 ||partners.priceline.com^
@@ -7881,6 +7877,7 @@ iklan300x250.gif|
 ||securedopen-bp.com^
 ||securely-protectsoft.com^
 ||securemetrics.apple.com^
+||securemetrics.apple.com.cn^
 ||sendmepixel.com^
 ||serv0.com^
 ||servads.net^
@@ -8021,7 +8018,6 @@ iklan300x250.gif|
 ||top123.ro^
 ||top20free.com^
 ||topforall.com^
-||topgamesites.net^
 ||toplist.pornhost.com^
 ||toplista.mw.hu^
 ||toplistcity.com^
@@ -8058,7 +8054,6 @@ iklan300x250.gif|
 ||tracking.39-bb4a9-osm.co.uk^
 ||tracking.42-01pr5-osm-secure.co.uk^
 ||tracking.5-47737-bi.co.uk^
-||tracking.emilyclarkconsulting.com^
 ||tracking.epicgames.com^
 ||tracking.exipure.com^
 ||tracking.hyros.com^
@@ -8067,7 +8062,6 @@ iklan300x250.gif|
 ||tracking.jiffyworld.com^
 ||tracking.netalerts.io^
 ||tracking.orixa-media.com^
-||tracking.pastapplauddeterseminarproof.makeup^
 ||tracking.shopstyle.com^
 ||tracking.theoceanac.online^
 ||tracking.thinkabt.com^
@@ -8086,6 +8080,7 @@ iklan300x250.gif|
 ||trafficstrategies.com^
 ||trafficz.com^
 ||traildelsfars.com^
+||tranquilcanyon.com^
 ||travis.bosscasinos.com^
 ||traytouch.com^
 ||trck.a8.net^
@@ -8100,6 +8095,7 @@ iklan300x250.gif|
 ||trknths.com^
 ||trkoptimizer.com^
 ||trkpnt.ongage.net^
+||truculentrate.com^
 ||truehits2.gits.net.th^
 ||trust.titanhq.com^
 ||trustpid.com^
@@ -8108,7 +8104,6 @@ iklan300x250.gif|
 ||uib.ff.avast.com^
 ||ultimateclixx.com^
 ||ultramercial.com^
-||unless.com^
 ||untd.com^
 ||upu.samsungelectronics.com^
 ||urldata.net^
@@ -8181,7 +8176,6 @@ iklan300x250.gif|
 ||xpu.samsungelectronics.com^
 ||xq1.net^
 ||xtracker.logimeter.com^
-||xtremetop100.com^
 ||yab-adimages.s3.amazonaws.com^
 ||yepads.com^
 ||ypu.samsungelectronics.com^
@@ -8498,6 +8492,7 @@ iklan300x250.gif|
 ||dotcomsecrets.com^
 ||dwclick.com^
 ||dyn.emetriq.de^
+||e.crashlytics.com^
 ||easy-web-stats.com^
 ||ecestats.theglobeandmail.com^
 ||eds.ca.matchbox.maruhub.com^
@@ -10041,6 +10036,7 @@ iklan300x250.gif|
 ||poolin.fr^
 ||poonstwifterspick.work^
 ||portdusoleil.fr^
+||posicionamientonatural.es^
 ||post-canada-delivery2023.com^
 ||post.mil-gov.space^
 ||postbox.mos.ru^
@@ -10915,6 +10911,7 @@ iklan300x250.gif|
 ||web-scanner.co^
 ||web-spider.net^
 ||web-url.net^
+||webadv.co^
 ||webpageupdate.co^
 ||webprotector.co^
 ||webprotocol.net^
@@ -11038,6 +11035,7 @@ iklan300x250.gif|
 ||ad-gbn.com^
 ||ad-plus.cn^
 ||ad-souk.com^
+||ad-sponsor.com^
 ||ad-u.com^
 ||ad.23blogs.com^
 ||ad.adition.de^
@@ -11567,6 +11565,7 @@ iklan300x250.gif|
 ||ads19.focalink.com^
 ||ads1a.depositfiles.com^
 ||ads2.advance.net^
+||ads2.clearchannel.com^
 ||ads2.clickad.com^
 ||ads2.collegclub.com^
 ||ads2.collegeclub.com^
@@ -14355,6 +14354,7 @@ iklan300x250.gif|
 ||wppluginspro.com^
 ||ww1.flashx.net^
 ||www-x-videos.com^
+||www.1-1ads.com^
 ||www.1120.com.tw^
 ||www.1hkfq6598i.com^
 ||www.3qqq.net^
@@ -17931,6 +17931,7 @@ iklan300x250.gif|
 ||a20.x-traceur.com^
 ||logos.x-traceur.com^
 ||services.x-traceur.com^
+||pubted.com^
 ||ads.databrainz.com^
 ||tracking.veille-referencement.com^
 ||static.adbutter.net^
@@ -18001,8 +18002,6 @@ iklan300x250.gif|
 ||ertya.com^
 ||geo.hyperlinksecure.com^
 ||geo.safelinktracker.com^
-||seethisinaction.com^
-||topqualitylink.com^
 ||www.webmoblink.com^
 ||botd.wordpress.com^
 ||ads.adtrustmedia.com^
