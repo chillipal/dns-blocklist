@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2023-11-26T07:49:02.837Z
+! Last modified: 2023-12-03T07:48:46.341Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -2580,6 +2580,7 @@
 ||misshaus.org^
 ||sa.api.intl.miui.com^
 ||api.collect.data.intl.miui.com^
+||api.sec.intl.miui.com^
 ||cc.sys.miui.com^
 ||ccc.sys.miui.com^
 ||geofence.sys.miui.com^
@@ -3415,7 +3416,6 @@
 ||nilaima.com^
 ||gameitlive.com^
 ||stripchat.com^
-||crmpt.livejasmin.com^
 ||claudfront.net^
 ||allowlisted.net^
 ||atlas-upd.com^
@@ -3489,12 +3489,9 @@
 ||dvqcs4w0eo35b.cloudfront.net^
 ||lb.eu-1-id5-sync.com^
 ||live-media-lln.warnermediacdn.com^
-||www.freecodecamp.org^
 ||zion.api.cnn.io^
-||ajax.googleapis.com^
 ||bucket.cdnwebcloud.com^
 ||cadmus.script.ac^
-||cdn.jsdelivr.net^
 ||cdn.topsrvimp.com^
 ||cookies.nextmillmedia.com^
 ||didna.b-cdn.net^
@@ -5248,7 +5245,6 @@
 ||sandbox.tinypass.com^
 ||ad-exchange.toast.com^
 ||adlc-exchange.toast.com^
-||adx-exchange.toast.com^
 ||aamt.today.com^
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
@@ -5302,6 +5298,7 @@
 ||sec.umeng.com^
 ||uop.umeng.com^
 ||umengcloud.com^
+||stats.umsns.com^
 ||umtrack.com^
 ||cmp.uniconsent.com^
 ||edge.uniconsent.com^
@@ -6729,7 +6726,6 @@ iklan300x250.gif|
 ||ads.kinxxx.com^
 ||ads.kompass.com^
 ||ads.krawall.de^
-||ads.lapalingo.com^
 ||ads.lesbianpersonals.com^
 ||ads.liberte.pl^
 ||ads.lifethink.net^
@@ -7060,6 +7056,7 @@ iklan300x250.gif|
 ||analytics.xelondigital.com^
 ||analyticsapi.happypancake.net^
 ||androiddownload.net^
+||angossa.com^
 ||annonser.dagbladet.no^
 ||anrdoezrs.net^
 ||anstrex.com^
@@ -7097,7 +7094,6 @@ iklan300x250.gif|
 ||b-s.tercept.com^
 ||ba.afl.rakuten.co.jp^
 ||banik.redigy.cz^
-||banner-exchange-24.de^
 ||banner.ambercoastcasino.com^
 ||banner.buempliz-online.ch^
 ||banner.casino.net^
@@ -7196,11 +7192,9 @@ iklan300x250.gif|
 ||braze.eu^
 ||breahant.site^
 ||brightcom.com^
-||brightinfo.com^
 ||brightmountainmedia.com^
 ||btglss.net^
 ||bwp.download.com^
-||cabledemand.com^
 ||cakesdrum.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
@@ -7295,6 +7289,7 @@ iklan300x250.gif|
 ||codeadnetwork.com^
 ||cognitiv.ai^
 ||colonize.com^
+||commindo-media-ressourcen.de^
 ||communications.melitaltd.com^
 ||compactbanner.com^
 ||comprabanner.it^
@@ -7430,7 +7425,6 @@ iklan300x250.gif|
 ||frtyj.com^
 ||frtyk.com^
 ||fusionquest.com^
-||fvl1f.pw^
 ||fwcdn1.com^
 ||fwcdn2.com^
 ||fxstyle.net^
@@ -7560,7 +7554,6 @@ iklan300x250.gif|
 ||l1.britannica.com^
 ||l6b587txj1.com^
 ||larati.net^
-||largebrass.com^
 ||layer-ad.de^
 ||layer-ads.de^
 ||lbn.ru^
@@ -7743,7 +7736,6 @@ iklan300x250.gif|
 ||openadsnetwork.com^
 ||openx.angelsgroup.org.uk^
 ||openx.cairo360.com^
-||openx.kgmedia.eu^
 ||openx.skinet.cz^
 ||openx.smcaen.fr^
 ||openx2.kytary.cz^
@@ -7896,7 +7888,6 @@ iklan300x250.gif|
 ||sbird.xyz^
 ||sbx.pagesjaunes.fr^
 ||scambiobanner.aruba.it^
-||scissorsstatement.com^
 ||scopelight.com^
 ||scratch2cash.com^
 ||scripte-monster.de^
@@ -7985,7 +7976,6 @@ iklan300x250.gif|
 ||supportwaves.com^
 ||surfmusik-adserver.de^
 ||swordfishdc.com^
-||synonymoussticks.com^
 ||t.bawafx.com^
 ||t.carta.com^
 ||t.co^
@@ -8103,7 +8093,6 @@ iklan300x250.gif|
 ||trackuhub.com^
 ||traffic-exchange.com^
 ||traffic-redirecting.com^
-||traffic.focuusing.com^
 ||traffic.hyteck.de^
 ||trafficleader.com^
 ||trafficrouter.io^
@@ -8113,7 +8102,6 @@ iklan300x250.gif|
 ||traildelsfars.com^
 ||tranquilcanyon.com^
 ||travis.bosscasinos.com^
-||traytouch.com^
 ||trck.a8.net^
 ||trcklion.com^
 ||treasuredata.com^
@@ -8156,7 +8144,6 @@ iklan300x250.gif|
 ||visual-pagerank.fr^
 ||vivads.net^
 ||vivtracking.com^
-||volatilevessel.com^
 ||voluum.com^
 ||vpon.com^
 ||vrs.cz^
@@ -9235,6 +9222,7 @@ iklan300x250.gif|
 ||canadapost-delivery-reshedule.com^
 ||canadapost-paymentservice.com^
 ||capitalregionusa.fr^
+||capostdelivery.com^
 ||carac-terres.fr^
 ||carrfefour.fr^
 ||cartoonnetworkarabic.fr^
@@ -9308,6 +9296,7 @@ iklan300x250.gif|
 ||compe-nickel.fr^
 ||compufixshop.com^
 ||comsss-56.com^
+||con-trnroayl.online^
 ||conduit.com^
 ||confg.fr^
 ||conseil-coaching-jardinage.fr^
@@ -13826,6 +13815,7 @@ iklan300x250.gif|
 ||s.admulti.com^
 ||s.arclk.net^
 ||s.boom.ro^
+||s.clickiocdn.com^
 ||s.di.com.pl^
 ||s.domob.cn^
 ||s.dynad.net^
@@ -14073,6 +14063,7 @@ iklan300x250.gif|
 ||sunmaker.com^
 ||super-mario-deluxe.net^
 ||superbrewards.com^
+||superinterstitial.com^
 ||superlecker.info^
 ||support-ip.com^
 ||support.sweepstakes.com^
@@ -14202,6 +14193,7 @@ iklan300x250.gif|
 ||tradem.com^
 ||traffic.adxprts.com^
 ||traffic.adxprtz.com^
+||traffic.focuusing.com^
 ||trafficbee.com^
 ||trafficnetworkads24.com^
 ||traffprofit.com^
