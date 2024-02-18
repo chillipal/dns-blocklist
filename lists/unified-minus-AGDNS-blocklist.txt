@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2024-02-11T07:49:31.173Z
+! Last modified: 2024-02-18T07:49:36.910Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3395,7 +3395,6 @@
 ||healthguides.cnn.com^
 ||licensing.bitmovin.com^
 ||live-media-aka.warnermediacdn.com^
-||medium.ngtv.io^
 ||registry.api.cnn.io^
 ||s.cdn.turner.com^
 ||turnip.cdn.turner.com^
@@ -3417,6 +3416,29 @@
 ||rt.marphezis.com^
 ||sync.colossusssp.com^
 ||sync.kueezrtb.com^
+||product-cdn.liftoff-creatives.io^
+||preview.liftoff-creatives.io^
+||adexp.liftoff.io^
+||analytics.liftoff.io^
+||applovin-europe-rtb.liftoff.io^
+||appodeal-asia-rtb.liftoff.io^
+||appodeal-europe-rtb.liftoff.io^
+||appodeal-rtb.liftoff.io^
+||bigo-asia-rtb.liftoff.io^
+||bigo-europe-rtb.liftoff.io^
+||bigo-rtb.liftoff.io^
+||build-cdn.liftoff.io^
+||cdn.liftoff.io^
+||click4.liftoff.io^
+||click.liftoff.io^
+||impression-asia.liftoff.io^
+||impression-east.liftoff.io^
+||impression-europe.liftoff.io^
+||lb-rtb-europe.liftoff.io^
+||privacy.liftoff.io^
+||rtbnotify.liftoff.io^
+||i.l-new.inmobicdn.net^
+||cdn.liftoff-creatives.io^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -4503,13 +4525,6 @@
 ||tracking.lg.com^
 ||aic.cdpbeacon.lgtvcommon.com^
 ||snap.licdn.com^
-||adexp.liftoff.io^
-||build-cdn.liftoff.io^
-||cdn.liftoff.io^
-||click.liftoff.io^
-||impression-asia.liftoff.io^
-||impression-east.liftoff.io^
-||impression-europe.liftoff.io^
 ||s3.lightboxcdn.com^
 ||www.lightboxcdn.com^
 ||ad.lionmobi.com^
@@ -6379,6 +6394,7 @@ iklan300x250.gif|
 ||acridtwist.com^
 ||actionsplash.com^
 ||actualdeals.com^
+||actuallysheep.com^
 ||actuallysnake.com^
 ||actuallything.com^
 ||ad-balancer.at^
@@ -7017,6 +7033,7 @@ iklan300x250.gif|
 ||apu.samsungelectronics.com^
 ||aquaticanswer.com^
 ||aquaticowl.com^
+||ar1nvz5.com^
 ||arc1.msn.com^
 ||archswimming.com^
 ||ard.xxxblackbook.com^
@@ -7039,6 +7056,7 @@ iklan300x250.gif|
 ||audience.media^
 ||audienceinsights.com^
 ||audit.webinform.hu^
+||auto-bannertausch.de^
 ||automaticflock.com^
 ||avalonalbum.com^
 ||avenuea.com^
@@ -7131,6 +7149,7 @@ iklan300x250.gif|
 ||bestboundary.com^
 ||bestbuy.7tiv.net^
 ||bewilderedblade.com^
+||bhcumsc.com^
 ||bidbarrel.cbsnews.com^
 ||bidclix.com^
 ||bidclix.net^
@@ -7337,6 +7356,7 @@ iklan300x250.gif|
 ||coordinatedcub.com^
 ||copperchickens.com^
 ||copycarpenter.com^
+||copyrightaccesscontrols.com^
 ||cosmosjackson.com^
 ||count.west263.com^
 ||counted.com^
@@ -7403,12 +7423,15 @@ iklan300x250.gif|
 ||decisivedrawer.com^
 ||decisiveducks.com^
 ||decoycreation.com^
+||delegatediscussion.com^
 ||delicatecascade.com^
 ||deloo.de^
 ||desertedbreath.com^
 ||desertedrat.com^
 ||desiredirt.com^
 ||detailedglue.com^
+||detailedgovernment.com^
+||detectdiscovery.com^
 ||dewdroplagoon.com^
 ||didtheyreadit.com^
 ||digestiondrawer.com^
@@ -7419,14 +7442,17 @@ iklan300x250.gif|
 ||dispensablestranger.com^
 ||dist.belnk.com^
 ||distributionneck.com^
+||dk4ywix.com^
 ||dmp.mall.tv^
 ||dmtracking.alibaba.com^
 ||do-global.com^
 ||dockdigestion.com^
 ||docksalmon.com^
+||dogcollarfavourbluff.com^
 ||domaining.in^
 ||domainsteam.de^
 ||doubleclick.de^
+||doubtfulrainstorm.com^
 ||dpbolvw.net^
 ||dpu.samsungelectronics.com^
 ||dq95d35.com^
@@ -7442,6 +7468,7 @@ iklan300x250.gif|
 ||e.kde.cz^
 ||e37364.dscd.akamaiedge.net^
 ||eadexchange.com^
+||earthquakescarf.com^
 ||earthycopy.com^
 ||eas.almamedia.fi^
 ||ebayadvertising.com^
@@ -7453,6 +7480,7 @@ iklan300x250.gif|
 ||edaa.eu^
 ||edgexads.com^
 ||efficaciouscactus.com^
+||ejyymghi.com^
 ||elasticchange.com^
 ||elasticducks.com^
 ||elderlyscissors.com^
@@ -7470,13 +7498,16 @@ iklan300x250.gif|
 ||emaillinks.soundiiz.com^
 ||emebo.io^
 ||emodoinc.com^
+||emptyescort.com^
 ||encourageidea.com^
+||encouragingwilderness.com^
 ||endurableshop.com^
 ||energeticladybug.com^
 ||engage.tines.com^
 ||engage.windows.com^
 ||engine.espace.netavenir.com^
 ||engineertrick.com^
+||enormousearth.com^
 ||entercasino.com^
 ||enthusiasticdad.com^
 ||enviousthread.com^
@@ -7499,6 +7530,7 @@ iklan300x250.gif|
 ||exchangead.com^
 ||exchangeclicksonline.com^
 ||exchangedetail.com^
+||exclusivebrass.com^
 ||exhibitsneeze.com^
 ||exit76.com^
 ||exitexchange.com^
@@ -7644,6 +7676,7 @@ iklan300x250.gif|
 ||hexcan.com^
 ||hexusads.fluent.ltd.uk^
 ||heyos.com^
+||hfc195b.com^
 ||highfalutinroom.com^
 ||hightrafficads.com^
 ||hilariouszinc.com^
@@ -7687,13 +7720,13 @@ iklan300x250.gif|
 ||iadnet.com^
 ||icptrack.com^
 ||idealadvertising.net^
-||idevaffiliate.com^
 ||ientrymail.com^
 ||iesnare.com^
 ||ifa.tube8live.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
 ||illfatedsnail.com^
+||illustriousoatmeal.com^
 ||imagecash.net^
 ||images-pw.secureserver.net^
 ||imarketservices.com^
@@ -7742,6 +7775,7 @@ iklan300x250.gif|
 ||js.iterable.com^
 ||js.users.51.la^
 ||jsrdn.com^
+||jubilantglimmer.com^
 ||jungroup.com^
 ||justicejudo.com^
 ||k.iinfo.cz^
@@ -8582,6 +8616,7 @@ iklan300x250.gif|
 ||trafficz.com^
 ||traildelsfars.com^
 ||tranquilcanyon.com^
+||tranquilplume.com^
 ||tranquilside.com^
 ||travis.bosscasinos.com^
 ||traytouch.com^
@@ -8618,6 +8653,7 @@ iklan300x250.gif|
 ||unbecominglamp.com^
 ||understoodocean.com^
 ||untd.com^
+||untidyquestion.com^
 ||unusualtitle.com^
 ||unwieldyhealth.com^
 ||unwieldyimpulse.com^
@@ -10127,6 +10163,7 @@ iklan300x250.gif|
 ||hatdfg-rhgreh684.frge.io^
 ||hatrecord.ru^
 ||hcg82f2b.com^
+||healpublic.best^
 ||hefever.fr^
 ||hellomobile.fr^
 ||helpmedb.com^
@@ -11652,6 +11689,7 @@ iklan300x250.gif|
 ||acvs.mediaonenetwork.net^
 ||acvsrv.mediaonenetwork.net^
 ||ad-411.com^
+||ad-clicks.com^
 ||ad-feeds.com^
 ||ad-gbn.com^
 ||ad-plus.cn^
