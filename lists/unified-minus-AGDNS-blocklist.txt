@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2024-03-24T06:49:46.499Z
+! Last modified: 2024-03-31T06:50:06.314Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3442,6 +3442,7 @@
 ||justtrack-logs.justtrack.io^
 ||sdk-api.justtrack.io^
 ||prod.adjoe-programmatic.com^
+||argo.svcmot.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -6735,7 +6736,6 @@ iklan300x250.gif|
 ||ads.printscr.com^
 ||ads.program3.com^
 ||ads.psd2html.com^
-||ads.quasaraffiliates.com^
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
@@ -6925,7 +6925,6 @@ iklan300x250.gif|
 ||adv.donejty.pl^
 ||adv.freeonline.it^
 ||adv.hwupgrade.it^
-||adv.livedoor.com^
 ||adv.mpvc.it^
 ||adv.nexthardware.com^
 ||adv.webmd.com^
@@ -7445,7 +7444,6 @@ iklan300x250.gif|
 ||do-global.com^
 ||dockdigestion.com^
 ||docksalmon.com^
-||dogcollarfavourbluff.com^
 ||domaining.in^
 ||domainsteam.de^
 ||doubleclick.de^
@@ -8453,6 +8451,7 @@ iklan300x250.gif|
 ||supertop100.com^
 ||supply.colossusssp.com^
 ||supportwaves.com^
+||surfmusik-adserver.de^
 ||swankysquare.com^
 ||swimslope.com^
 ||swingslip.com^
@@ -9953,6 +9952,7 @@ iklan300x250.gif|
 ||denx.fr^
 ||department06.fr^
 ||deposit-cra2023.com^
+||deposit-et-1interac.help^
 ||depositphotos.fr^
 ||depottool.bond^
 ||details-update.com^
@@ -10955,7 +10955,6 @@ iklan300x250.gif|
 ||tradeinn.fr^
 ||traffic-bam.link^
 ||tranisere.fr^
-||transfer.sh^
 ||trauiqce.click^
 ||trioadvisor.fr^
 ||trk.wizzdeal.trade^
@@ -16513,6 +16512,8 @@ iklan300x250.gif|
 ||track.linkoffers.net^
 ||www.linkworth.com^
 ||ads.listingware.com^
+||click.adv.livedoor.com^
+||image.adv.livedoor.com^
 ||js.livehelper.com^
 ||newbrowse.livehelper.com^
 ||stats.livingsocial.com^
