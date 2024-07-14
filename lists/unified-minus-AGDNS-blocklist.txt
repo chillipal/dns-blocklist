@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2024-07-07T06:50:26.825Z
+! Last modified: 2024-07-14T06:50:16.272Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3450,6 +3450,14 @@
 ||twitterr.com^
 ||urdxh.com^
 ||mailsupport-24f7f1500ed129bc71f2ad9c06fe1e73.pages.dev^
+||aeventlog.beacon.qq.com^
+||astrategy.beacon.qq.com^
+||c.adsco.re^
+||4.adsco.re^
+||6.adsco.re^
+||frwrz661fasv.l4.adsco.re^
+||frwrz661fasv.n4.adsco.re^
+||frwrz661fasv.s4.adsco.re^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -5108,7 +5116,6 @@
 ||superad2.com.sg^
 ||u.superadbox.com^
 ||trk.superads.cn^
-||ads.superawesome.tv^
 ||ads.supplyframe.com^
 ||search.supplyframe.com^
 ||api.survicate.com^
@@ -6724,7 +6731,6 @@ iklan300x250.gif|
 ||ads.planet.nl^
 ||ads.pni.com^
 ||ads.powweb.com^
-||ads.ppvmedien.de^
 ||ads.printscr.com^
 ||ads.program3.com^
 ||ads.psd2html.com^
@@ -6997,11 +7003,11 @@ iklan300x250.gif|
 ||anstrex.com^
 ||anuncios.edicaoms.com.br^
 ||anxiousapples.com^
+||api.appmetrica.yandex.ru^
 ||api.intensifier.de^
 ||api.kameleoon.com^
 ||apolloprogram.io^
 ||app2.salesmanago.pl^
-||appmetrica.yandex.ru^
 ||aps.hearstnp.com^
 ||aptabase.com^
 ||apture.com^
@@ -7613,7 +7619,6 @@ iklan300x250.gif|
 ||illustriousoatmeal.com^
 ||imagecash.net^
 ||images-pw.secureserver.net^
-||imarketservices.com^
 ||img.prohardver.hu^
 ||imgpromo.easyrencontre.com^
 ||immensehoney.com^
@@ -7665,6 +7670,7 @@ iklan300x250.gif|
 ||klclick1.com^
 ||kliks.nl^
 ||kmpiframe.keepmeposted.com.mt^
+||knitstamp.com^
 ||knottyswing.com^
 ||kompasads.com^
 ||kpu.samsungelectronics.com^
@@ -7977,6 +7983,7 @@ iklan300x250.gif|
 ||previouspotato.com^
 ||prf.hn^
 ||priceypies.com^
+||pricklydebt.com^
 ||priefy.com^
 ||primetime.net^
 ||privatecash.com^
@@ -8072,6 +8079,8 @@ iklan300x250.gif|
 ||reklamdsp.com^
 ||rememberdiscussion.com^
 ||remox.com^
+||report-partners.appmetrica.yandex.net^
+||report.ap.yandex-net.ru^
 ||republika.onet.pl^
 ||resonantbrush.com^
 ||resonate.com^
@@ -8257,6 +8266,7 @@ iklan300x250.gif|
 ||sulkycook.com^
 ||summerobject.com^
 ||sumo.com^
+||superawesome.tv^
 ||superficialsquare.com^
 ||supertop100.com^
 ||supply.colossusssp.com^
@@ -8373,7 +8383,6 @@ iklan300x250.gif|
 ||tracker.mmdlv.it^
 ||tracker.vgame.us^
 ||tracking.1-a1502-bi.co.uk^
-||tracking.1-kv015-ap.co.uk^
 ||tracking.21-a4652-bi.co.uk^
 ||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
@@ -16271,6 +16280,7 @@ iklan300x250.gif|
 ||bbcdn-tag.ibillboard.com^
 ||hits.icdirect.com^
 ||adsrv2.ihlassondakika.com^
+||ads.imarketservices.com^
 ||ads.imeem.com^
 ||stats.immense.net^
 ||ads.imguol.com^
