@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2024-09-01T06:48:49.917Z
+! Last modified: 2024-09-08T06:49:11.965Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3291,7 +3291,6 @@
 ||logs.hotstar.com^
 ||service.hotstar.com^
 ||settings-analytics.hotstar.com^
-||videoads.hotstar.com^
 ||vs.hotstar.com^
 ||analytics.shein.com^
 ||analytics.shein.co.uk^
@@ -3379,7 +3378,6 @@
 ||run.cntxtfl.com^
 ||live-manifests-lln.warnermediacdn.com^
 ||live-manifests-aka.warnermediacdn.com^
-||logs.browser-intake-datadoghq.com^
 ||cpm.didna.io^
 ||hb.minutemedia-prebid.com^
 ||pbs.nextmillmedia.com^
@@ -3463,6 +3461,9 @@
 ||k-ring.msedge.net^
 ||hb.yellowblue.io^
 ||gtrack.kueezrtb.com^
+||analytics.intelliscapesolutions.com^
+||1000fapvids.online^
+||ddbca.localmeets.link^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -4836,9 +4837,6 @@
 ||api.perzonalization.com^
 ||cdn.perzonalization.com^
 ||cdn.petametrics.com^
-||query.petametrics.com^
-||query-us-east1.petametrics.com^
-||query1.petametrics.com^
 ||ads.phonepe.com^
 ||ads-static.phonepe.com^
 ||phunware.com^
@@ -4850,7 +4848,6 @@
 ||trackdat.pinsightmedia.com^
 ||ads.pinterest.com^
 ||ct.pinterest.com^
-||pub.pixels.ai^
 ||placed.com^
 ||ads.placeiq.com^
 ||stats.playrix.com^
@@ -5193,7 +5190,6 @@
 ||id.tinypass.com^
 ||sandbox.tinypass.com^
 ||ad-exchange.toast.com^
-||adlc-exchange.toast.com^
 ||aamt.today.com^
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
@@ -6698,7 +6694,6 @@ iklan300x250.gif|
 ||ads.muslimehelfen.org^
 ||ads.mvscoelho.com^
 ||ads.myadv.org^
-||ads.nccwebs.com^
 ||ads.ndtv1.com^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
@@ -7686,7 +7681,6 @@ iklan300x250.gif|
 ||leadclick.com^
 ||leadinfo.net^
 ||leadingedgecash.com^
-||leadplace.fr^
 ||leadspace.com^
 ||leaplunchroom.com^
 ||leftliquid.com^
@@ -8220,7 +8214,6 @@ iklan300x250.gif|
 ||spinnaker-js.com^
 ||spirebaboon.com^
 ||sponsorpro.de^
-||sponsors.thoughtsmedia.com^
 ||spookysleet.com^
 ||spot.fitness.com^
 ||spotlessstamp.com^
@@ -8390,7 +8383,6 @@ iklan300x250.gif|
 ||tracker.metricswave.com^
 ||tracker.mmdlv.it^
 ||tracker.vgame.us^
-||tracking.1-a1502-bi.co.uk^
 ||tracking.21-a4652-bi.co.uk^
 ||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
@@ -10559,6 +10551,8 @@ iklan300x250.gif|
 ||recevoirlatntn.fr^
 ||recover-subscription.com^
 ||redeastbay.com^
+||redelivercadpost.com^
+||redelivtls.online^
 ||redf.fr^
 ||redline-boutique.fr^
 ||redrocks.fr^
@@ -13043,6 +13037,7 @@ iklan300x250.gif|
 ||feeds.videosz.com^
 ||feeds.weselltraffic.com^
 ||fejezet.com^
+||felix.data.tm-awx.com^
 ||fepete.ch^
 ||fervortracer.com^
 ||ffxitrack.com^
@@ -18785,6 +18780,7 @@ iklan300x250.gif|
 ||rhtag.com^
 ||c.securepaths.com^
 ||www.securepaths.com^
+||srvpub.com^
 ||adr.adplus.co.id^
 ||www.admixxer.com^
 ||clkoffers.com^
