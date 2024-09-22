@@ -1,7 +1,7 @@
 !
 ! Title: @chillipal consolidated block list minus ADGuard DNS hosts 
 ! Description: Consolidated block List
-! Last modified: 2024-09-15T06:49:04.848Z
+! Last modified: 2024-09-22T06:49:16.260Z
 !
 !
 /mkt[0-9]{3,}\.com/
@@ -3464,6 +3464,12 @@
 ||analytics.intelliscapesolutions.com^
 ||1000fapvids.online^
 ||ddbca.localmeets.link^
+||westus-0.in.applicationinsights.azure.com^
+||default.exp-tas.com^
+||api.qub.ca^
+||commentaires.qub.ca^
+||indicedebonheur.com^
+||ads-static.phonepe.com^
 ||analytics.163.com^
 ||crash.163.com^
 ||iad.g.163.com^
@@ -4838,7 +4844,6 @@
 ||cdn.perzonalization.com^
 ||cdn.petametrics.com^
 ||ads.phonepe.com^
-||ads-static.phonepe.com^
 ||phunware.com^
 ||adsdk.picooapps.com^
 ||v8.analytics.pinsightmedia.com^
@@ -5203,7 +5208,6 @@
 ||collector-main.trafficmanager.net^
 ||analytics.tresensa.com^
 ||trialpay.com^
-||ads-router-noneu.truecaller.com^
 ||ads5-noneu.truecaller.com^
 ||pushid-noneu.truecaller.com^
 ||deviceid.trueleadid.com^
@@ -6552,6 +6556,7 @@ iklan300x250.gif|
 ||ads.activestate.com^
 ||ads.administrator.de^
 ||ads.adred.de^
+||ads.adsbtc.fun^
 ||ads.adstream.com.ro^
 ||ads.advance.net^
 ||ads.alive.com^
@@ -7791,6 +7796,7 @@ iklan300x250.gif|
 ||mediascale.de^
 ||mediaserver.bwinpartypartners.it^
 ||mediasmart.io^
+||mediasquare.fr^
 ||mediatext.com^
 ||mediax.angloinfo.com^
 ||mediaz.angloinfo.com^
@@ -7800,6 +7806,7 @@ iklan300x250.gif|
 ||megastats.com^
 ||meltmilk.com^
 ||memorizeneck.com^
+||merequartz.com^
 ||messagenovice.com^
 ||metajaws.com^
 ||metrics.articulate.com^
@@ -7918,6 +7925,7 @@ iklan300x250.gif|
 ||owlsr.us^
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
+||paa-reporting-advertising.amazon^
 ||pagead.l.google.com^
 ||pagerank-ranking.de^
 ||pageranktop.com^
@@ -8295,7 +8303,6 @@ iklan300x250.gif|
 ||t.visitorqueue.com^
 ||t.x.co^
 ||tag-demo.mention-me.com^
-||tag.links-analytics.com^
 ||tag.mention-me.com^
 ||tagtoo.com^
 ||tagular.com^
